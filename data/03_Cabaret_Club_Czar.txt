@@ -1,0 +1,406 @@
+Cabaret Club Czar
+Majima's Business features him running a Cabaret Club in Sotenbori, hoping to bring the struggling establishment back to its original level of prestige and to dethrone the Five Stars; a group of cabaret clubs that are poised to dominate the Sotenbori nightlife.
+
+First, a few notes on cabaret clubs themselves, also known as "hostess clubs". The concept was originally derived from bars and taverns. In a Japanese bar, a hostess was simply someone employed by the bar who would make sure the guests are having a good time, and this would inevitably lead to engaging in polite and sometimes flirtatious conversation.
+
+At some point, the Japanese in their efficiency decided that having bigger clubs with more hostesses allowed multiple types of customers to be served by multiple types of hostesses given what they find pleasing. The "Grand" in this game is an example of a full cabaret, much like a Western concert hall or theater, with acts on stage, a large hall, and a fair-sized stable of hostesses to service the customers.
+
+The cabaret clubs of modern Japan are the result of some genius realizing that guests weren't coming to the clubs for the alcohol or the shows; they were coming for the ladies. Enter the modern cabaret club, where the process is distilled down to the guest (or group of guests) being paired up with hostesses from the moment they enter. These hostesses will sit down with them at their table and light cigarettes, pour drinks, sing karaoke, and engage in flirtatious conversation in order to keep their customers entertained. Sometimes, the hostesses are expected to go on paid dates outside the club with their regular customers. This is the point where the service starts to veer towards "sex work", but not explicitly. Officially, it's part of the Japanese "water trade" and can be considered a step below regular sex work.
+
+In past games, Kiryu and other characters would spend time with hostesses as a sort of dating sim. In this game, Majima runs the show from behind the scenes. Your goal is to provide the ultimate experience: match your hostesses up with your clients, make sure they're attended to, and see them on their way with a smile and a bow.
+__________________________________________________________________________
+Basics of a Cabaret Club
+You'll be thrown into your first shift as part of the story, but I'll explain everything from the beginning here. Speak to Youda (not the Muppet Jedi) and you'll access the main menu of Cabaret Club Czar.
+
+Menus -
+Prepare to Open - From here you can set up which of your hostesses are on shift:
+Club Status - Check on your standings. You can also see this on the Business screen on the Pause Menu.
+Hostess List - View your bullpen of lovelies.
+Special Training - Train your Platinum Hostesses to increase their levels.
+Makeover - Change your Platinums' appearance to adjust their "Looks" stats.
+Cast on Duty - Change which hostesses work the coming shift.
+Open for Business - Open the club for a shift. From here you pick the area you'd like to cater to.
+Rival Battles - Once your number of fans match those of the club you're currently battling against, you can engage in one of these in order to have a battle to see who can pull in more customers. If you win, you dethrone the club and get their number one hostess as a new Platinum.
+Help - Brings up the tutorial that reminds you of what you need to do to go the distance. Or you can read all this stuff I've provided you.
+When you access the Hostess List, you'll see each hostess has a number of values associated with her. At the very top above her profile picture is her rank as a hostess, which is pre-assigned and never changes. The ranks are Bronze, Silver, Gold, and Platinum. These are general indicators of their capabilities; a Gold level hostess will almost always do better than a Silver, and so on. Platinum hostesses are special in a few ways. For one, you can only get more Platinums as part of the progression through the business minigame, not any other way. For another, you can micromanage Platinums in giving them Special Training (described below) as well as changing their appearance through Makeovers. Platinums are your aces in the hole, and should be at the forefront of Rival Battles when you initiate them.
+
+Hostess Statistics -
+In the Hostess List, look to the right of the portrait to see the hostess' experience level. This starts at one and increases as they get sales, which are treated as raw experience towards the next level. The level cap for hostesses is 30, except for Platinums, who cap at 40.
+
+Below her portrait is a round colored face denoting the hostess' current mood. The more happy a hostess appears, the more she can work before needing a break. While you can track a hostess' mood using her abilities and how spent she is there, this mood is ultimately what you need to be focused on, as I've seen hostesses with rather high HP still being in a middling or lousy mood. When you see blue or worse, it's time to bench your hostess for the next shift and put another in her place. If you force a hostess to work when they're in a bad mood, they make take a personal day on you and you'll not be allowed to use them for the next shift.
+
+Next to the mood marker is the hostess' salary. This is how much it costs to get her on the floor for a shift. As she gains in level, her salary goes up (as it should), but it's never something that I'd consider cost prohibitive, and if you're doing well, you're making back well over ten times that, so don't pay too much attention to it.
+
+Below that are your hostesses Abilities. There are five of these:
+
+HP - Hospitality Points. This is a hostess' basic stamina. The higher this level is, the longer she can go without her mood souring.
+Talk - The ability to carry on a conversation. Etsuko the Obatarian cannot be defeated in this stat.
+Party - Keeping the night exciting and lively. Miss Isobe, the goddess of the dance floor, is the queen here.
+Love - Making a customer feel appreciated and desired.
+Skill - Intelligence and wit. Harumi the science student is at the head of the class for this one.
+HP is obviously the stat that drains the most clearly, but the other stats can lower as well through use, so take notice. If a hostess' ability is running low, she won't perform as well for a customer who wants that particular ability. As a hostess gains in experience level, these abilities will slowly increase in maximum capacity.
+
+At the bottom of the card are a hostess' "Looks". Looks are divided into four categories and how well the hostess appeals to that category. The four are Sexy, Beauty, Cute, and Funny, and each are rated with a symbol. X means that they're awful at catering to that type. Triangle means they're an average level. Circle means they have a good appeal there. Double Circle means they excel in that regard. Looks cannot be adjusted through gaining experience levels, so for most hostesses, their Looks are locked in. For Platinum hostesses, you can adjust their looks through Makeovers. Scan through the dresses and accessories available if you wish to tweak your Platinums towards a particular look. Careful, though, because in most cases raising one look means lowering another. There's no perfect maximum here.
+
+Preparing Your Cast -
+So, you know what you're getting with each of your hostesses, and now it's time to set the stage. Go to Cast on Duty and use that to fill your on-duty roster. You have a maximum of eight slots, so make sure you take the time to recruit more hostesses to fill those gaps (check out The Hostess Brigade). As you assign your spots, make sure you take into account a few things:
+
+1.Their collective mood. You want your girls to last the night, so make sure as many are in the pink (happy face) as possible. Orange (content) is okay, and you can probably get by with one or two that are green (neutral). If any are blue (sad) or worse, take them off-duty. They'll be back to fighting form the next shift.
+2.A good mix of talent. On the right you'll see a grid denoting how much value of each Ability you have. You want to balance this as much as possible. If you focus too heavily on Talk, you won't be able to deal with someone asking for Love, for example. The only time you want to be unbalanced is if you're working in an area that likes a particular type (for example, Jupiter likes "Party" girls).
+3.Stagger the rankings. It's tempting to throw out all your Platinums and Golds at once, but remember that they'll all get tired at once, too, so be sure to throw in some Silvers and maybe a Bronze or two if your roster is still a bit thin.
+4.Account for the area you're going to be going into. Each area has their own likes and clientele, so you'll have to adjust accordingly:
+Mars Area is neutral and random, so just be balanced.
+Jupiter Area likes Sexy and Party. Miss Isobe will do very well here.
+Mercury Area says they like "long sessions", but I've found that they also really like Skill, so Harumi does really well.
+Venus Area likes Talk and Love. Etsuko will do great, here.
+Moon Area mostly consists of Wealthy and Mega-Rich types, so they'll be very picky. This is where having built up your Platinums pays off.
+Club Action! -
+Your cast is in place, so let's "Open For Business" by selecting it on the menu. From there, you'll select the area you want to focus on. In the beginning, you'll just have the Club Mars area, but once you oust them, newer and more difficult areas will open up that will lead to much greater returns.
+You'll begin the night with introductions and shift to the active business phase, where timing is key. You'll see the six tables in the club as icons, and your cast lined up on the left. As a customer enters, you'll see a countdown at the table he'll be placed at. Once he's at the table, move the cursor to that table and you'll see what he's looking for in the table icon itself and down at the bottom of the screen. Your objective is to press Confirm on that table, pick a hostess from your roster, and match his wants to her strengths.
+
+I will say right here that once you "select" something (a table or a hostess), time stops so you can relax and evaluate what you want to do, so there's no need to panic and rush your decisions.
+
+The easiest way to match a hostess to the customer is to look at the customer's face marked on the table once you highlight a prospective hostess. If you see a pink happy face, it's an ideal match and you're good to send the girl out there. During active time, you have about ten seconds from when the customer sits to assign a hostess, otherwise, they'll get bored and leave, so make sure you select something to stop the clock for a moment.
+
+As a general rule, what the customer is looking for in Ability supersedes what he's looking for in Looks, so if you have a customer looking for Talk and Sexy, he'll be more happy if you focus on Talk rather than Sexy.
+
+Now, once you've played for a while and figured out how to make customers happy, the next important thing is to look at their relative wealth. This comes in four ranks: Poor, Average, Wealthy, and Mega-Rich. A customer with higher wealth tends to be more picky, and will be harder to please, so perhaps once you get very skilled hostesses that you save them for these more discerning customers. If you mess up, you should also know that you can switch hostesses at any time, so if your best Partier is on an Average customer and a Mega-Rich walks in looking to party, you can throw a lesser girl on the Average guy to free up your best Partier for the new customer. Richer customers will throw out more money (you'll note the bills flying). Also, rich customers may get a favorite hostess. Watch for, instead of "Talk, Love, etc." you see a hostess' name. You've got a big cash cow there, so take advantage of that, even if it means switching the hostess off from someone else.
+
+The hostess will be paired with the customer and a timer will tick down as a red circle beneath the table icon. From here she'll largely take over on her own working her magic, but she will sometimes try to get your attention and you'll see a "Help, please!" window above the table icon. Move your cursor to that table and press the Zoom button to analyze the situation. At this point, you need to watch her hands as she's sending you a signal. Here's what all the signals mean:
+
+Twists her hands like she's wringing out a towel - Towel
+Holds a finger and thumb in an "L" shape - Guest Glass
+Holds out two hands flat near her waist - Menu
+Holds up her hand in a "C" shape - Ladies' Glass
+Inverts her hand and sticks out her pinky and thumb - Refill Ice
+Shapes her hands into a bowl outline and curls her fingers - Swap Ashtray
+If you wait a second, you'll get a little bit of text explaining the signal. If you don't respond or give the wrong response, the customer's mood may drop or the hostess may lose HP. If you get it right before getting the text, you'll get a "bonus order", the mood will improve, and your hostess' HP will refill a good ways.
+
+Sometimes trouble will occur at a table. You're more likely to get this if you have a bad pairing and your customer is dissatisfied. When a hostess is in trouble, she'll send a message of "Trouble!". Select the table and Zoom in and you'll have four options to choose from:
+
+Scold girl - The hostess' HP is lowered, but the customer's mood improves, and he might stay.
+Give apology gift - Spend 100,000 yen to improve the customer's mood, hoping he'll stay.
+Protect girl - Restores the hostess' HP, but the customer will likely leave if he's angry. If he's just sad, things may improve.
+Send guest home - Guest leaves with mood lowered.
+If you don't respond, your customer will leave in a bad mood and the hostess' HP will drop.
+
+Once the timer empties for a hostess and client, you'll get the notification of "Check, please!". Go to that table and press Zoom and you'll be given options on how to close out the service. Depending on the customer's mood, you could have one of two sets of options. If the customer is of a mood lower than pink face, then the options are:
+
+Extend session? - If the customer accepts, then they will remain and continue to spend money at a very high rate. If they don't, they'll simply leave. This is worth trying if they're in a very good mood, but it's not always that you'll get this to work. That said, there's no real penalty for trying.
+Give gift - If you want to improve the customer's mood and increase the fans you get, choose this to spend 100,000 yen on the customer.
+Thank you - A standard response if they're of decent mood. It will slightly improve it upon their leaving.
+Our apologies - If the customer is sad or angry, use this to improve their mood before they leave.
+If the customer is very satisfied, you may get this set of options instead:
+
+Give expensive gift - Spend 500,000 yen and the customer will leave with a very high opinion. You'll get a lot of fans this way.
+Gracious send-off - A standard response that improves their mood.
+Give girl a reward - Spend 200,000 yen and the hostess' HP will greatly restore.
+Praise girl - The hostess' HP will slightly restore. Use this if she's close to the top.
+If you don't respond, the customer will still leave relatively satisfied; you just will have missed the chance to get something else out of it.
+
+That's the flow in a nutshell. Of course, that's complicated enough just for one table, but you're dealing with six, so the challenge of this business is making sure you can bounce around and account for everyone's needs when they ask. You'll need to keep this up for three solid minutes (with pauses for transitions, close-ups, and cutscenes) to keep your customers as happy as possible so they spend as much as possible.
+
+There is one remaining weapon at your disposal: Sunshine Fever. As you gain sales, a purple bar in the lower right corner will increase. Once it passes the Lv.1 marker, you'll hear a "shing" and you'll be able to use Fever by pressing the indicated button. You can use it right away or allow it to build up to Lv.2 or Lv.3. Once you use Fever, certain tables will enter Fever Mode. This will cause the time remaining in the customer's visit to slow down, the hostess' HP to fill up, their customers to get extremely happy, and the money to flow like rain. How many tables become affected depends on the level. You get two tables at Lv.1, four at Lv.2, and six at Lv.3. There is something to be said for spending your Fever early if you only have so many customers, rather than sitting on it and hoping you get a full compliment of six.
+
+The whole point of this rigmarole is to make money. As a customer sits with a hostess, they will spend money at regular intervals, which is denoted with money flying off of them. How much they spend at each interval depends on their wealth. For example, a Poor customer will spend 20,000 per interval while a Mega-Rich customer will spend 200,000. How often those intervals occur depends on the mood of the table. An orange smile means they pay every three seconds. A pink smile means they pay every two seconds. A winking grin means they pay every second. The only way you can secure a winking grin is either through an extended session or through Fever. If a customer is angry, they won't pay at all until the mood improves.
+
+Min-Max Tip: I only learned about this late 2023. It doesn't get you much, but can give you a slight edge in a cabaret battle. Note that once you assign a hostess to a table it takes her a couple of seconds to sit down. That is, in fact, lost time that you can get back. The trick is that once you select your hostess, click on a table to stop the clock for a second. Your hostess will continue her animation to sit down, and once it's done, you can "unpause", and she'll already be earning money. It's not a LOT, but if the battles get tight, it may be just enough!
+
+End of the Shift -
+Once your three minutes are up, the big whistle sounds and everyone gets hustled out. At that point, you'll tally up the night's earnings. All sales will be pooled, and deductions will be made to cover the pay for your hostesses, as well as any gifts you gave out. You'll also add fans that you've earned to your total for that area.
+__________________________________________________________________________
+The Hostess Brigade
+Even as early as your second shift (after the first tutorial), you will want to get a large amount of hostesses to work with, because if you keep using the same ones, they'll become tired and will need breaks and you'll have gaps in the lineup. Fortunately, there are means to get more hostesses, and here's how the methods break down.
+
+First is how you performed in Chapter 4 when you went to Odyssey to get Nozomi on your team (remember that?) Depending on how well you did with that, you'll get between zero and three hostesses immediately after the first shift.
+Scouting on the street. It's low-level and humbling, but just roam around the streets looking for flashy women with speech bubbles above their head to talk to them. If you didn't get all three hostesses through the first method above, they'll be on the street as well so you can make that up. To enlist these women, they'll require a gift. They'll each tell you what they'd like, so go to Le Marche and buy them what they're looking for (finally a use for the place). You can only get Bronzes and Silvers through this method.
+CP Rewards. Under the "Business" section of the Temple are ten "Casting Call" rewards. After each one you purchase, a hostess will approach, apparently having received divine summons, and offer to work at your club. You can get four Golds, four Silvers, and two Bronzes through these and the output seems to be random, so make sure you get as many as you can this way.
+Substories. Certain substories will result in women who will want to work at your club. Some will join immediately upon the completion of the substory. Others will join after a friendship is maxed out if that's involved. If you completed the substory before you get access to the club, they'll be waiting around the corner to the right of Club Sunshine (between its entrance and the Temple) after your first shift. You can get four Golds and a Silver through this and they tend to have a very high amount of a particular Ability, so definitely put the work in for them.
+Defeating other clubs. For each club you defeat, you will get a new Platinum Hostess.
+Here's the list of hostesses, in the order they appear on the Hostess List in-game:
+
+Name	Rank	Expertise	Sexy	Beauty	Cute	Funny	How to Find
+Yuki	Platinum	Growth
+Potential	X	O	O	Δ	Available by default.
+Chika	Platinum	Talk, Skill	O	◎	Δ	X	Defeat Club Venus.
+Mana	Platinum	All Around	O	Δ	O	Δ	Defeat Club Moon.
+Ai	Platinum	Party, Love	Δ	Δ	O	O	Defeat Club Mars.
+Hibiki	Platinum	Love, Skill	◎	O	Δ	X	Defeat Club Mercury.
+Saki	Platinum	HP, Party	Δ	O	Δ	O	Defeat Club Jupiter.
+Miss Isobe	Gold	HP, Party	◎	Δ	X	O	Complete Substory #68 "Disco Dancing Goddess"
+Etsuko	Gold	Talk, Party	Δ	X	X	◎	Complete Substory #65 "The Obatarian Strikes"
+Dolly	Gold	Talk, Love, Skill	X	O	O	O	Max out Friendship with Doll Girl
+Unknown	Gold	HP, Talk, Love	Δ	Δ	Δ	◎	Max out Friendship with Simon the Mystery Man
+Seiko	Gold	Love	O	O	O	X	CP Reward
+Akina	Gold	Talk, Skill	Δ	O	O	Δ	CP Reward
+Koizumi	Gold	HP, Party	Δ	Δ	◎	Δ	CP Reward
+Shizuka	Gold	HP, Skill	O	◎	X	Δ	CP Reward
+Erranda	Silver	Party	X	X	O	◎	Complete Substory #63 "Errands on the Run"
+Kiyoko	Silver	Skill	Δ	Δ	O	Δ	CP Reward
+Junko	Silver	HP, Talk	O	O	Δ	X	CP Reward
+Shiho	Silver	HP	X	O	O	Δ	CP Reward
+Shinomi	Silver	Love, Skill	O	X	O	Δ	CP Reward
+Akemi	Silver	Talk, Skill	O	X	Δ	O	Scoutable
+Hiroko	Silver	HP, Love	Δ	X	O	O	Scoutable
+Harumi	Silver	Skill	X	O	O	Δ	Automatic if earned in Chapter 4, or scoutable
+Endo	Bronze	HP, Skill	Δ	Δ	Δ	Δ	Available by default.
+Namiko	Bronze	Party	O	X	X	O	Available by default.
+Kirara	Bronze	HP, Party	O	Δ	X	Δ	Automatic if earned in Chapter 4, or scoutable
+Ume	Bronze	All Around	Δ	O	X	Δ	Automatic if earned in Chapter 4, or scoutable.
+Marilyn	Bronze	Love	Δ	X	O	Δ	CP Reward
+Chizu	Bronze	HP	Δ	O	X	Δ	CP Reward
+Mitsuko	Bronze	Talk	X	Δ	Δ	O	Scoutable
+Fusae	Bronze	HP	O	O	X	X	Scoutable
+I don't intend to include numerical stats here: you can see those for yourself and they change as they level up anyway. Simply apply a good balance (the game gives you a helpful tool for that) for each shift and you'll be fine.
+
+The scoutable hostesses are in the following locations. Here's also where I list what you can give each of them.:
+
+Akemi - Found east of the southwest Save Point. Bring a ladies' wallet or watch with you.
+Hiroko - Near the Taxi Stand on East Shofukucho. Bring her a coat or a scarf.
+Harumi - Found near Tsuruhashi Fugetsu. Bring her a handbag.
+Kirara - Found just east of the Temple. Give her boots or sandals.
+Ume - On the west side of Sotenbori St. Bring her anything with leopard print.
+Mitsuko - At the south end of the Bunzaemon Outdoor Mall. Bring her a ring, bracelet, or necklace.
+Fusae - She's just down the stairs on the north end of Iwao Bridge. Bring her perfume.
+__________________________________________________________________________
+Preparing your Platinums
+I've said it before, but your Platinums are your aces in the hole. These are your superstars that have the potential to go sky-high in their earnings. To that end, there are two things you can do with them: Makeovers and Special Training.
+
+Makeovers -
+For Makeovers, the basic idea is to buy your hostess new outfits or accessories in order to modify her "Looks" (Sexy, Beauty, Cute, Funny). You'll get a menu of things to buy and as you hover over them, you'll learn how her Looks will be modified. Usually, one will be increased and another will decrease depending on the item. If you want my suggestion, I would only rely on this if you're going for a Rival Battle in an area that has a specific type. For example, in the Jupiter area, you'll realize that Yuki has an "X" on Sexy, but the customers really like Sexy, so get some accessories to push that look. It'll become more important as you rely more on your Platinums.
+
+Here's a table on each Platinum and sample outfits to aim them in a particular direction. In all cases, color of the dress, color of the hair, and makeup is unimportant. Most of these will get you double circles in three categories with the last one being an X. The ones that don't at least give you two double circles, an X, and a single circle.
+
+Hostess	Wardrobe	All but Sexy	All but Beauty	All but Cute	All but Funny
+Yuki	Dress	Lovely One Piece	Bodycon	Shoulder Pad Suit	Sexy Dress
+Hairstyle	Braided	Twin Pony Tails	Hostess	Short
+Hair Accessory	Tiara	Bunny Girl	Bunny Girl	N/A
+Earrings	Star	N/A	N/A	N/A
+Necklace	N/A	Triple	Chain	Triple Necklace
+Nails	Black	Pink	N/A	N/A
+Ring	N/A	N/A	N/A	Heart Ring
+Watch	N/A	Gorgeous	N/A	N/A
+Bracelet	N/A	Flower	N/A	Gold Bracelet
+Ai	Dress	Long Halter	Mini Skirt Dress	Shoulder Pad Suit	Sexy Dress
+Hairstyle	Double Buns	Princess Curls	Hostess	Curly Updo
+Hair Accessory	Tiara	Bunny Girl	N/A	N/A
+Eyeglasses	N/A	Round	N/A	N/A
+Earrings	N/A	Circle	N/A	Circle
+Necklace	Elegant	Triple	Chain	Triple
+Nails	N/A	Pink	N/A	N/A
+Ring	Flower Ring	N/A	N/A	Heart
+Bracelet	N/A	N/A	N/A	N/A
+Saki	Dress	Chinese Dress	Mini Skirt Dress	Shoulder Pad Suit	Sexy Dress
+Hairstyle	Standard	Standard	Hostess	Short
+Hair Accessory	Tiara	Bunny Girl	Bunny Girl	N/A
+Earrings	Active Heart	N/A	N/A	Circle
+Necklace	N/A	Triple	N/A	Triple
+Nails	N/A	Pink	N/A	N/A
+Ring	N/A	N/A	N/A	Heart
+Watch	Simple Watch	N/A	N/A	N/A
+Bracelet	N/A	Flower	N/A	N/A
+Hibiki	Dress	Lovely One Piece	Cute Idol	Shoulder Pad Suit	Yuki's Dress
+Hairstyle	Braided	Twin Pony Tails	Standard	Princess Curls
+Hair Accessory	Tiara	N/A	Bunny Girl	Tiara
+Earrings	Star	Gaudy Rings	Cross	Pearl
+Necklace	N/A	Chain	N/A	Triple
+Nails	N/A	Rainbow	N/A	Pink
+Ring	Flower	N/A	N/A	N/A
+Bracelet	Onyx	Flower	N/A	Pearl
+Chika	Dress	Lovely One Piece	Mini Skirt Dress	Shoulder Pad Suit	Sexy Dress
+Hairstyle	Double Buns	Twin Pony Tails	Princess Curls	Short
+Hair Accessory	Tiara	Bunny Girl	Bunny Girl	N/A
+Eyeglasses	N/A	N/A	Imported Sunglasses	N/A
+Earrings	Star	Red Apple	N/A	Circle
+Necklace	N/A	Brilliant	N/A	N/A
+Nails	N/A	Red	N/A	N/A
+Bracelet	N/A	Gold	N/A	N/A
+Mana	Dress	Lovely One Piece	Mini Skirt Dress	Shoulder Pad Suit	Lovely One Piece
+Hairstyle	Standard	Standard	Hostess	Curly Updo
+Hair Accessory	Tiara	Bunny Girl	N/A	N/A
+Eyeglasses	Round	N/A	Imported Sunglasses	N/A
+Earrings	Star	Red Apple	N/A	Circle
+Necklace	Pearl	Brilliant	N/A	Chain
+Nails	N/A	Red	N/A	N/A
+Ring	Flower	N/A	N/A	Heart
+Bracelet	Onyx	N/A	N/A	Gold
+Special Training -
+Special Training is basically going one-on-one with the hostess to give her more experience, which is applied directly to her Level as if she had just worked a shift. The better the two of you perform during this training, the more experience she'll get. I say "the two of you", but how well she does is pretty much entirely on Majima. With that in mind, I've documented how to perform "Perfect Lessons" on all the Platinums.
+
+The first series of trainings are always "Customer Service". This is similar to conversation in previous Yakuza games where you were the customer speaking to the hostess. Quite simply, you'll start talking, eventually you'll have two or three things to choose from, and you'll have to pick the right thing to say so her Heart Gauge fills. For the sake of brevity, I've distilled everything down to the four responses you have to give (a much easier thing to navigate than what I did for my Yakuza 5 guide).
+
+Other trainings include singing Karaoke, going to the Disco, or engaging in various other minigames. These simply require you to perform well in these minigames to get a Perfect Lession out of them.
+
+Here are all the trainings, sorted by hostess:
+
+Yuki -
+Training	Response 1	Response 2	Response 3	Response 4
+Customer Service 1	"Bonsai?"	"Try to compliment them."	"Older gents, huh?"	"Y'know, I'm a man too."
+Customer Service 2	"I think I get you."	"A club needs variety."	"You'd figure it out."	"Those are last names..."
+Customer Service 3	"I like engawa."	"That'd be great."	"Imagine they're me."	"You're workin' hard."
+Customer Service 4	"Bonsai."	"They were clueless."	"I'll work ya hard!"	"A lady needs sleep."
+Date: Karaoke	Get 90+ points on both songs.
+Date: Disco	Get three stars dancing.
+Customer Service Final	"You've come a long way."	"I'm there for ya."	"The love of your life."	"T-Take care of him."
+Ai -
+Training	Response 1	Response 2	Response 3	Response 4
+Customer Service 1	"Wanna go together?"	"A massage, maybe."	"I'm glad you're here."	"Just ignore 'em.
+Customer Service 2	"Old guys fall for ya?"	"Part of the job."	"You were being real."	"That's cute."
+Date: Disco	Get three stars dancing.
+Customer Service 3	"A girl like you."	"She's a good cook."	"Before I was born."	"Put a stop to it."
+Customer Service 4	"You're doin' great!"	"I feel better now."	"Money ain't everything."	"I wouldn't mind."
+Date: Pool	Beat Ai at Nine-Ball.
+Customer Service Final	"Welcome to Sunshine."	"Not on my watch!"	"Too many choices?"	"Wanna go together?"
+Saki -
+Training	Response 1	Response 2	Response 3	Response 4
+Customer Service 1	"Nah, those're cool."	"I love karaage!"	"Ya'd make a good mom."	"I'll come squash it."
+Customer Service 2	"Am I manly?"	"Make 'em spoil you."	"Ya made his day."	"I doubt he'd mind."
+Date: Disco	Get three stars dancing.
+Customer Service 3	"My drive."	"Work every day."	"Karaage."	"Yes."
+Date: Pool	Beat Saki at Nine-Ball.
+Customer Service 4	"Oh yeah, brothers."	"Keep me posted."	"I'll miss ya."	"Ya need a plan."
+Customer Service Final	"You're so girly!"	"Now you can study!"	"What if ya got hurt?"	"Big bro, huh?"
+Hibiki -
+Training	Response 1	Response 2	Response 3	Response 4
+Customer Service 1	"Use tough love."	"Don't overdo it."	"What kinda manga?"	"Don't worry."
+Customer Service 2	"Good deal."	"I like your voice."	"Baby me instead."	"That's cute."
+Date: Darts	Defeat Hibiki at Count-Up.
+Customer Service 3	"Kids don't like me."	"About women."	"Older women."	"They're fine."
+Date: Karaoke	Get 90+ points on both songs.
+Customer Service 4	"I worry about ya."	"He'll understand."	"I got my hands full."	"I'd try that."
+Customer Service Final	"It's too much."	"You're lucky."	"A guy with a big heart."	"Thank you."
+Chika -
+Training	Response 1	Response 2	Response 3	Response 4
+Customer Service 1	"A perfect fit."	"Opposites attract."	"Detours are nice."	"Try to smile."
+Customer Service 2	"Did ya get duped?"	"I don't get it."	"Don't change for him."	"That's your talent!"
+Customer Service 3	"A graceful woman."	"Especially shopping."	"Can't imagine it."	"You're important."
+Date: Pool	Beat Chika at Nine-Ball.
+Customer Service 4	"You're fine as is."	"How passionate."	"A family?"	"That's bad?"
+Date: Karaoke	Get 90+ points on both songs.
+Customer Service Final	"I have fun too!"	"Fun is the job."	"I am to you, Chika-chan."	"Don't quit!"
+Mana -
+Training	Response 1	Response 2	Response 3	Response 4
+Customer Service 1	"Gotta reward yourself."	"Sounds like you."	"Takes one to know one?"	"We'll buy tissues."
+Customer Service 2	"You weren't lyin'."	"Nothing's wrong."	"Get them grandpas."	"Okay."
+Customer Service 3	"I got someone."	"M for masochist."	"We'll crash."	"Go see a doctor."
+Date: Darts	Defeat Mana at Count-Up.
+Customer Service 4	"No pressure."	"That was brave."	"Improvin' themselves."	"Ya got serious!"
+Date: Disco	Get three stars dancing.
+Customer Service Final	"You elevate us!"	"It's psychological?"	"I'm a bit jealous."	"Everyone's important."
+As a quick note, if you're late in the game and all you have left to do is finish Special Training, and you don't care about money or Hostess levels at this point, I suggest going to Mars Area, staffing one cheap hostess, and just sitting there for the three minutes and not doing anything. You don't really lose because of it, and you can expedite the training.
+__________________________________________________________________________
+Business Partners
+Much like Kiryu scouting around for properties to buy, Majima has to look around Sotenbori to work on partnerships. Search the streets in the area you're working on and look for a "Look" prompt with the Confirm Button. Majima will mention the property and the amount of money it will take to partner up with them. Do so and you'll get more fans for that area. While it's smaller scale than Real Estate, it is a good source of fans to help build up the amount.
+
+Here are all the properties you can partner with, sorted by area:
+
+Club Mars Area -
+
+#	Name	Location	Cost
+1	Gandhara	Fill up the clerk's Friendship Gauge.
+2	Salon Rose	Just south of Club Mars.	2,500,000
+3	Cabaret Ron Ron	Just south of Izakaya Naniwa (see below)	4,300,000
+4	Salon Salary Man	On the east side of the Shofukucho West street, behind a parked black car.	2,000,000
+5	Sushi Eeyaro	Just east of the southeast Save Point.	1,700,000
+6	Rakuen-en	The same corner as the massage parlor Hogushi Kaikan.	1,100,000
+7	Iiko Massage	To the right of Club Mars, the stairs leading down.	3,600,000
+8	Izakaya Naniwa	This is on the southeast corner of the intersection of Shofukucho West and Hoganji Yokocho.	1,500,000
+9	Nukiya Massage	Travel due west of Club Sunshine and you'll hit this on the opposite side of the street.	3,000,000
+10	Konno's Meats	Southwest of Gandhara.	500,000
+
+Club Jupiter Area -
+
+#	Name	Location	Cost
+1	Smart Ball	Just east of the Save Point at the south end of the Bunzaemon Outdoor Mall.	8,000,000
+2	Bunza Theater	At the corner of the Bunzaemon Outdoor Mall, the business on a diagonal.	16,000,000
+3	Maido Diner	North of the Old Shogi Player, on the west side of the street, with five white blocks with lettering above the store.	2,500,000
+4	Kawachi-ken	At the south end of the Bunzaemon Outdoor Mall, across from the food stand. It has a red awning.	2,800,000
+5	Hyotan	The building west of the warehouse on the map. Access it near the southern Save Point.	4,500,000
+6	Misuta Realty	On the east side of Ashitaba Park, north of the five parked bicycles.	10,000,000
+7	Mikado	At the north end of Ashitaba Park with a yellow awning.	2,500,000
+8	Nishihori Rice	North of Hyotan. Has a sign on the ground outside that says "Coffee".	4,000,000
+9	Sushi Toki	From the eastern exit of Hoganji Yokocho, go northeast. It's got a recessed and traditional facade.	8,000,000
+10	Yakitori Kabachi	North of Nishihori Rice. It has a beach ball-like lantern hanging outside of it.	3,500,000
+
+Club Mercury Area -
+
+#	Name	Location	Cost
+1	Komian	Fill up the Chef's Friendship Gauge.
+2	Kokusai Ghetto	Southeast of the M Store on Shofukucho, on the southwest corner of the street intersection.	33,000,000
+3	Barber Ashitaba	South of Majima's Apartment. It has a spinning barber pole outside.	3,000,000
+4	Sushi Tsuru	East of Komian, with a blue sign on the street.	8,000,000
+5	M Zoku Sotenbori	The building west of Ebisu Pawn.	17,500,000
+6	Katsu Kin	The building south of the Casino.	8,000,000
+7	The Megalopolis	Just north of Maharaja, with blue lettering on its sign.	13,000,000
+8	Exodus	Just north of Maharaja, with a green awning.	9,500,000
+9	Hammurabi	West of Le Marche, with stairs going down into the building.	3,000,000
+10	Ryoshimaru	Directly south of Le Marche, with red lanterns hanging from its entrance.	5,000,000
+
+Club Venus Area -
+
+#	Name	Location	Cost
+1	SEGA HT LAND	Fill up Kyoko's Friendship Gauge.
+2	Fuguta	East of M Store Sotenbori.	14,000,000
+3	Gyu-masu	East of Dragon & Tiger.	22,000,000
+4	Sokyu Cinema	Between SEGA HI-TECH LAND and Dragon & Tiger.	26,000,000
+5	Cakes Marianne	West of Kani Douraku's entrance. There's a big ice cream cone out front.	15,000,000
+6	Winde West	West of SEGA HI-TECH LAND.	55,000,000
+7	Yakitori Torikko	West of Magutako.	5,000,000
+8	Death Curry	Just east of Tsuruhashi Fugetsu.	11,000,000
+9	Kabuki Theater	Between Tsuruhashi Fugetsu and the M Store.	42,000,000
+10	Crepe Cats	East of Magutako.	10,000,000
+
+Club Moon Area -
+
+#	Name	Location	Cost
+1	Shot Bar STIJL	Fill up the Bartender's Friendship Gauge.
+2	Fuguno Sakai	Just west of Kushikatsu Daruma.	87,000,000
+3	Yokohori Theater	From Zuboraya, go across the street and slightly west. There's a big banner above it.	185,000,000
+4	Meshibugyo	East of Zuboraya. There's a stand-up in front of it that you put your face through to take a picture.	67,000,000
+5	Tetsuji's Tripe	Just west of Club Moon.	100,000,000
+6	Ka-en Restauarant	Across the street from the Grand, with red lanterns hanging on their front.	56,000,000
+7	Hama-don	Across the street from the Grand, with a green welcome mat and a white block sign above the entrance.	20,000,000
+8	New Garcia	North around the corner from Kinryu Ramen.	25,000,000
+9	Namidazaka Bar	Between Kinryu Ramen and Daikoku Drugstore.	84,000,000
+10	Akantare	Just east of Daikoku Drugstore.
+__________________________________________________________________________
+Rival Battles with the Five Stars
+Looking to muscle out all other cabaret clubs before moving on to full cabarets, these are clubs run by some unscrupulous dudes. In order to supplant them as a dominant club, you'll need to earn a certain amount of fans per their area. You can earn fans by getting business partners and, of course, by running your club and making sales.
+
+Fans are actually more important than one might initially realize. They're not just a "score" that shows how well you're doing; you need a high fanbase or else the customers won't show. Note when you tackle new areas that the first night is always a little rough, but it keeps improving. That's the power of fans.
+
+The final event for club dominance is always a Rival Battle. Rival Battles are almost straight up just having a normal shift. The important thing is that you're competing for sales so you have to earn more than the rival. This wouldn't be too difficult, if it weren't for the fact that your opponents get to use special moves. Every so often they'll employ a dirty tactic to undermine what you're doing, such as causing customers to leave, lower the abilities of your hostesses, or lower the HP of your hostesses, so the point is to be savvy enough to capitalize on those setbacks and strong enough to power through them. Also, having more fans than your opponent is vital to victory. It's probably best to have a good 1.5x the amount of your rival.
+
+Here below are each of the events that will happen specific to area when you reach the requisite number of fans:
+
+Club Mars -
+500 Fans - Talk to Youda and ask him to take you to Club Mars. You'll fight three of the staff.
+1000 Fans - When you enter the club, there's a commotion outside. Beat up the three jerks terrorizing Ai.
+1500 Fans - Challenge to a Rival Battle. Hino will steal guests from you when he uses his Money Heat. I suggest popping Fever whenever you hit Lv.1, as your chances of having a full club at any one time are slim.
+Victory will earn you Ai as a Platinum Hostess, 300 million yen, and you unlock the Thug Style's fifth and sixth ranks. Furthermore, speak to Ai while she's hanging out in the club and she can change the interior for you. Lastly, you can now challenge the Club Jupiter, Mercury, and Venus areas.
+
+Club Jupiter -
+800 Fans - Talk to Youda and ask him to take you to Club Jupiter. He won't go but Yuki and Ai will join you.
+1500 Fans - Fight three losers that show up at the club.
+3000 Fans - Rival Battle. Kizuka will use Fever to drain your hostess' HP, so save your Fever until he uses it to get their HP right back up. Afterwards, you'll fight Kizuka outside.
+Victory will get you Saki as a Platinum Hostess, 1 billion yen, and you unlock Slugger Style's blocks on the right side.
+
+Club Mercury -
+1000 Fans - Talk to Youda to go check out Club Mercury. You'll fight three waiters when you get there.
+2000 Fans - Return to the club and you'll have a conversation with Hibiki of Mercury.
+4000 Fans - Rival Battle. Mizumura's skill during the battle will be to drain the general performance of the girls, so make sure you have Fever in stock for when he does so to refresh them.
+Victory will get you Hibiki as a Platinum Hostess, 1 billion yen, and you unlock Breaker Style's blocks on the bottom side.
+
+Club Venus -
+1500 Fans - Talk to Youda to go check out Club Venus. Club Venus comes to you instead and you'll discuss things with Kanehara.
+3000 Fans - Another conversation.
+5000 Fans - Yuki will be kidnapped, so you won't be able to use her until you complete the Rival Battle. Kanehara's skill to fight against will be one that's both taking guests and reducing the HP of hostesses, so beware. If you win the battle, you'll fight Kanehara in the streets, so bring your A-game of punching.
+Victory will get you Chika as a Platinum Hostess, 1 billion yen, and you unlock Slugger Style's blocks on the left side.
+
+Club Moon -
+2000 Fans - Talk to Youda to go check out Club Moon.
+5000 Fans - Kotomi will show up to take you to Tsukiyama so he can vaguely threaten you.
+10000 Fans - Rival Battle. One thing prevents this from happening. If your current story objective is at the Grand, this Rival Battle will not trigger. Advance in the story so the objective is not at the Grand. Before doing this, you should have most of your Platinums at at least level 30, and a couple of others maxed at 30. Have a shift at the Mars with your backup staff to give the all-stars a day off. Do some makeovers on your Platinums to have at least two "Looks" at a double circle level. Lastly, you'll probably want a good 15,000 fans before actually attempting, because you need the customers coming in. Tsukiyama's move is to steal customers and to drop the performance of hostesses. It's hard, but it can be done if you're diligent and get a good head start. Once you win, you'll fight Tsukiyama on the street.
+Victory will get you Mana as a Platinum Hostess, 10 billion yen, and you unlock Breaker Style's blocks on the top side.
+
+Furthermore, you'll be sent to the Grand for the final showdown against the mastermind. Defeat the four tough goons. As a result, Majima will realize the MAD DOG OF SHIMANO STYLE, his Legend Style. You'll also get Kotomi's video.

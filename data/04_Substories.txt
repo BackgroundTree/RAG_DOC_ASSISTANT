@@ -1,0 +1,508 @@
+Substories
+A long-standing tradition in the Yakuza series are substories. These are mini-dramas that you can engage in in order to help the populace of Japan in their lives. These substories are almost all entirely optional, and you'll have to seek them out in order to get involved. In addition to giving you fights to build yourself up, many substories will also lead to items that you could not otherwise get normally. Still others tie into Minigames or your Business.
+
+There are 100 substories in this game, but don't be off-put by the size of that number. Many other distractions in this game are also put into the substory menu, such as making friends with people in town and getting involved in training. Those tend to be really quick substories that just set up something else for later.
+
+Also, while you can mess up on substories in that you won't necessarily get the best items from them, you cannot "miss" substories in terms of completion or part of the story. All substories can be accessed at the very end of the game right up until you engage the final boss, so don't feel like you necessarily have to get them all done as they appear.
+
+Some games in the series have offered markers noting where substories are. While that's unavailable at the outset of this game, there is an accessory called the "Trouble Finder" that will put exclamation marks "!" in spots where they can be found. Also, once you begin a substory, if it has a second part that occurs elsewhere, you can find a "!" mark on your map to know where that spot is, even if you don't have the Trouble Finder.
+
+Substories are ordered in this guide by the chapter they become available. This may go without saying, but only the character available in that chapter can complete substories that become available in that chapter.
+
+Lastly, sharp-eyed viewers may notice that there's a problem with the numbering of the substories. Some numbers are missing, while others appear twice. That seems to be a problem that existed even in the first version of the game and they didn't bother fixing it for the localization for whatever reason. At any rate, I've given these the same numbers that are provided in the game.
+__________________________________________________________________________
+Overview
+Given the fact that this game breaks a tradition of marking substories on the map, I feel I should provide an easily referable overview on how the substories are broken apart, so that you, the player, know when to expect them easily, particularly if you're not in the mood to scroll through a big list of substories spoiling how to beat them.
+
+Normal - These substories are typical of the series. You'll come across someone on the street who needs help, and you can help them to solve the story. It may involve moving to new areas to continue or complete the story.
+Business - These are more or less normal substories, except they're intricately tied to your business. This is more obvious in the Cabaret Club Czar set but there are also a few that are specific to Real Estate Royale.
+Minigame - Substories tied to a particular minigame: Pocket Circuit, Telephone Club, or Disco. Usually these go through a progression of several substories.
+Friendship - These substories tend to go very quickly to completion, but after you complete it, you'll get a secondary goal of striking up a friendship with the person involved, measured by a bar that fills up. You can typically improve this friendship through partaking in their business or something similar. Maxing out the friendship will get you something extra, but it's not required for the sake of substory completion.
+Training - All Masters have their own substory, which is quite simply beginning their training. Once you start the training, the substory completes.
+Shakedown - Between the two characters, there are four members of the Mr. Shakedown tribe. Beating each of these guys once starts and completes their substory.
+And here's an easy-to-refer-to chart about when the substories appear, separated by character:
+
+Kiryu
+Chapter	Normal	Business	Minigame	Friendship	Training	Shakedown	Total
+2	2 4 6 7 8 9 12 17 24		28 29 30 36 37 38 39 40 41 42 43	46 47 50 51 52 53 54	89 90 91	92 93	32
+5	1 3 5 19 22 23	13 15 16 21	31 32 33 34 35 44 45	48			50
+6	10 11 18 25 26 27			49			57
+10	14 20						59
+Finale	94						60
+Majima
+Chapter	Normal	Business	Minigame	Friendship	Training	Shakedown	Total
+3	49 50 51 52 53 54 55 56 57 58 62 63 64 65			78 79 80 81 82	96	98 99	22
+4			66 67 68	77	95 97		28
+7		69 70 71 72 73 74		75 76			36
+8	59 60 61						39
+Finale	100						40
+Note that exactly when in the chapter these become available I haven't provided in the chart. Please refer to the greater list below for that information.
+
+The subsections in my guide document substories in the order of the chapter they become available. If you're near the end of the game and are looking to fill in the gaps on your list, please use the list below, click on the substory you're missing, and you'll be taken to that part of the guide:
+
+Kiryu
+#1 - The Visionary Fortune-teller
+#2 - Arakure Quest
+#3 - Passport To Pizza
+#4 - Kamurocho Undercover
+#5 - The Human Trafficking Ring
+#6 - Damned Yanki
+#7 - How To Train Your Dominatrix
+#8 - Password Protected
+#9 - The Show Must Go On
+#10 - Sugar Daddy
+#11 - The Shrink-Wrapped Dream
+#12 - Miracle on Tenkaichi Street
+#13 - The Tax Lady
+#14 - Destiny Calls
+#15 - Help Wanted!
+#16 - Help Wanted! Again...
+#17 - Underneath it All
+#18 - Beyond the Door
+#19 - Heir to the Family
+#20 - A Shining Example
+#21 - First Impressions
+#22 - A Watery Investment
+#23 - Miracle in Maharaja
+#24 - The Girl in the Video
+#25 - Postcard Rookie - Kiryu
+#26 - Postcard Pro - Kiryu
+#27 - Postcard Master - Kiryu
+#28 - Don't Dance Alone
+#29 - Technique to Die For
+#30 - Maharaja Showdown
+#31 - The Innocent Hook-up
+#32 - The Sexy Hook-up
+#33 - The Flirty Hook-up
+#34 - Sakura Shock
+#35 - Verbal Warning
+#36 - I Am Kazuma-kun
+#37 - The Rocky Road of Romance
+#38 - Gift of Love
+#39 - Suspicion of Perversion
+#40 - The Prodigious Racer
+#41 - The Woman They Call Professor
+#42 - The Greatest Glory
+#43 - The Fighter's Crown
+#44 - The Predator's Call
+#45 - A Mother's Touch
+#46 - The Stop-and-Search Specialist
+#47 - The Mushroom Merchant
+#48 - Kamurocho's Mr. Libido
+#49 - Kamurocho's Mr. Moneybags
+#50 - Pocket Circuit Fighter!
+#51 - Miho, Convenience Store Clerk
+#52 - Emiri, Mach Bowl Receptionist
+#53 - Sushi Gin's Chef
+#54 - Luka at SEGA HI-TECH LAND
+#89 - Bacchus' Training
+#90 - Kamoji's Training
+#91 - Miss Tatsu's Training
+#92 - Apex Predator
+#93 - A Dream Unfulfilled
+#94 - The Head of the Clan
+
+Majima
+#49 - From the Heart
+#50 - The Entertainer's Throne
+#51 - Rise of the Dragon
+#52 - Be My Boyfriend
+#53 - Man With a Stranger's Face
+#54 - Disciple of the New Order
+#55 - Calling the Future
+#56 - A Taxing Issue
+#57 - Crossed Words
+#58 - Stadium Jumper Strut
+#59 - Postcard Rookie - Majima
+#60 - Postcard Pro - Majima
+#61 - Postcard Master - Majima
+#62 - The 10 Million Drug Test
+#63 - Errands on the Run
+#64 - Toilet Talk
+#65 - The Obatarian Strikes
+#66 - Party at Maharaja
+#67 - Disco Transformation
+#68 - Disco Dancing Goddess
+#69 - Paternal Instincts
+#70 - A Moment Shared
+#71 - Of Love and Ramen
+#72 - The First Friend
+#73 - A Little Brotherly Love
+#74 - Dream Chaser
+#75 - Mystery Caller
+#76 - Sotenbori's Mr. Moneybags
+#77 - Sotenbori's Mr. Libido
+#78 - The Doll Girl
+#79 - Komian's Chef
+#80 - STIJL's Barkeep
+#81 - Gandhara's Clerk
+#82 - Kyoko at SEGA HI-TECH LAND
+#95 - Sparring with Komeki
+#96 - Fei Hu's Training
+#97 - Areshi's Training
+#98 - Play-Money Shakedown
+#99 - The Ultimate Plan
+#100 - Sotenbori in Peril
+__________________________________________________________________________
+Chapter 2 Substories
+All of these substories will only become available after Kiryu returns to his apartment for the night as part of the story. They open up the next morning, as he's looking for info on Tachibana Real Estate.
+
+#2 - Arakure Quest
+Outside the Don Quijote is a conspicuous line of people. Speak to the young lad at the end and he'll let you know it's a line-up for a hot new video game and he'll be getting the last copy available. What a trooper. Leave the area and come back and you'll see the kid being accosted by a no-goodnik who will take his game. Run down the alley towards Pink St. and you'll see that guy get counter-accosted. Now, hurry up Pink St. towards Taihei Blvd. and... I think we're getting the pattern here. Beat this guy down (mind his knife) and then head west along Taihei to find the yakuza guy near the save point. Ruin him (mind his GUN?) and you'll finally get the game back for the sprout. Your reward is a Sunburst katana.
+
+#4 - Kamurocho Undercover
+Go to Shellac in the Champion District and you'll see a guy in a newsboy cap sitting in the first seat. Try to sit at the further seat and you'll be shooed away. Once the scene plays out you'll learn about a gun trade operating out of the bar. Once you leave, walk away for a bit and then a marker will appear over Shellac on the map. Return to the bar and speak once again to the reporter. You'll head outside and beat up the gun dealer. Your reward for this is a 9mm Automatic Pistol.
+
+#6 - Damned Yanki
+To begin this, head south from Children's Park towards Mach Bowl. An odd old man/punk will run across your path, just as you cross Shichifuku St. Head further into Theater Square and you'll see some people gathered, and that same man off to the side. Speak to him and he'll ask you to teach his group how to really get in with the "yanki" style popular in Japan around this time. What you get as a result of these depends on how you answer. There are two good answers and one bad answer for every question. The good answers are: "Start your engines!" or "Hello in English", "Fighting every day" or "Rescuing puppies", and "The time you crushed a gang" or "Stay silent". If you get good answers for all three, you're rewarded with a Wild Shirt. If you only get two, you get a Charismatic Autobiography. If you only get one, you get the Charismatic Photo. Krazy Kyo will also become an advisor for your business once you get access.
+
+#7 - How To Train Your Dominatrix
+For some odd reason, you have to complete Substory #9 first to make this appear. Right near the Heroine Karaoke Bar, you'll see an obvious woman in an S&M getup. Approach her to hear her speaking to a custommer and then speak to the woman afterwards. Looks like Ayu needs some help in her line of work. First, deal with the jerks harassing her, then you'll head to the park (in view of children, because whatever) and the two of you will go through a role-play, with Kiryu as the submissive. You'll have to pick lines for Ayu to say. I've recently learned that there are a couple of ways to go about this. Here are the options for the responses:
+
+This first option is for being a successful dominatrix. First is "Who gave you permission to speak, pig!?". For the second you can pick whatever you like. For the third, "I bet you'd like that, you pervert!". Now, the kids show up, so use them and select "They're watching you get humiliated!". Ayu will get her groove back and you'll get a Fur Belly Warmer.
+Alternatively, you can choose to steer Ayu towards being more of a "tsundere" type. Select "It's not like I'm happy to see you or anything!" Secondly, again, it seems anything works. Third, "Gross! I'm the only who would do that for you!" When the kids arrive, "Keep your eyes on me, and me alone!" You'll create a whole new brand of dominatrix and will get a Collapsible Steel Staff as a reward.
+If you waffle in your direction, which is to say, if you choose a lame answer, a good answer, and a tsundere answer, you'll get a Toughness Z, but everything will largely wrap up the same way. The "Ayu Sakurai" video will be viewable at Gandhara. Also, once you get access to your Real Estate business, "Masochistic Man" will be hanging outside your office to join as an advisor.
+
+#8 - Password Protected
+In the Kamuro Shopping Area, go to the south end of the wider street to see two guys. One gives the other a password but Kiryu didn't pick up all of it. Talk to the merchant and he'll mention that you need the password. Head out the north end of the Shopping Area and speak to the guy who was just shopping there. He'll send you to find a woman named Monmon, who will be marked on your map on the east side of Taihei. Walk to up to her and say "Plans for today" and "Tomorrow's weather" and YOU FIGHT NOW. Beat down the four dudes (careful of their weapons) and Monmon will give you the password: "a movie date" and "rain at noon". Head back to the guy at the north end of the Shopping Area and give him the news. He'll go make a deal and give you a Broken M1985. Head back to the dealer. You'll actually have to type in the password, so tell him "Subotenuhigeukiro", and yes you have to capitalize the "S". This gives you access to this dealer as a shop with weapons and gear. Also, once you open the real estate business, Li Leung will want to join as security.
+
+#9 - The Show Must Go On
+Near the Shrine are a couple of guys chatting. Approach them and they'll mention their need for a producer. Or really, they just need someone to stand there and look like a producer. Agree to their proposition and you'll get a fancy costume change. During the course of the shoot, you'll be asked to do a few things. First, you'll have to give your greeting, and anything works fine. For the next part, you'll have to grab an "erasable". That's the food (because it can be erased from the scene by being eaten). Next, you'll be asked to "grocer" the food. Your response should be to "tilt it at an angle". Lastly, you'll be asked to "jeer" and "strike the set". That means to "remove the dish". If you get it all right, you'll receive a Magnetic Necklace. Get too many things wrong and you'll only get a Tauriner +. After all that, you'll have to fight the real producer and his cronies.
+
+#12 - Miracle on Tenkaichi Street
+You must first complete "The Show Must Go On". Head to the small lot near the western Akaushimaru south of Theater Square and you'll hear two guys talking about the American pop star, "Miracle Johnson". Sounds like one smooth criminal. Leave the area and come back once a marker appears on the map in that area and you'll find Papillon Kato, the director from before, who's shooting a "thrilling" music video. Anyway, agree to his request and, long story short, you'll have to protect Miracle from approaching hordes of zombies. I suggest using Beast Style as the zombies will swarm and their whole schtick is knocking you down, so it's best to grab a big weapon and use Beast to demolish them. As a reward, Miracle will offer you the choice of a black or white box. Choose black to get Silent Shoes, and choose white to get a Baseball Shirt. I suggest black because a Baseball Shirt can be bought very easily in town. Furthermore, once you start the real estate business, both Papillon Kato and Spining will want to join your business as managers and will be found waiting outside.
+
+#17 - Underneath It All
+Head east along Shichifuku St. starting from Maharaja and you'll come across a high school couple arguing. Talk to the young man afterwards and he'll mention that his girlfriend might be selling herself. Tragic. Head down to Senryo Ave., where the marker is, and you'll find Mina there. Speak to her. The dialogue choices you make are largely unimportant, but they get to the heart of the matter that Mina is involved in "burusera", where Japanese high school girls sell their used clothes to whoever is willing to buy. She'll mention Sachiko up by the Hotel District as being the ringleader, so you'll be looking for a long-haired girl wearing a school uniform with a white collar and a blue scarf, and she might be wearing a cardigan. Head up that way and you'll find a veritable gaggle of girls. Sachiko is the one near the plants on the west side of the street, with the blue scarf. Confront her. You'll have to choose all the options, but Sachiko will just tell you off. Walk away and a problem will show up. Deal with him and you'll close out the substory. Once you open the real estate business, Sachiko will want to join as a manager.
+
+#24 - The Girl in the Video
+After viewing three videos at Gandhara in Kamurocho, return and you'll see another customer. I won't spoil how this goes, because frankly... I don't want to, but agree to the guy's proposition. Anyway, looks like you're looking for a girl. I'll just tell you that she's hanging out at Kanrai. Once you spot her, head back to the front of Gandhara and let the man know. Go back to Kanrai and then you'll fight alongside him against a couple of ne'er-do-wells. Once you open your business, Video Boy will want to be security.
+
+#28 - Don't Dance Alone
+Dance three times at the Maharaja and you'll be approached by a goofy-looking fellow. He'll challenge you to a dance battle. Essentially you'll have to play Friday Night and beat him, and difficulty doesn't matter. You'll get as many chances as you need to win.
+
+#29 - Technique to Die For
+You must complete "Don't Dance Alone". Leave the Maharaja, return, and go to the bar to be approached by Maiko. She'll challenge you to a dance battle. Beat her at Queen of Passion. She's better than the first guy, so be wary.
+
+#30 - Maharaja Showdown
+You must complete "Technique to Die For", leave and return to Maharaja. You'll now see Ogita on the dance floor. This is your final dance battle challenge, and he's a tough customer. You'll have to shoot for extra steps and hit Fever at least twice. I suggest dancing on Normal instead of Easy, because he'll make more mistakes on Normal. Once you win, compliment Ogita and you'll get an Isobe Fan. Bye, Ogita! See you in Yakuza 5!
+
+Pocket Circuit Substory Builds
+Substory	36	37	38	39	40	41	42	43
+Tires	Slick Tires	Slim Tires Plus	Soft Tires Plus	Extra Spiked Tires	Super Soft Tires	Super Spiked Tires	Ultra Slim Tires	Ultra Spiked Tires
+Frame	Balanced Frame	Balanced Frame Plus	Extra Balanced Frame	Super Balanced Frame	Ultra Metal Frame
+Motor	High Torque Motor 2.0	Godspeed Motor
+Gears	Balanced Gears	Balanced Gears Plus	Boost Gears	Godspeed Gears Plus	Extra Godspeed Gears	Super Boost Gears
+Battery	High Speed Battery	High Capacity Battery	High Speed Battery	High Capacity Battery
+Suspension	None	Heavy Suspension
+Bumper	None	Bumper Plate
+#36 - I am Kazuma-kun
+After winning a couple of races in Pocket Circuit, you'll be introduced to Takuma-kun and Hideki-kun. Walk towards the shop booth in the Stadium and Takuma-kun will approach you. Accept his challenge to race. Defeat him to close the substory and get a Blue Bolt decal.
+
+#37 - The Rocky Road of Romance
+After completing "I am Kazuma-kun", head to Children's Park to find Takuma-kun and Hideki-kun. Hideki-kun's new friend shows up and she's a GIRL! Oh, the drama! Head back to the Stadium and find Hideki-kun, then wipe the floor with him on the Beginners' Cup.
+
+#38 - Gift of Love
+After completing "The Rocky Road of Romance", speak to Mika-chan and she'll challenge you for her "most important thing". This is where these substories start to get difficult. Defeat her using your Rookie's Race build and you'll receive a DRAG-ON car and a set of Boost Gears. I'd like to point out that after this point, being able to complete the next set of substories requires a bankroll in order to buy the necessary parts, so don't be afraid to leave this chain for a while until you can come back with much more money.
+
+#39 - Suspicion of Perversion
+After completing "Gift of Love", leave the stadium, come back, then head towards the Parts Shop. Your next challenge is against Satoru-kun. Use your Pro-Am build to beat him.
+
+#40 - The Prodigious Racer
+After completing "Suspicion of Perversion", it's time to meet the first of the Three Elites. First up is Sena-chan the Ace. Defeat her with your Experts' Race build. You'll get a Sunshine decal for the win.
+
+#41 - The Woman They Call Professor
+After completing "The Prodigious Racer", head to Earth Angel to challenge the next of the Elites: Harumi-chan the Professor. Defeat her with your Experts' Race build and you'll get a Cool Striker car and a Heavy Suspension.
+
+#42 - The Greatest Glory
+After completing "The Woman They Call Professor", it's finally time to defeat the last of the Elites: Kazuyoshi-kukn the Champion. Use your King of Speed Cup build against him to win. You'll get a Dark Purple decal for the victory.
+
+#43 - The Fighter's Crown
+After completing "The Greatest Glory" and completing all the races, Pocket Circuit Fighter will finally challenge you himself. Your setup is a special one and is listed above in the chart. The first two laps are where this is decided, because you will start to fly off as you reach the back, so be ready to tap the button but don't go overboard, because you'll likely have to hit it again on the jump. Do the same on the second lap. The third and fourth should be fine comparatively. Once you win, everyone will come by to congratulate you. You now have the ability to talk to anyone in the Stadium and challenge them specifically.
+
+#46 - The Stop-and-Search Specialist
+South of Gandhara Kamurocho, you'll see a cop standing around. Approach him and he'll ask to see your belongings. Pick something innocuous (like food or an energy drink) and he'll become your friend. To cultivate the friendship, continue to return to where he's standing. He'll do a "stop-and-search" in order to see if you're carrying something dangerous. Show him something normal to raise friendship. Showing him something dangerous (like a weapon) doesn't have any negative effects, but your Friendship won't raise. At certain times, you'll hear his story. Once the meter gets high enough, you'll have to fight off some bad guys harassing a nearby lady. You'll get a Sacrifice Stone as a reward, as well as the Nanase Otoha video clip. Lastly, once your business opens, Kikuchi will want to join as security.
+
+#47 - The Mushroom Merchant
+In the northeast part of town is Park Alley, which is just southwest of the taxi stand. At the end of it is a rotund fellow looking to sell mushrooms. After the conversation, you'll fight a dude. As a reward for saving him, you get an Enokitake and Kitajima as your friend. Buy his mushrooms to raise friendship. Once you buy enough to continue his little story, he'll thank you and leave the area. Leave yourself, then return to the same area later and you'll find some more uglies harassing him. Beat them up, then buy more mushrooms from him until he walks off to stock up. Leave and come back again, and now there are three guys to beat up. Offer him a new suggestion (try whichever you like), buy more mushrooms, then leave and come back once more. Now you have to beat up four guys from overseas and that will close out the Friendship quest. Once you open up the real estate business, the Mafia Boss will want to become security for you.
+
+#50 - Pocket Circuit Fighter!
+Head to the Pocket Circuit Stadium on the west side of Shichifuku St., enter and speak to Pocket Circuit Fighter, then speak to him again and learn the tutorial to Pocket Circuit. This will complete the substory and you'll get PCF as your friend. To increase friendship with him, beat successive races and you'll learn his story after each race. This also ties in with the Pocket Circuit series of substories as well. After beating the Rookies' Race, PCF will run off. You'll see him on the east side of Nakamichi St. Speak to him and tell him "The kids are waiting for you" to get him back to the Stadium. Once you beat the Champions' Cup, he'll run off again. Go find him in Public Park 3. You'll get the Devil Killer car as a reward for maxing out the Friendship. Also, you'll be able to make your own custom tracks to race on.
+
+#51 - Miho, Convenience Store Clerk
+Buy something at the Poppo on Tenkaichi St. and Miho will introduce herself and you'll get her as a friend. Keep buying things from her and at 50% friendship, she'll ask what might help attract people to the store. Offer a suggestion, then leave and come back. If she uses your suggestion, you'll get a Berserker Charm. Also the correct answer to her next question is "Miso Cutlets" and you'll get a Miso Cutlet Lunch Set, as well as Miho's video. This will also allow you to get the property for free once you start your real estate business.
+
+#52 - Emiri, Mach Bowl Receptionist
+I'm not sure exactly what's required to get Emiri's attention. It may just be that you'll have to bowl in general, but it's also possible that you may be required to get a few strikes in order to spark her interest. Once you finish a round and she's impressed enough, she'll introduce herself. Continue to bowl to increase friendship steadily. Once you hit 80% on the friendship meter, she'll mention a special event, but you won't be able to participate until you start Real Estate Royale in Chapter 5 and defeat the Leisure King. Speak to Emiri at that point and she'll challenge you to bowl a turkey: three strikes in a row. Do so and you'll get... a chicken. And Emiri's video. The chicken will be named Nugget and instated as a manager. Cluck.
+
+#53 - Sushi Gin's Chef
+Eat a couple of times at Sushi Gin and the chef will become your friend. Continue eating to raise the Friendship Gauge and continue conversations with him. He'll ask if you can bring him fish. Head to the Pier via taxi to find the fishing minigame and start reeling them in. He'll need about four fish total for you to bring him, and crazily enough, it can be any kind of fish. Give them to him one at a time. After the fourth, leave and come back and you'll get a cutscene to finish the friendship. This will allow you to get the property for free once you start your real estate business.
+
+#54 - Luka at SEGA HI-TECH LAND
+Play Out Run at the arcade and Luka will take notice. Play again and she'll mention working on her high score. Come back in and she'll bring up her score of 1.5 million. Beat that and you get an Alertness Hood. Play once more and then she'll comment again. Come back and she'll give you a score of 3 million to beat. Do so and Super Hang-On will be installed in the arcade. You'll also get Luka's video. This will also allow you to get the property for free once you start your real estate business.
+
+#89 - Bacchus' Training
+This will only pop up late in Chapter 2, after you give alcohol to the homeless guys. Bacchus will call you into the nearby alley, so go there and help him take down his debt collector.
+
+#90 - Kamoji's Training
+This is a quick substory to set up Kamoji as a Master. Go to the Shichifuku Parking Lot and speak to him.
+
+#91 - Miss Tatsu's Training
+This is a quick substory to set up Miss Tatsu as a Master. Go to the Pier in Tokyo and speak with her.
+
+#92 - Apex Predator
+Run into Mr. Shakedown (after your first meeting). This man in a trilby is the one of two in Kamurocho. His name is Egashira. Use your best skills to bring him down, or just cheat and spam Heat Actions with medicine to bring yourself back up.
+
+#93 - A Dream Unfulfilled
+The second Mr. Shakedown is a guy in a purple jacket named Sato. Beat the tar out of him to close out the substory.
+__________________________________________________________________________
+Chapter 3 Substories
+The substories don't pop up in this chapter until you finish your encounter with Fei Hu and get the Slugger Style.
+
+#49 - From the Heart
+Just outside of Le Marche is a man sniffling over not being able to buy something. Approach him and he'll tell you to find him a heart necklace. Or, failing that, a convincing forgery. Head down towards Shofukucho South and you'll run across two guys talking, one obviously being the forger you're looking for. He'll give you his business card, so pass it off to the man in front of Le Marche. You'll hand off the business card. Now, head down towards Shofukucho South again to the marked spot (where you found the forger earlier) and defeat the three guys inside. You'll get a Secret Wallet as a reward and the Riri Kuribayashi video clip.
+
+#50 - The Entertainer's Throne
+On the east side of Iwao Bridge is a fellow playing at a human statue. Examine him to speak to him. Leave and come back later to find a crowd watching him, but it appears he has to use the restroom. You'll need to distract the crowd. The correct options are the "UFO" and "singing" options, but you can try all for funsies. After that, you'll fight a tough guy, which should also be quite distracting. Now, speak to Statue-san again. Successfully getting him to the restroom will net you a Staminan Royale. If you don't do so hot, you'll get a Staminan X.
+
+#51 - Rise of the Dragon
+Head to the far east of Shofukucho St. near the taxi and someone will try to get your attention. At the north side of the street is a guy hiding behind a pillar. Speak to him and you'll learn of his predicament. You'll learn of the "bontan hunter" who hangs out near Magutako. Head over there and you'll find a VERY familiar looking blond kid (if you've played other games in the series). He's a tough customer with a lot of health and power, so don't be afraid to get tough with him. Afterwards you'll have a nice conversation with "Ryuji-kun" and his friends. Return to Peter Pantsless and give them back. Head back to Magutako to close out the substory.
+
+#52 - Be My Boyfriend
+Head down Sotenbori St. and around the time you hit Zuboraya, a woman will stop you and ask for you to be her boyfriend. Respond however you wish, then agree to her request to meet her dad as her pretend boyfriend. Answer as follows: "Pleased to meet you sir. I'm Goro Majima." "I'm a dentist." "We sat next to each other at a movie." "She's so innocent and childlike." Your max reward is a Sprite Belt. for getting everything right. If you get fewer things right, you'll get Fluorite x 5, and at the bottom of the heap, you'll get a Bulletproof Glass Amulet. Regardless, you'll also get Kokoa Aisu's video clip.
+
+#53 - Man with a Stranger's Face
+In Ashitaba Park, speak to the man in the olive-colored jacket to note that he keeps staring at a mom and her boy. Turns out the man is their husband/father with a surgically altered face because of yakuza drama. Leave and return to the area to speak to him again. When you approach the boy say "Whatcha up to?". Leave and come back again and you'll find the mother. Approach her and she'll mention her son is missing. Travel to the south end of the Bunzaemon Mall and you'll find him in his green jacket. Speak to him and you'll take him back to the park where you'll find, among other things, a bunch of jerks for you to beat up. Go for the gunner first as he has very low health, then beat up the rest. You'll get a Sakura Storm katana.
+
+#54 - Disciple of the New Order
+At the western exit of Ashitaba Park is a mother speaking to two people dressed in white. Looks like they might be cult members and the woman's daughter got suckered in. Speak to the woman and you'll get a Handmade Amulet for your trip into the cult. Head to the northwest corner of Ashitaba Park to find some more cultists. Remember, the name of the cult is "Munan Chohept Onast". Once you find Iori, you can either "Call her Iori" or "Pretend to be Munan Chohept". Once it's time for the greeting, "Say it with the Pose". Once you hit the test, answer "Onast", "Shooreh Pippi", "Circle with the Left Hand...", "Munan Suzuki". The best results from this is getting Crystal, but there are lesser rewards for getting some wrong. If you get three wrong, you'll have a fight with some of the believers. Next, Iori will come in. Tell her her "mom's gonna be heartbroken". You will fight Suzuki, so tear him up. You'll get a Traveler's Amulet as well as Iori Kagawa's video clip.
+
+#55 - Calling the Future
+Use the Save Point in the northwest corner and you'll notice a guy getting a call on his personal bag phone. Agree to try it out and it'll fail. You'll need to get a Battery. Don Quijote carries them, so grab one and bring it back. Now he needs some health. Give him any energy drink. Now, beat up the two punks that showed up. Now, head over to the M Store on the west side of Shofukucho and speak to the man again. From now on you can speak to the man and he'll act as a Save Point.
+
+#56 - A Taxing Issue
+Just northwest of the Temple in the Hoganji Yochoko area are a bunch of business guys harassing another business guy. Speak to them and you'll learn about the upcoming 3% sales tax. A touchy subject indeed. Beat down the four bozos and speak to the remaining guy. He'll ask you questions. Answer "To provide public services", "Tobacco", "Gasoline", and "8%". Your best reward for this is a Primeval Spirit Stone.
+
+#57 - Crossed Words
+In front of Kani Douraku are a couple arguing. Apparently crosswords are just now picking up steam in Japan (and by now I mean the 80's). You'll need to help them out. The answers are "Mashed", "Popcorn", "Shoulder", and "Soy sauce". If you succeed, you'll get Pearl X 3. If you fail, you get Quality Iron. Regardless, you'll get the Shizuku Hasegawa video clip as well.
+
+#58 - Stadium Jumper Strut
+Just south of Iwao Bridge on the west side of the street is a guy on the ground. Speak to him and offer to give him an energy drink that you're carrying. He'll be up shortly. The man wants to cross the bridge in his varsity jacket, but it's such a threatening jacket that guys swarm him while he does it. Your objective is to protect him as he does. I suggest using the wide swings of the Slugger Style to keep the riff-raff off him. You'll get an Encounter Finder for protecting him.
+
+#62 - The 10 Million Drug Test
+In the southwest part of the district (south of Mahjong Jambalaya) is a building with a back alley. In the northwest corner of that alley is a poster. Read it and head to the east side of Ashitaba Park. Speak to the guy in black. Agree to the testing and you'll take three tests. For the first, defeat all the guys they throw at you while watching your health so it doesn't slip away. For the second test, your battle style will change randomly, even to Breaker if you don't have it yet. In the final test, your vision will be obscured around the edges. Defeat your foes and you'll get your 10 million yen.
+
+#63 - Errands on the Run
+While walking down south of Mahjong Jambalaya, you may stumble into a guy running around. Head to the M Store on Shofukucho West and you'll see him on the ground. Talk to him and hand over an energy drink. Leave and return to the same area to find him on the ground again. Go buy him some Sneakers from Don Quijote and bring them to him. Leave and come back once more and you'll find him again. Agree to deliver to his girl on the north side of the river on the footpath. Once you get there, fight your enemy, then when your friend shows up, "Tell Him the Truth". Once you open your business later in the game, "Erranda" will join your club.
+
+#64 - Toilet Talk
+Head near the bathroom in Ashitaba Park and Majima will ruminate on whether or not he needs to go. Go inside and Majima will notice some graffiti. Reply to it. Leave and come back later once the marker appears on the map. Reply however you like in this next one, then leave and come back again. You'll find your penpal wants to meet at the phone booth on Shofukucho. Head there, then beat up the jokers who meet you. You'll get a Calming Towel as your reward and the video of Rina Ito.
+
+#65 - The Obatarian Strikes
+In the middle of Sotenbori St. on the south side is a takoyaki stand with people lined up. Interact with it and a lady will push you out of the way. Pick whichever response you like, then leave and come back. Check the stand and respond however you like. You'll get Candy. Leave and head back and the Obatarian will bite off more than she can chew. Beat down the bad guy and you'll finish this substory. Once you open your business, Etsuko will join your club.
+
+#78 - The Doll Girl
+Outside of SEGA HI-TECH LAND is a young girl looking forlornly inside. Speak to her and she'll give you the big brush-off. Leave and come back to find two thugs eyeing her. Give them a world-class beatdown and she'll be a friend. To build her friendship, get her Chestnut the Squirrel (Red) from the UFO Catcher and bring it to her. She'll run off, but come back later. Now she wants a Blue Chestnut, so get her one of those. Next up is a Pink Bunchan. Lastly, you'll see the girl crying over her busted Bunchan. You'll follow her to giant jerks, so bust their faces. You'll get a Security Wallet. Once you open your business, "Dolly" (the little girl's mother) will join the club.
+
+#79 - Komian's Chef
+Eat at Komian and you'll start a friendship with the chef. Continue to eat to build up the friendship. You'll learn about Nozomi the assistant as well. Near the end you'll have to get ingredients for a kitchen emergency. Head to the river and fish up a salmon, a turtle, and an eel. Bring those back and you'll get the Trouble Finder as well as the Nozomi Hakuza video.
+
+#80 - STIJL's Barkeep
+Drink at Shot Bar STIJL and the bartender will get friendly with you. Continue to order drinks to build up your friendshp. Bring some Legendary Drinker of Ryukyu if you want cut down your drunkeness quickly to get it all done at once. At a certain point, he'll ask you to tend bar while he goes to get a shipment. When the customers come in, tell them "Sherry casks", "Ballantine's", and "Fruity aroma". Doing well will get you a French Wallet and Courvoisier XO will be added to the menu. You can also partner with STIJL for free once you get access to your Business.
+
+#81 - Gandhara's Clerk
+Head to Gandhara and watch a video. Kids, don't strike up friendships with guys who run creepy video places. Keep watching videos to continue to increase his friendship. At various points you'll have conversations with him. At a high level, he'll mention a special video tape hidden somewhere in Sotenbori. Go to the alley south of Utahime (where the marker is) and you'll find a woman in white. She mentions how cold she is. Head to an M Store and buy some Oden Soup, then give it to the woman. She'll give you... "The Videotape". Bring it back to Gandhara and you and the clerk will watch it. You can now partner with the place for free once you get access to your Business.
+
+#82 - Kyoko at SEGA HI-TECH LAND
+Play Space Harrier at the arcade and Kyoko will take notice. Leave, come back, and play again and she'll say she's going for a high score. Leave and come back and she'll challenge you to beat 1 million points. Defeat her and you'll get a Quality Iron, then come back and play again. Leave and come back once more and she'll challenge you to beat 2 million points. Do so, and she'll have Fantasy Zone in the arcade when you come back. You'll also get the Kyoko video clip. You can now partner with the place for free once you get access to your Business.
+
+#96 - Fei Hu's Training
+This is begun by doing an initial equipment search with Fei Hu. After that first one is done, return to the restaurant and speak to him.
+
+#98 - Play-Money Shakedown
+Encounter Mr. Shakedown with Majima. This guy with a red sleeveless shirt is Kawahashi. Defeat him to end the substory.
+
+#99 - The Ultimate Plan
+The second Mr. Shakedown has a black sleeveless shirt and is named Oe. Ruin him.
+__________________________________________________________________________
+Chapter 4 Substories
+While a couple pop up a little earlier, these will all be available once the Massage Parlor at the south end of town is your destination.
+
+#66 - Party at Maharaja
+Dance three times at Maharaja, leave, then come back. Approach the woman in the metallic finery and she'll introduce herself as Isobe, a big name in the dance scene. You'll start your dance battles here. Your first opponent is Kengo. Defeat him to win this substory.
+
+#67 - Disco Transformation
+You must complete "Party at Maharaja". Leave and come back to the disco and head towards the bar. Isobe is talking to your next opponent. He seems a bit demure, but he tears up the dance floor, so be sure to dance well to beat him.
+
+#68 - Disco Dancing Goddess
+This is the third dancing substory, available once you complete "Disco Transformation". If you've already dancing Substories in Kamurocho, then you know roughly what to expect facing Isobe. It's another hard dance battle, and there are no tricks to win. You'll have to go out of your way to make extra steps and not drop your combo. Use Fever twice if you can. She can be beat. You'll get an Isobe Fan for your troubles. Once you open your club later, Isobe will join your team.
+
+#77 - Sotenbori's Mr. Libido
+This will open up after your first direct encounter with Mr. Libido as part of the story. Head to Gandhara and you'll cross paths with him. To build up Mr. Libido's friendship, you'll need to watch different videos at Gandhara. Ultimately, you'll need fifteen total in order to finish the friendship. For every five different movies you watch, you'll have another conversation with Mr. L. In the off-chance you've already viewed the requisite number of different videos, simply view another one and you'll have conversations. On the fourth conversation, he'll be in pain and you'll have to get him the "Imcomparable Habu Drink" from the Daikoku Drugstore. Bring it to him to finish out his friendship. The Habu Drink is now available for purchase at the store, which is a drink that will fully restore your health and Heat.
+
+#95 - Sparring with Komeki
+Once you finish your date with Akko, head to Ashitaba Park to begin your training with Sometaro Komeki.
+
+#97 - Areshi's Training
+Once Areshi speaks to you, head to the southwest corner of the district to find him in a back alley.
+__________________________________________________________________________
+Chapter 5 Substories
+These substories all open up at different times during the chapter. Most of them are available once you get Kiryu's new suit, though. If they're available only at other times, I'll say there.
+
+#1 - The Visionary Fortune-teller
+First, you must complete Majima's "Rise of the Dragon" substory. Go to Senryo Ave., north of Shoten, and find two women gossiping about a fortune teller. Head to the south entrance of the Champion District to find the fortune teller. You'll beat up someone getting in her grill, then she'll read you for free. Get ready for a quiz about the Yakuza series. First, pick a reading for your "future", then respond "Take my friend's place". Next, select a reading about "family". Respond "Ten billion yen". Lastly, select a reading about your "career". Respond "A driver". The substory ends shortly after this. The Fortune-teller will also become an advisor once you begin your business.
+
+#3 - Passport to Pizza
+In the southeast corner of the Champion District's alleys is a young lady on the ground. Give her an energy drink and she'll be up on her feet, but will lament a need for pizza. She'll give you a Secret Wallet before you go. Head to Smile Burger and inquire about pizza. You'll eventually get one. Bring it back to Samantha where you left her. You have ninety seconds to do so before it get cold and make sure not to bump into people on the way. If you fail, you'll just start again. Once you reach her, you'll have to fight a bad guy. You'll get a Security Wallet as a reward.
+
+#5 - The Human Trafficking Ring
+You must complete "Kamurocho Undercover" for this to be available. Head into Shellac and you'll see the reporter again. He'll mention a lead on a human trafficking ring. How you respond to that is unimportant, but he'll let you know he's down in Pink Alley. Head to the part of the alley just southwest of the Telephone Club and you'll find Kasuga talking with a guy. Head back to Shellac. Now, head back to that spot in Pink Alley one more time. Beat up the jerk to finish the substory. This will inspire Kasuga to want to join your real estate business once it opens.
+
+#13 - The Tax Lady
+This becomes available after you defeat the Electronics King. Go to your office in the Sugita Building and you'll get a call from a lady who's a tax inspector for the police. Leave the office and speak to the young lady outside. Oops, wrong one. Anyway, you'll meet the real tax lady and you'll organize a sting op on your next door neighbor, Maguro. Agree to it, then pick whichever choice you like for the next response. Once inside, head over to the video tapes and examine them. Pick that there's "something wrong", then "its presence". Next, when you're trying to buy Marui some time, select "You have great taste in clothes", then "A house, maybe?", then "Read Maguro's Palm". You'll expose Maguro's dirty deeds and get a Trouble Finder. Also, Marui joins on as an advisor.
+
+#15 - Help Wanted!
+You must have defeated the Leisure King for this to be available. Head south down the street away from Mach Bowl to come across a boss celebrating bringing on a new worker. Kiryu will think about hiring his own new staff. Head back to the office and Marina will mention setting up job applications. Leave and come back and you'll have an applicant. Say "Why did you apply with us?", then ask the next three questions in whatever order. Afterwards, you can choose to either accept or reject him, but the results will be the same.
+
+#16 - Help Wanted! Again...
+You must have completed "Help Wanted!" Return to the office and Marina will tell you about the second applicant. Hear her summary, then ask all three questions. Then you'll be asked to point out an inconsistency. Select "'Summary' and 'Signature Dishes'" as the inconsistency.
+
+#19 - Heir to the Family
+Head north from Maharaja and you'll see a guy in a gray sweater standing on the west side of the road. Approach him and he'll tell you someone from the Dojima Family is at the batting cages. Head inside to find Little Baby Shortpants Daigo Dojima. You'll hang out for a bit at the arcade. Play the UFO Catcher and see if you can get Daigo a toy. After that, you'll head to Heroine, and then Daigo will get kidnapped. Kiryu's looking very nonplussed about the whole affair. Trail them to the empty lot in the Champion District. Defeat all the bad guys to finish the substory.
+
+#21 - First Impressions
+You must complete "Help Wanted! Again..." Return to the office and Marina will tell you about a third applicant. Pick "Legal Studies", "His hobby: dining out", "He knows the dining scene", "Tell us about someone you admire". You'll get Koshimizu as security for your business.
+
+#22 - A Watery Investment
+After opening the real estate business, head south down Nakamichi Alley away from the shrine, then west at the T-junction. You'll see two guys getting in a lady's face. Get in their face and the lady will give you a Toughness Z for your troubles. Not much I guess but, she'll offer to thank you more. Agree to her offer and you'll head to Café Alps. The proposition is an odd one. Refuse her twice. When she asks how old she looks, you can say whatever. Refuse her again. Now you must face Nao. Refuse again (it's the fourth option), then refuse once more (third option). You'll get the Mew Shoes for your perseverance. Also Nao Mizuki's video will be added to the video store.
+
+#23 - Miracle in Maharaja
+You must complete "Miracle on Tenkaichi Street" first AND you must have begun the Real Estate business. You can actually start this substory in Chapter 2, but you can't complete it until this point, so I'm putting it here. Head to the Akaushimaru south of Theater Square (the same one for that previous substory) and you'll hear the same two guys talking about Miracle Johnson being at the Maharaja. Once you open the Real Estate business, head over there and you'll see a bodyguard standing outside. Fight Gomez the bodyguard and you'll be allowed inside. Miracle will challenge you to a dance battle. He's amazingly good, and is probably going to beat you, but it doesn't matter, really. You'll once again get a pick of two boxes. Choose the black one to get an Encounter Finder (highly recommended), or choose the white one to get a Tour T-Shirt. You'll also get Miracle Johnson as an advisor as a result.
+
+#31 - The Innocent Hook-Up
+Through the Telephone Club meet up with Riku. Choose the "Girl in Front" to pick correctly. You can now contact Riku for dates and will also get her video clip.
+
+#32 - The Sexy Hook-Up
+Through the Telephone Club meet up with Ayaka. Choose "Move in for a better look" and then the "Farther Woman". You can now contact Ayaka for dates and will also get her video clip.
+
+#33 - The Flirty Hook-Up
+Through the Telephone Club meet up with Haruki. Choose the "Further Woman" to pick her correctly, then beat up her ex. You can now contact Haruki for dates and will also get her video clip.
+
+#34 - Sakura Shock
+Through the Telephone Club meet up with either Asakura, Sakuraoka, or Sakurai. All three of these lead to the same result.
+
+#35 - Verbal Warning
+Through the Telephone Club meet up with Mirei.
+
+#44 - The Predator's Call
+Through the Telephone Club meet up with Maria.
+
+#45 - A Mother's Touch
+Through the Telephone Club meet up with Sayuri.
+
+#48 - Kamurocho's Mr. Libido
+You must at least have one Telephone Card to begin this. Head to the Poppo on Showa St., then look at the store's east side on Pink St. Approach the bald man with a black jacket and he'll talk about you and your Telephone Cards. Leave and return to continue the friendship. You'll be able to talk to him again when you have more Telephone Cards. In all, you'll need thirty cards in order to close out his friendship. Keep talking to him and you'll eventually find him in distress. He needs a new type of girl. Head to Earth Angel and speak to the Mama there. There's a girl he hasn't tried. This will close the friendship.
+__________________________________________________________________________
+Chapter 6 Substories
+Most of these are available from the beginning of the chapter. A couple will be available later, and I'll let you know which in their sections.
+
+#10 - Sugar Daddy
+Head to the Hotel District, north of the Batting Center. You'll see a guy hiding behind a pole. Approach him and you'll learn that he's wondering if the girl he's watching is the daughter he hasn't seen in fifteen years. Agree to help and you'll see "Reika" in the club. For the first reply, you can say whatever. For the second reply, choose either of the top two options. Next, select "Your father's not around?" The substory will finish shortly thereafter and you'll get a Goddess of Children Amulet. You'll also get Reika Aiba's video.
+
+#11 - The Shrink-wrapped Dream
+Go to Tenkaichi Alley and across from Public Park 3 you'll see a small lad just hanging out on the street. Speak to him and you'll learn he came out all this way on his lonesome to access a really cool vending machine. Offer to help and you'll learn just what this vending machine sells. Hijinx will ensue hardcore, and then the solo sneaking mission will begin. Your objective is to avoid scrutiny by all the ladies in the area as you go towards the vending machine. First, wait for Marina to walk out and start walking back into the park, then move up to the sign on the ground. Wait for the nosy ladies on the street to not be looking in your specific direction (it's safe when they're looking at each other) and head into the alley itself. Now, stay obscured by the vending machines at the entrance to the alley and watch for one of the ladies in the alley itself to pass your vision and start walking back to the left. At this point, you kinda have to be lucky. Peek out and see where the lady in purple is looking. If she's looking to the left, run your tail to her right for the vending machine. If she's looking to the right, back down behind the vending machines, wait for the lady in gray to finish her loop outward, then try again. Also, at any time you can talk to the kid and tell him you want to give up if you so choose. Once you reach the vending machine, you'll finish the substory.
+
+#18 - Beyond the Door
+This substory is unavoidable and is part of the story, and you'll head for it after your first meeting with Mr. Moneybags.
+
+#25 - Postcard Rookie - Kiryu
+You'll need to complete at least five substories for this to occur. Head to the office and Kiryu will hear a radio show describing sending in your stories via postcard. Marina will also come by noting that she picked up some postcards when shopping. Seamless! Your objective is to go to the desk and interact with it, then pick a substory that you've completed and you'll write about it to see if Dolce Kamiya will read it on the air. You get a full list of what you've completed, but not every one of them will spark a reading on air. The stories that will get noticed are: "The Visionary Fortune-teller", "The Quest for Ara-Q3", "A Lesson in S&M", "The Shrink-wrapped Dream", "The Miracle Walk", and "Miracle in Maharaja". Pick any one of those, then leave and come back, then check out the radio to listen to the show.
+
+#26 - Postcard Pro - Kiryu
+Once Kamiya reads one of your postcards on the air, write another one using the list above as a guideline.
+
+#27 - Postcard Master - Kiryu
+Write one more postcard for Kamiya using the list above. Kamiya himself will appear and deliver you your prize of a pair of Hercules Gloves.
+
+#49 - Kamurocho's Mr. Moneybags
+After running into Mr. Moneybags as part of the story, go to Vincent to find him chilling next to the bar. Speak to him and you'll learn his name is Fukushima. He spews a lot of stuff in regards to investment funds, but the core concept is that this a method to transfer money between Kiryu and Majima. To build the friendship with Fukushima, you'll have to contribute money, and it's in set increments. Furthermore, you can only invest at certain points in the story, because the idea is that first Kiryu invests, then Majima invests, and it goes back and forth like that. The first investment is ten million, which you can do right away. The second Kiryu can do is after Majima invests once, so the time you can do it is during Chapter 9 or later to give him a hundred million. Then, in Chapter 13, you can give him a billion yen. In the finale, give him 10 billion yen to max out the friendship. From this point on, you can give however much you want without a commission fee to Majima.
+__________________________________________________________________________
+Chapter 7 Substories
+Most of these are related to Cabaret Club Czar, but there are a couple that also pop up when you're sent back to the Grand.
+
+#69 - Paternal Instincts
+This substory appears once you finish Yuki's hostess training. You'll tail her and a mystery man. Choose to "Keep Observing" twice, although it really doesn't matter what you choose.
+
+#70 - A Moment Shared
+This substory appears once you finish Chika's hostess training. You'll go out on a walk. Respond however you like. You'll get Chika's video.
+
+#71 - Of Love and Ramen
+This substory appears once you finish Mana's hostess training. You'll go on a date. Defeat the two jerks that mess up your day. You'll get Mana's video.
+
+#72 - The First Friend
+This substory happens once you finish Ai's hostess training. The two of you will go to Bishamon Bridge. Respond however you like. You'll get Ai's video.
+
+#73 - A Little Brotherly Love
+This substory happens once you finish Hibiki's hostess training. You'll have an actually rather heartfelt conversation with Hibiki's little brother. You'll get Hibiki's video.
+
+#74 - Dream Chaser
+This substory happens once you finish Saki's hostess training. After you finish, go outside and beat up the jerks harassing her. You'll get Saki's video.
+
+#75 - Mystery Caller
+After your first night at Club Sunshine, go to the Save Point near the southern Taxi Stand and it'll start ringing. Pick it up and you'll get 100,000 yen and a task to bring the mystery man a 9mm Automatic Pistol. You can get one pretty easily from the Dragon & Tiger by searching in the right spots, but odds are you can just buy one if you completed a Kiryu substory that got you said pistol. Bring it to the Save Point and you'll get 200,000 yen. The substory is complete, but you get "Simon the Mystery Man" as a friend, and you need to get more weapons and stuff. Head to Dragon & Tiger for info on how to get these. Your next items are: Chinese Broadsword for 300,000 yen, Tourmaline for 400,000 yen, and Sakura Storm for 500,000 yen. After that, you'll be called to the south side of the river footpath. Beat up the three jerks there and then head back to the Save Point. You will recruit the Unknown hostess for your club.
+
+#76 - Sotenbori's Mr. Moneybags
+After your first night at Club Sunshine, you'll find this jaunty fellow in front of the Grand busking. His role is to take your money and send it to Kamurocho, much like the Mr. Moneybags over there you've already met. As was the deal with the other one, start by giving him ten million right away. Come back in Chapter 11 and give him fifty million. Come back again in Chapter 15 and give him 100 million. In the Finale, give him 500 million. You'll now be able to freely send money to Kiryu in whatever amount you want.
+__________________________________________________________________________
+Chapter 8 Substories
+Only three in this chapter, and they're all progressive, related to the same subject.
+
+#59 - Postcard Rookie - Majima
+You'll need to complete at least five substories for this to occur. Head into the staff room in Club Sunshine and you'll hear the radio going. Majima will learn about sending stories in via postcard. Much like Kiryu, Majima can describe substories he's gone through in postcard format, and Dolce Kamiya will read them on the air if he likes them enough. The good substories you want to pick are: "A Heart Necklace Fake", "Pretend Boyfriend", "A Taxing Issue", "Crossed Words", "The Ten Million Drug Test", and "A Courtship in Graffiti". Once you pick one, leave and come back and use the radio to hear your story read live.
+
+#60 - Postcard Pro - Majima
+Once Kamiya reads one of your postcards on the air, write another one using the list above as a guideline.
+
+#61 - Postcard Master - Majima
+Write one more postcard for Kamiya using the list above. Kamiya himself will appear and deliver you your prize of Benkei's Amulet.
+__________________________________________________________________________
+Chapter 10 Substories
+A mere two in this chapter. They both appear after the fight at Tojo HQ.
+
+#14 - Destiny Calls
+Midway up Pink St. (to the east of the Kamuro Shopping Area), you'll see a clerk standing outside a telephone club. Speak to him and he'll try to get you to handle a problem customer they have. Agree to take the call. This is actually not the Telephone Club minigame. You can pick whatever for the responses. Once you're done, head to West Park and to the fountain on the west side. Defeat the man you meet. You'll be rewarded with a Super Spicy Knife.
+
+#20 - A Shining Example
+From the northern exit of the Kamuro Shopping Area, head east and you'll see a woman in a dark school uniform standing on the sidewalk. Approach her and agree to help. Beat up the guy, then you'll learn his true identity, which is super important if you've played Yakuza 1. Now, head up to West Park. Enter and then leave back to the streets. Defeat the yakuza punks that show up and you'll be taken to where your pal is being held. Defeat all the dudes here to finish the substory.
+__________________________________________________________________________
+Finale Substories
+These become available after the final fight with Kuze. If you're familiar with this series at all, I'm sure you know what's coming...
+
+#94 - The Head of the Clan
+Once you complete all of Kiryu's substories but one, your pager will make some odd noises and tell you to come to the bullfighting arena. Take a taxi to the arena and you'll face Kiryu's bonus boss: So Amon.
+
+Prepare for this fight. Fill up your inventory with Incomparable Habu Drinks and get the best Mail armor you've made from Dragon & Tiger. May want to get some Sacrifice Stones on you as well. Don't worry about weapons.
+
+We start right in Looney Tunes land as So whips out a cannon. He has three attacks:
+
+Fires straight at you, which you can dodge by running to the side. Any cannonballs have a chance to either stun you or wreathe you in flames, putting you on the ground.
+Release a volley of shots above him. Some of these fall randomly, others are shot towards you. Try to be unpredictable in your movements so the minimum hits you. If you get hit, you get hit, just stand back up and start the fight again.
+If you're distant from So or stunned, he'll fire a black and red laser. This is EXTREMELY damaging and if you get caught flat-footed with this, you'll likely croak. It does have a cooldown though, so take the moment to charge him.
+For this phase of the battle, I suggest using Legend Style. The trick is to use the "Finishing Hold" move, which is hitting Grab after a Finishing Blow (Heavy Attack at the end of a Rush Combo). Any Finishing Hold will put So on the ground. After that, press Grab near his head to pick him back up, which leaves him in a stunned state, and you can hit him with another Finishing Hold, and then continue like this.
+
+Once you wear down three of his health bars, he'll pop Heat. This will give him super armor and he won't flinch to any of your hits. It's still the best policy to use the Finishing Hold into Grab near his head on the ground. You may get unlucky and get tagged once he falls out of stun. Try to Grab him and throw him to the ground if you have to start over.
+
+Once six health bars are gone, he'll switch to unarmed combat, in a style that matches Kiryu's final boss from the story. He'll also call in a helicopter that drops debris on the battlefield. The really hard part is avoiding all this villainous patio furniture, because it'll bounce around with the wind from the chopper.
+
+Now the trick to this half of the fight is not necessarily to watch Amon or the furniture, but look for small black and gold bottles dropped on the ground. These are invincibility potions, and whoever gets it is invulnerable for a short while, represented by flashing white. If Amon gets it, back down and run off until it wears off. If you get it, now's the time to wade in and ignore the distractions and just beat the heck out of him. How you do it is up to you, but I personally enjoyed using Beast Style on the nearby furniture. It's good damage.
+
+That's the remainder of this fight, in a nutshell. Bottles will drop throughout the fight, so keep on top of them to deny them to Amon. Once you beat him, you'll get Amon Sunglasses.
+
+#100 - Sotenbori in Peril
+Once you complete all of Majima's substories but one, go to Sotenbori and your pager will make some odd noises and tell you to come to the bullfighting arena. Well, that's not what Majima thinks it says, but he ends up putting together anyway. Take a Taxi to the arena from Sotenbori and you'll face Majima's bonus boss: Jo Amon.
+
+Prepare for this fight. Fill up your inventory with Incomparable Habu Drinks and get the best Mail armor you can make from Dragon & Tiger. May want to get some Sacrifice Stones on you as well. Don't worry about weapons. Don't worry about specific abilities, because we're going Mad Dog Style for this one (which you must have in order to get to this anyway).
+
+Jo Amon has thirteen health bars and is wise to almost all your dumb tricks. There is one ace up your sleeve that you'll use against him: Mad Dog Trick: Demonfire. That's the move where you hold the Fighting Stance button, then press Heavy Attack just as your enemy attacks. It cuts deep into Amon and is pretty much the only way you're guaranteed to cause damage.
+
+Amon begins the fight using Kiryu's Legend Style. He'll also throw stuff at you. You'd think those are knives, but check your inventory. If you had any empty space, he threw tissues and "Stanamin Spork" in there. Don't use the Spork, because it will drain your health. Once you drain about eight of his health bars, he'll pull out a knife and basically work his own Mad Dog magic on you. Keep pressing the Demonfire attack over and over. WATCH your health, because if he gets hits on you with his knife, your health will drain HARD, so be ready to jump into the Pause Menu and drink up. The same strategy works, though. Once you defeat him, you'll be rewarded with Amon Sunglasses.

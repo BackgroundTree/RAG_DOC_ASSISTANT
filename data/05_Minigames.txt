@@ -1,0 +1,542 @@
+Minigames
+These are the non-gambling non-Arcade minigames, organized in alphabetical order. I broke them apart into different sections for ease of searching (and to match with my other guides' style).
+__________________________________________________________________________
+Batting Center
+Found: Yoshida Batting Center in Kamurocho
+
+Completion: Get 10 million yen from Gold Rush or Super Gold Rush Mode.
+
+Time to knock some balls around. The batting center offers you challenges for batting that can result in prizes, or in cash if you play "Gold Rush" or "Super Gold Rush" mode.
+The controls to this game are deceptively simple, simply use the Left Stick to aim where you send the ball, and press the button at exactly the right time to send the ball there. The trick to batting well every time is not necessarily to watch the ball, but to watch the bat. Kiryu idly wobbles his bat back and forth as he stands in the box, but when the pitch enters the strike zone, he'll tense up and go still. That's your signal to slam on the button to swing away. After that, it's just a matter of putting your target on the right spot.
+
+You can play the Easy (Cage 2), Normal (Cage 3), and Hard (Cage 4) modes for items, but these are all items you can gather through other means, so there's no need to spend a lot of time here unless you're really into it. In those modes you're given 20 balls to get as many runs as you can, and every so often, you'll be given a "Gold Ball Chance" that gives you bonus runs.
+
+For completion, you'll need to play Gold Rush mode. It's a 500,000 buy-in for regular Gold Rush (Cage 5) and a 5 million buy-in for Super Gold Rush (Cage 6), so I'd suggest waiting until you get a good cash flow going, or at least be prepared with a reset of the game by saving first. The simple rule of this mode is that if you miss once you're out, either missing the ball or the target. Your targets are marked on a board in front of you, and each has a money value on them. They're in tens of thousands (which is what the Japanese order by) so the first one with a "5" in Gold Rush is worth 50,000. As you hit a target, a new one will appear, slightly smaller and further away, so you'll have to aim for that one, and so on around the board. Eventually, the targets will start moving, making things even more interesting. Note that you can back down and leave after any successful hit, but there's no real point to until you at least get your intial buy-in back. You can track your total in the lower right corner.
+
+Additionally, after the sixth target, a rainbow target will pop up along with the next one. Hit this target, and you get a considerable amount. Two million on regular, and fifteen million on Super.
+
+Personally, I suggest just waiting until you get enough money for Super Gold Rush, because the only way to get a good amount of money in regular Gold Rush is getting every single target, including the tiny moving one. You can get one million in profit in Super after the sixth target, and four million in profit after the seventh. The difficulty change between the two modes isn't all that extreme.
+
+In fact, just so you know what to expect, here are the pitches you'll get on Super, because they're always roughly the same: fast, fast, fast, slow, fast, slow, and fast for every one thereafter. On fast pitches, expect to swing pretty quickly. On slow pitches, you'll have to wait a couple of seconds so be patient and don't twitch.
+__________________________________________________________________________
+Bowling
+Found: Mach Bowl in Kamurocho
+
+Completion:
+
+1.Bowl ten strikes
+2.Earn ten million in split games
+
+The sport of champions. Pit your heart and soul against the mighty lanes of Japan. Once you enter the alley, speak to the attendant to either play a game alone, against an employee, or in some cases against a friend or date. You can play either a three-frame game or a ten-frame game. You can also play Split Bowling, which I'll get to in a minute.
+
+For those of you not in the know, the rules of bowling are to knock down as many pins you can in as few throws. For each "frame", you'll get two throws. If you knock down fewer than ten pins, then that's your score for the frame. If you knock down all ten in two throws, it's called a "spare" and the amount of your next throw is added to that frame. For example, getting a spare and then an eight on the next throw means your score for that frame is 18. If you knock down all ten pins in one throw, it's called a "strike" and the amount of your next two throws is added to that frame. For example, if you get a strike on your first frame, another on your second, and then seven pins and two more on your next two throws, you'll get 27 for the first frame (10+10+7), 19 for your second frame (10+7+2), and 9 for your third. Obviously, it behooves you to get as many strikes as possible for as many bonus points as possible. The maximum score in a ten-frame game of bowling is 300.
+
+As for the controls, you'll begin by selecting a ball and a position. Use Up and Down on the directional pad to select a ball (lighter balls can be controlled more easily, but heavy balls have more power), and then left and right to select a position. Once you confirm, next a pointer will bounce back and forth to select direction. Press the button to stop that pointer. After that, a power meter will appear on the right. Press the button again to stop that. Lastly, as your bowler makes their approach, gently move the Left Stick left or right to adjust spin on the ball. It's rather sensitive, so you don't have to do much to get a good spin on it.
+
+Ideally, what you want is to get your ball into the "pocket". That's just on either side of Pin #1 (the head pin) between it and the next pin. If you strike that spot hard and with a bit of spin, you'll have a high chance of getting a strike.
+
+Every so often, you'll see a red pin pop up in your game. Knock that down and you get a little prize, but it's really not much. Usually an energy drink.
+
+Now the important thing that you need to know for completion is how to play the Split Game. The Split Game is what gets you money, and it costs a pricey 5 million to buy in. Once you buy into a Split Game, you'll have ten possible combinations of pins to choose from, and each combination is worth a different amount of money if you beat it. You need to knock down the pins in each combination in one throw. You can only complete each combination once, and if you miss, it will cost you one of your stock of three balls. Miss three times and you're done, only collecting what you've beaten. Ideally, you'll want to get more than 5 million in a play to make back your buy in. You get a 1 million bonus for getting five, and another 2 million bonus for getting ten.
+__________________________________________________________________________
+Catfights
+Found: Theater Square in Kamurocho (Chapter 6)
+
+Completion: Win a hundred million in betting
+
+Truly the finest moment in the Yakuza series, you can access the Japan Catfight Club in Chapter 6 after meeting Mr. Moneybags as part of the story. In this, you'll place bets on the outcome of brawls between gorgeous ladies. The method of battle is simple. When the ladies engage, you'll select between rock, paper, or scissors. Once the countdown is over, you shoot. Whoever wins the RPS gets a hit on their foe and drains their health. If you tie, then you have to mash the Confirm button rapidly in order to force a win out of it. Months of attempts on "ties" have proven that they're a bit of a hustle. Sometimes, no matter how fast you tap, you'll lose. It's maybe about 40% of the time that you can win those.
+
+As you can see once you start attacking, the attacks are ranked in strength, starting at white, then blue, green, red, and rainbow. The higher the attack, the more damage you do. Attacks can power up before the "shoot", or they can power up while mashing on a tie. It's as random as your victories.
+
+That's it, really. Your completion goal for money can be met in one match if you bet enough on it. You can bet either on a single match, or a full tournament, and to cash out on a tournament, the fighter you bet on has to win all three matches.
+
+That all being said, there's a trophy involved with catfights. That trophy requires you to win ten tournaments. That's not individual matches, mind you; it's tournaments you have to win. So, here are a few tips to push your odds more towards winning:
+
+1.Read the ticker at the bottom of the screen before betting. If someone's not feeling well or is otherwise not in good shape, don't pick them for the long haul.
+2.If your opponent has a 1-star attack, just press on that advantage and you'll come out ahead more often than not. For example, if your opponent has 1-star on Paper, just use Rock forever because at worst you'll be hit for a relatively small amount on Paper if you lose.
+3.Go for the low odds fighters. There's a reason they're low. Jennifer tends to be a safe bet as she also hits really hard. I've also heard Momoko works pretty well. Pick whichever of these two is having a better day according to the ticker.
+4.Don't rely on special skills activating. I've gone entire tournaments without seeing a single one.
+5.If you get a tie and you both start on white, don't mash the button and just lose the tie. If you mash and they win, they'll likely upgrade in colors, causing more damage to you. It's not worth the risk.
+6.If you get a rainbow hit or your special skill does activate, make sure you mash Circle to get the best result out of it.
+
+Everything else is just random chance, including moves hitting harder, and predicting what your opponent will pick. Just gotta get lucky.
+
+Actually, I've received a note from one of my readers who suggests wearing gear that gives financial luck. They claim that their odds of winning improved drastically after they switched to accessories like the Beads of Good Fortune and the Head Honcho Scarf. I make no claim that this strategy works, but if you're swimming in losses, anything's worth a shot, right?
+__________________________________________________________________________
+Darts
+Found: Vincent in Kamurocho, Shot Bar STIJL in Sotenbori
+
+Completion:
+
+1.Perform 10 hat tricks (all three darts in the bull)
+2.Earn 10 million yen in versus games
+
+In simplest terms, darts is about throwing the sharp thing into that round thing over there. For the purposes of this video game, that means aiming carefully with the Left Stick and pulling down on the Right Stick, then releasing the Right Stick to throw. The main trick here is figuring out the sensitivity for using the Right Stick. The best I can explain to you is to pull down slowly about halfway to the edge, then releasing quickly. That will likely get you an on-target shot. Also, make sure you're on target for the shot before pulling back, because your character's hand wavers even if you're holding the Left Stick steady.
+
+01 Games -
+Your score starts at 301, 501, 701, or 901 (depending on what you select at the beginning) and you must reduce your score to 0 without going past it. Each player gets three throws per turn, and the number of turns is determined by the score. It's five turns for 301 and twenty turns for 901.
+
+Cricket -
+In this play style, only seven regions are available to hit. Hit a region three times and you'll "claim" that region, allowing you to score off it. And by "three times", I mean doubles and triples apply, meaning hitting a triple automatically claims you that region. If your opponent hits the same region three times, that region is locked out and no further scoring can come from it. There are three variants of cricket: "Normal" where the available regions are 15, 16, 17, 18, 19, 20, and the bull, "Random" where the regions are randomized, except for the bull which is always an option, and "Hidden", where they're fully randomized including the bull, and hitting a hidden region gets you an extra hit, so you get two for a single and four for a triple. Highest score after five rounds wins.
+
+Count-Up -
+Straight up points. Get a higher score than the other guy after three rounds.
+
+Completion -
+This is all well and good, but how do we get money? Well, after you play a game at Vincent or STIJL, a gentleman will show up in the bar. Speak to him and he'll challenge you. If in Vincent, you get challenged to 301, and in STIJL, it's Count-Up. Defeat him to earn 100,000, then play again after drinking for a 500,000 game, then play again after drinking for a 1 million game. The kicker is that drinking will give you slightly blurry vision while you play, thus making it a touch harder to win.
+
+Once you beat the first guy at Vincent, a new challenger appears. This guy will challenge you to Cricket. Beat him once for 1 million. Beat him twice for 4 million. The third challenge is 10 million but BEWARE. This guy is a hustler. When you play against him the first couple of times, you'll win relatively easily, but on the third round he'll become insanely good and nigh impossible to beat. If you want my advice, simply beat him up to the four million mark, leave, and repeat until you get completion.
+
+As for STIJL, I found this guy to be far more difficult to beat, in that I still haven't beaten him all the way yet, because once the drinks start flowing he picks up in skill hard.
+
+As for the hat trick completion, it means getting three bulls for your turn, inner or outer. Easiest way to do this is just to play solo and then choose 901 to get all the practice you need.
+__________________________________________________________________________
+Disco
+Found: Maharaja in either city
+
+Completion: Complete all songs with three stars, on each of the three difficulties.
+
+Everybody's waiting for you! Get on the dance floor and show them what you've got! Once the Maharaja opens up for each character, they can go inside, pay the cover, then head for the DJ and select a song to dance to. You have five songs to choose from and three difficulties for each song.
+
+In order to earn points while dancing, you need to move your little grumpy avatar on the stylized dance floor and hit the corresponding button on the panel it shows up on, and you need to hit it at the right time. Watch a border shrink to fit the panel to get what that means. It usually occurs on the fourth beat of a measure, although that does switch up depending on the song and difficulty. Furthermore, to increase your score, you should step around the playing field as much as possible before hitting the button panel. The more steps you take, the more points you get for hitting the panel, but you must hit the panel, or else you don't get any points no matter how many steps you took. This game ends up being a balance between making as many steps as possible and still being able to get to the panel in time, and as the button panels spawn closer together, you'll want to avoid going nuts with your steps.
+
+Lastly, you have a Fever meter. Once it fills up, you can press the button and take a little break from the main play and input four directional inputs, but you have to do them in the proper time or else you get nothing. These generally give you more points than the normal button panels, so use Fever once you get it.
+
+There are really no "tricks" to beating Disco other than practice. Also, make sure you try not to run into the "walls" of the playing area, as your avatar will "bonk" against them and cost you a split second of movement, which can throw off your groove.
+
+If you're playing this on the Switch 2, I personally recommend using a pair of Joy-Cons (with Grip or otherwise), because the Pro Controller is not suited for the fine control of moving around the dance floor.
+__________________________________________________________________________
+Found: The Pier in Kamurocho and Sotenbori River
+
+Completion: Find all fifteen freshwater fish and all eighteen saltwater fish. No need to find junk or containers.
+Fishing in Yakuza 0 is mechanically the same regardless of whether you're fishing in the river or the sea. The objective is to cast your line in the water, wait for a fish to come, wait for the right moment, then yank it up out of the water.
+
+So, approach any fishing point. You'll know because there's a white hook floating in the area.
+
+On the Kamurocho Pier, there are two spots on either side of the water.
+In Sotenbori, there's a spot in the middle of the northern footpath, and there's a spot on the southern footpath on the western end.
+Each of these spots yield different fish, although there's some overlap. Choose to fish and you'll get a look into the water. Those shadows are different kinds of fish. Aim your reticle and press the button to cast your line. Since most fish face to the right, it'd behoove you to aim to the right of them, in front of their fishy faces. Now you wait. And wait. And wait for a fish to turn red and swim towards your line. You'll hear a "click" once it gets within range of your hook (useful if you feel like doing something else while waiting). Once that happens, your bobber will start to dip down as the fish nibbles at it. Once the red part of the bobber has at least partially gone underwater, press the Confirm button to hook the fish. Next, you'll pull it in by mashing the buttons they tell you to mash. If all goes well, you'll lift up your haul.
+
+There are two resources you'll use in this: a pole and bait. You get a starter pole immediately once you begin fishing, and you can find other poles through different methods throughout the game. A pole determines how far you can cast and how easily the fish will be attracted to your lure. I suggest you spend the money and buy the Peerless Pole at Ebisu Pawn (both districts). It's easy to find (if a drain on your funds), and when you're trying to get those last couple of fish, you don't need the fact that you've got a lousy pole holding you back.
+
+As for bait, you can get regular Bait and Quality Bait at the M Store in Kamurocho and the M Store on Sotenbori St. in Sotenbori. When you scatter bait, you'll have a limited time (usually a few minutes) where extra fish will show up. Once that time runs out, the fish scatter back into the depths and you'll be left with the "normal" fish. A couple of rare fish will require that you use at least Quality Bait to attract them. You can also get Special Bait and Top-Grade Bait from Dream Machines if you're lucky, which is a third and fourth tier, and even better at pulling in the rare fish.
+
+If you're a completion hound, here are all the poles and how to get them for each character:
+
+Easy Starter - Default
+Sea Classic - Purchase Tenpo Sushi in Kamurocho
+River Classic - Partner with Fuguno Sakai in Sotenbori
+Seamaster - Purchase Sushi Gin in Kamurocho by befriending its chef
+Rivermaster - Partner with Komian in Sotenbori by befriending its chef
+Peerless Pole - 30 million at Ebisu Pawn in either location
+And finally, the reason you're here: the great fish list. There are really two criteria that determine how to get fish: where you fish and what kind of shadow you're pulling up. Distance may be relevant but I haven't locked down a hard metric. Rare fish tend to be further out in general, though.
+
+Lastly, any kind of fish shadow in any location has a chance of pulling up junk or a bag (despite it looking very fish-like underwater). Junk you just get rid of, and bags can have money or items in them. The items are typically nothing rare or special, but you can get some high level plates if you're lucky.
+
+Kamurocho Pier
+In Kamurocho, you can fish from the left side or the right side of the pier.
+
+Fish	Side	Shadow	Notes
+Whitebait	Left	Small	
+Goby	Left	Long and Thin	
+Filefish	Right	Small but Wide	
+Squid	Left	Blob	
+Scorpionfish	Left	Blob	
+Porcupinefish	Right	Blob	
+Tiger Prawn	Left	Blob	
+Octopus	Right	Blob	
+Flounder	Right	Small but Wide	
+Conger Eel	Right	Long and Thin	
+Spider Crab	Left	Blob	
+Sea Bream	Right	Small but Wide	
+Fugu	Left	Blob	
+Coelacanth	Left	Very Large	
+Great White	Right	Very Large	
+Marlin	Right	Very Large	
+Tuna	Left	Very Large	You'll probably need Quality Bait to make it show up.
+Oarfish	Right	Large and Thin	You'll need Quality Bait to make it appear.
+Sometimes it won't even be catchable depending on its position.
+Just keep backing out and throwing more bait.
+Sotenbori River
+In Sotenbori, you can fish from the north side of the river (near the center) or the south side (near Majima's Apartment).
+
+Fish	Side	Shadow	Notes
+Crayfish	Either	Blob	
+Crucian	North	Small but Wide	
+Sweetfish	South	Small	
+Snakehead	South	Long and Thin	
+Koi Carp	North	Medium	
+Eel	North	Long and Thin	
+Arowana	South	Medium	
+Axolotl	North	Long and Thin	
+Softshell Turtle	South	Blob	
+Black Bass	South	Medium	
+Salmon	North	Medium	
+Rainbow Trout	South	Small	
+Nishiki Carp	North	Medium	
+Ito	South	Medium	You'll probably need Quality Bait to make it show up.
+Ghost Koi	North	Medium	You'll probably need Quality Bait to make it show up.
+__________________________________________________________________________
+Karaoke
+Found: Heroine Karaoke Bar in Kamurocho, Utahime Karaoke Bar in Sotenbori
+
+Completion: Score at least 90 points in all songs. Kiryu and Majima must both participate in every song they have access to.
+
+WOW BREAKIN' THE LAAAAAW!
+
+Unlike you or your drunk friends, this game has some professional voice actors going up to tackle these songs, so you'll be able to enjoy their dulcet tones, in addition to their imagination cutaways during the songs (you'll see what I mean). You can karaoke alone or invite a date along if you've met someone through the Telephone Club or want to train a hostess through Cabaret Club Czar.
+
+Walk to the karaoke machine in your bar of choice and you'll be able to check the rankings, your history, etc. All you really need to know is to select "Sing", which will give you a selection of songs to choose from. The important thing to note is that neither character has access to all songs, so you'll have to return as the other character in order to complete everything.
+
+Also, depending on the song, you'll either be able to sing the song, or provide backup using "interjections". If interjections are available, you'll choose between "simple" and "lively", the latter being harder than the former, but you need to choose "lively" if you want to get a high enough score to rank as a "Karaoke King". If you're a lonely sack and didn't bring a date to sing the female vocal songs, the bar hostess will take the mike and save your dignity. Make sure you do this once in both towns so you get access to their video clip.
+
+Regardless of whether you're singing or interjecting, play is largely the same. You'll see button prompts on the screen and you'll have to hit the appropriate ones as the moving ball reaches them. The only real difference is that interjections tend to be on the beat of the song, while singing tends to follow the actual words of the song. If you see "Hold", then hold down the designated button until the end, and if it says "Rapid", then you have to mash said button.
+
+Once you complete the song, you're evaluated on the croon-o-meter. You'll need at least a score of 90 to earn the title of "Karaoke King" and pass the song for completion.
+
+Here are all the songs. Remember that for full completion, both characters have to complete all songs available to them, meaning, of example, that both have to interject to "x3 Shine":
+
+Judgement -Shinpan- - Kiryu (sing, interject for Nishikiyama)
+Bakamitai - Kiryu (sing)
+24-hour Cinderella - Majima (sing)
+x3 Shine - Both (interject for Riku or Yuki)
+Heartbreak Mermaid - Both (interject for Ayaka or Chika)
+Rouge of Love - Both (interject for Haruki or Hibiki)
+To get ladies to sing their songs (and see their cool videos), you can get dates for Kiryu through the Telephone Club, and for Majima you'll invite some of your hostesses to karaoke as part of their Special Training.
+__________________________________________________________________________
+Found: Orchid Palace Mahjong in Kamurocho, Mahjong Jambalaya in Sotenbori
+
+Completion:
+
+1.Go out ten times (ron or tsumo)
+2.Earn Mangan five times
+3.Earn Haneman once
+4.Go out with a Riichi Ippatsu
+5.Go out with a Full Straight
+6.Earn ten million yen at mahjong
+
+Mahjong, as you'll be playing it in this game, is "riichi mahjong", similar to the card came of rummy, played with four players using mahjong tiles. Given how in this game, as opposed to Yakuza 5, you won't be cheating your way out of this one, I've decided to expand strategies and give everyone some tips on how to get through this game.
+
+Starting a Game -
+Go to Orchid Palace or Jambalaya and speak to any of the gentlemen at the tables. The easy guys will let you buy in at 25,000 yen. The medium guys will ask for 250,000. The difficult guys will ask for 2,500,000. Choose whichever you like because honestly the game has so much luck that the AI can't really account for strategy that much.
+
+From there on, you'll be able to change some rules as you like. You can play a Half Game (minimum eight rounds) or a Quarter Game (minimum four rounds). With the "Kuitan" rule active, you can go out on a hand of simples. With the "Red Dora" rule turned on, you can use special red tiles to add extra points to scores. Lastly, the 2-han minimum rule requires that winning hands be worth at least 2-han. I suggest going Quarter Game to keep things from dragging, turning the Kuitan and Red Dora rules on, and not bothering with the 2-han minimum.
+
+Mahjong Tiles -
+Mahjong is played with 136 tiles. There are four of each tile, and the tiles are further separated into "suited" and "honors".
+
+Suited tiles are tiles that are numbered one through nine, and are members of one of three suits: bamboo (green and red rectangles), characters (black symbol over red), and dots (circles). Dots and bamboo are pretty easy to determine. The only weird thing is that the "one of bamboo" is a peacock, so keep that in mind.
+
+As for the characters (with the black symbol over the red), they're Japanese numerical kanji, so you're just going to have to learn them. One through three are easy because they are that number of horizontal lines. Four is a box with vertical lines inside. Five is five lines, three horizontal and two vertical. Six is a star-shaped symbol (I use "six-pointed star" as a mnemonic even though it doesn't have six points). Seven is an "L" with a line through it. I tend to think of it as an "inverted seven" with a line through it. Eight is the two diagonal lines making a tent (the mnemonic for that is two hands, with four fingers each, held diagonally in such a shape), and nine is the cross where the right end curls downward.
+
+Fortunately, the game will always organize your tiles in your hand, so if you get a vague idea of how they go and forget, just look at the sequence of tiles in your hand and it'll help you pick it back up.
+
+Honors are considered higher-ranking. There are seven types of them: four winds and three dragons.
+
+The winds are the characters for East, South, West, and North (in the order of the picture above) written in black. They're complicated and a little tough to remember, but the good news is that near each player's name is their current wind, which has the Roman letter below it, so that's an easy thing to refer to.
+
+The dragons are green, red, and white. The green dragon is a character that's all green. The red dragon is a character that's a red box with a vertical line through it. The white dragon is a blank white tile.
+
+Basic Play -
+Each player is dealt thirteen tiles. The rest of the tiles are put into the walls around the playing area, with fourteen put into a "dead wall" that is not drawn from normally. Play starts with the first person to draw from the wall, place the tile in their hand, then discard another, always keeping thirteen tiles in their hand. Play will continue in this manner, interrupted only by people stealing tiles (see "Pon, Chi, and Kan" below), someone going out, or the tiles from the draw wall being exhausted, resulting in a draw.
+
+Making Melds -
+The main focus of putting together your hand is to make four melds and a pair. Melds consist of three tiles that are either the exact same tile, a "triplet", or three tiles of the same suit in sequence, or a "run". With those melds and a pair of the exact same tile, you'll be able to go out and make points. That's the very simplest way of putting it.
+
+Note that with a run that having four or five in a sequence doesn't allow you to go out on their own. That said, having multiple sequences does open up some options. For example, having a 3, 4, 5, 6, and 7 of the same suit isn't enough on their own, but you have the option of two full melds if you get a 2 or an 8 (234 and 567 or 345 and 678) or even a 5 (345 and 567). A lot of higher-level gameplay is giving yourself options for multiple ways to get a meld and knowing what's better to discard. For instance, consider two fours and a three of the same suit. No good on their own, but if you get a two, a four, or a five of the same suit, you've got a meld and can discard the remaining one. Even if you get a three, this opens up even more options, as two runs that are exactly the same are worth more points when going out.
+
+Dora and Red Dora -
+Dora is a small factor but worth noting. See that one face-up tile on the dead wall? That's the dora indicator tile. If you have the next tile in the sequence in your hand when you go out, it's "dora" and worth extra, and if you have multiples of that same tile, it's worth even more. Now, "next tile in the sequence" is different depending on what the indicator is. For the most part, it's one number up if you have a suited tile, and if the indicator is a nine, the dora is a one of that same suit. In the case of winds, the dora is the next wind in a clockwise direction, so if the indicator is West then the dora is North. In the case of dragons, the sequence is "green-red-white"; which is alphabetical order if you need that mnemonic.
+
+Red Dora is an option you can turn on before the game starts. With this on, two of each of the five tiles (six in total) will be colored red. If you get them and can work them into a meld, they'll be worth extra.
+
+Pon, Chi, and Kan -
+So, if you've stumbled through this minigame, you'll sometimes come upon the option to press X to declare "Pon", "Chi", or "Kan". A good general rule if this is offered is "don't", but let me explain that in more depth.
+
+This is the concept of stealing tiles from your opponents, specifically, the one directly to your left. When your opponent discards, if the tile he throws out can complete a meld in your hand, you have the option of taking that tile to complete the meld:
+
+"Pon" is taking the third tile of a triplet.
+"Chi" is taking the third tile in a run.
+"Kan" is taking the fourth tile in a quad and also has some extra things that happen. More on that in a second.
+Once you do that, those tiles are flipped over, put aside, and cannot be changed for the rest of the hand. It's still a legitimate meld, but your hand is no longer "fully concealed". Being fully concealed allows you to go out even if you don't have any special qualities to your hand, but stealing a tile means your options for going out are now more limited. It's the risk you take for grabbing something you've already seen.
+
+Now, should you never steal? There's a long and interesting answer to that, but it basically boils down to "what are you trying to make"? If you have a particular hand in mind, especially a high-scoring hand, maybe you should steal to finish it, even if it means fewer points. If you're kinda just going with whatever, then maybe you should hold off even if the opportunity has presented itself. If someone has declared Riichi, meaning they're one tile away from going out, maybe steal a little bit more to see if you can beat them to it. Just take care when doing so.
+
+Okay, "Kan". When you declare a quad as kan, you end up doing two things. First, you'll take an extra tile, because you're now down one tile having used it to make a fourth, but you still need to make four melds. Second, a new dora indicator tile will be flipped on the dead wall. Good news is that you can now make dora with two possible tiles. Bad news is that so can any of your opponents. Declaring kan is a risky move that you may want to reserve only if you're getting close to the end and want to see if you can tack a few more points on.
+
+There's also the concept of a "closed kan", which you can do if you actually get dealt the four tiles instead of stealing the last one. If you can make a closed kan, then your hand is still declared "concealed", but you still get the benefits of declaring a kan, including the extra dora indicator and a spare tile.
+
+Going Out: Riichi, Ron, and Tsumo -
+So, here you are. Your hand is getting close to being complete. The first question to ask yourself is: will this be a valid hand to go out on? The game provides a LONG list of valid hands that you can go out with, but I'll try to simplify it as much as possible here with some questions for your hand:
+
+Have you declared "pon", "chi", or "kan"? If so, your options become more complicated for what you can use.
+Do you have dora or any red dora applied?
+What is the prevailing wind (starts at East) and your current seat wind (in front of you)? If you have trips of those, that's points.
+Lastly, do you qualify for any of the more complicated hands that don't require melds? There are two important ones: Seven Pairs and Thirteen Orphans. Seven Pairs is not all that difficult to make. It's literally what it says: you have six pairs and a loner in your hand and the extra tile you draw makes the seventh pair. Thirteen Orphans is a hand that has one of each honor tile, and the one and the nine of each of the three suits. Pretty tough to make.
+
+In all likelihood, you'll probably have a hand with some runs, some trips, and a pair, or at least close to that, and if you haven't declared pon, chi, or kan, then you can go out simply on that once you complete all the melds.
+
+So, first is the idea of "riichi". If you're in a situation where you need one more tile to win and you're still concealed, press Square and you can declare riichi. You will then (in a flashy cutscene), lay down a 1000-point stick, basically betting 1000 points that you can complete your hand. My advice is to tap Square every so often as you get late in your hand to see if you can declare, just in case you missed it yourself. Once you actually declare, the music will kick into high gear you will not be able to change your hand any more, and are just waiting on draws for the tile (or tiles) you need to come in. If you go out on that hand, then you'll get extra for having declared riichi.
+
+One thing to note is that the game gives you a helpful guide on what you'll need to go out if you declare in the upper right corner. You'll see valid tiles and the number of which are still unknown as to whether they're in play or not. For instance, seeing a five of bamboo with a "3" next to it means that you'll need a five of bamboo to win, and three of them are still unaccounted for by you. They could be in the draw wall. They could be in someone else's hand. They could be in the dead wall for all you know. All you know is that they aren't in your hand or discarded. This may go without saying, but always go for the highest possible amount of tiles that could work for you, because in some cases you'll have options on which tile to discard to declare riichi.
+
+With all that out of the way, we can finally talk about actually going out. There are two ways to go out: "ron" and "tsumo".
+
+"Ron" is stealing someone else's tile to complete your hand. Whereas with normal stealing you have to steal from your left, in the case of ron, you can steal from anyone. You'll use their tile to complete your hand and all the points you win will be taken directly from them.
+
+"Tsumo" is getting a winning tile by drawing it. You'll complete your hand and the points you win will be taken equally from your opponents.
+
+Once you go out, the round is over and your score will be tallied based on your hand. I don't plan on putting all the hands in this guide: it's just too much. Use my tips above to make your best hand possible early on in your mahjong career, and once you get more comfortable, then you can start playing around with getting more interesting and higher scoring hands.
+
+WARNING: I'm getting reports of a possible glitch that can happen in the PS5 edition of this game (Director's Cut). If you mash the X button on the PS controller, it will sometimes bug out and you won't be able to confirm a win, so please control your mashing fingers. This may happen on other versions as well, but it's unconfirmed.
+
+After the Hand is Complete -
+Once a hand is completed and tallied, the next hand will begin. The seat winds will rotate counter-clockwise, making the person who ends up as East the new dealer. This will continue until all four players have been the dealer, after which a quarter of the game will be over and the prevailing wind will change.
+
+In the case of playing Mahjong in a Yakuza game, playing a quarter game will see the game over after a full round with East as the prevailing wind. If you play a half game, the game will go through all of East and then a round of South as the prevailing wind, and then it will be over.
+
+There are two circumstances where the winds do not rotate. If a draw occurs, the winds do not rotate. Also, if the dealer (at East) wins, the winds do not rotate. This causes an extra hand to happen with the same winds until someone who is not the dealer wins.
+
+Once all the allotted rounds are completed, the game ends. The final scores are shown, and the "uma" bonuses are applied. Depending on what place you're in, you'll have points either added to or subtracted from your total. You can ask the guy at the counter what the bonus point distribution is, but actually, through some programming oversight, the game lies. Here is the "true" uma that I determined by actually watching the game. Also thanks to barticle for maing me savvy that they were wrong.
+
+Place	Easy	Medium	Hard	Ranking
+1st	+10,000	+20,000	+30,000	+75,000
+2nd	+5,000	+10,000	+10,000	
++15,000
+
+3rd	-5,000	-10,000	-10,000	-25,000
+4th	-10,000	-20,000	-30,000	-65,000
+Your final score is then converted into yen, and either given to you or taken away from you (yes, you can lose more yen). On an Easy Table, that's one yen per point. On the Medium Table, that's 10 yen per point. On the Hard Table, it's 100 yen per point.
+
+Hints for Play -
+And here I've made a quick list to go through while you play of hints to keep in mind:
+
+Early Game:
+
+Look for pairs and two-tile runs in your dealt hand. Set up the melds early and often.
+Note the Dora, your wind, and the prevailing wind. They'll be worth points if you focus on them.
+If your hand seems garbage, go for something funky, like Seven Pairs or Thirteen Orphans.
+Mid Game:
+
+Watch the discards. If you have two of something in your hand and a third has been discarded, you have that much less chance of getting the fourth.
+Pon, Chi, or Kan only if necessary to make a high scoring hand or block someone winning.
+Don't be afraid to change your strategy. If you see a lot of discards of a particular type, abandon going in that direction and try to get different melds. You might be surprised.
+Late Game:
+
+Riichi if you can. Maybe tap Square every so often to see if you can declare it.
+Watch what hasn't been discarded. Someone's probably waiting for one of your tiles to go out. It's a high level way to play, but as hands become more obvious to you, it'll be in your interest to watch.
+Sometimes you just lose and there's very little you can do about it. That's life and luck. Shake it off and move on to the next hand.
+
+Ranking Matches -
+Another way to enjoy mahjong in this game is to play the ranked matches. You start at Rank 28 and will be tasked with beating a series of opponents and climbing your way up through the ranks. Request "Ranking Match" from the proprietor and pay a 50,000 yen buy-in. It's a one-time pay, and every game is free after that. You'll enter matches with a skill group. You'll play a Half Game with Red Dora, and will play against the two people ranked above you and the one ranked below. If you get in first place, you'll advance two ranks. If you get second, you'll advance one. If you get fourth, you'll drop a rank.
+
+Since there's only the one buy in, you don't have to worry about bailing if you're having a bad game. Just press the Touch Pad and select Quit and you can ditch the match at no penalty.
+
+Here are the rewards you can get at specific ranks:
+
+Rank	Reward	Type
+25	Gentleman's Umbrella	Weapon
+20	Calming Towel	
+Accessory
+
+15	Tourmaline Bracelet	Accessory
+10	Elder's Belly Warmer	Gear
+5	Hyper Stun Gun	Weapon
+3	Head Honcho Scarf	Accessory
+1	Magnetic Necklace	Accessory
+Not the best of items, and easily earned through other means, so don't feel like these ranked matches are worth it to go the distance to 100%. It's just a little extra fun you can have if you enjoy mahjong.
+
+Completion -
+Lastly, let's tackle each of the completion metrics one by one:
+
+Money - Play on the hard table once you have a good-sized bankroll. Win handily a few times and you'll make that money quickly while going for the more complicated stuff below.
+Going out ten times - Simply declare ron or tsumo to win the hand.
+Earn Mangan five times - This is a bit more complicated. Earlier in this section, I've mentioned stuff being worth "extra" or "points". Really, scoring elements to your winning hand are applied as what's called "han", and how many han you have determines how many numerical points you get. Mangan is earned easily by having five han (or more in this case for completion), but can also be earned on four or three han if you have certain types of melds. To reduce complication, I'll simply say that you have to have good hands to get Mangan, so go for high scoring hands.
+Earn Haneman - Haneman is earned with having a hand with six han (or more for completion sake).
+Riichi Ippatsu - This is a situation that occurs when you declare riichi, and then get the tile you need within the next go-round, either going ron off the next turn of the other three players, or tsumo on your next draw. It's entirely luck whether you get it, so just keep trying.
+Full Straight - This is a set where you have one through nine of any one suit, and then another meld and a pair. Seems really tough but there are ways to work towards it. For one, don't try for this unless you get at least five different numbers of one suit in your deal. Next, you are allowed to have an open hand, and the three parts of the full straight are techincally three separate runs, so you're allowed to "chi" to make the 123, the 456, or the 789. Don't chi for any other combinations though, as those won't make the full straight legitimate. After that, it's all the luck of the draw.
+__________________________________________________________________________
+Pocket Circuit
+Found: Pocket Circuit Stadium in Kamurocho
+
+Completion: Win all the races and collect many components.
+
+And now, the finest race of champions. Starting at daytime in Chapter 2 (after Kiryu returns to his apartment), you can go to the west end of Shichifuku St. to find a lady barking for Pocket Circuit. Head inside the Stadium and bask in the glory of speed. You'll automatically speak to Pocket Circuit Fighter who will explain to you the ins and outs of pocket racing.
+
+Racing itself is actually exceedingly simple. The cars race entirely on their own. Each race you have one turbo (two for a twelve lap race) that you can use by pressing the indicated button, and if your car gets unsettled and might fly off the track, which you'll know by way of the extreme close-up and the prompts, mash the Stabilize button to realign it. Other than that, you can hold to the right on the Left Stick to fast forward the race if it's not exciting enough for you. Be careful using the Stabilize, though, since you only get so much you can use on the meter. It replenishes slowly, and if you don't have any meter left, flying off will disqualify you. It's best to simply tap it a few times to make sure your car is settling back in its track.
+
+The actual challenge in Pocket Circuit is building the proper car. Based around several components that take up an entire wing of your inventory, putting together a car that drives like a champion is a big deal. Most of these components are purchased from the shop right in the Stadium. You'll start with a basic set and as you complete races, more will become available. You'll get new parts available after completing the first, third, fourth, sixth, and final races. These parts will become more and more expensive with each drop, so while you can get a little ways in early in the game, maybe wait until you start Real Estate Royale for the most expensive parts and for cleaning out their stock.
+
+There are also some parts that you can't get at the Stadium. Some are found in shops around town, and there are a few that can only be gleaned from getting lucky at a Dream Machine.
+
+I've included a list of Pocket Circuit Components down in the Item List, so go there if you're looking to fill every space in your inventory. For those of you looking to simply just get this done for the completion, I've got you covered here. These builds were put together by kkhsubs.com, so all credit goes to them for doing the legwork for me to construct the best car for each race.
+
+Race	Introductory Race	Little Racers' Cup	Rookies' Race	Pro-Am Race	Expert's Race	Champions' Cup	King of Speed Cup
+Tires	Slim Tires	Slim Tires Plus	Soft Tires Plus	Extra Spiked Tires	Super Soft Tires	Super Spiked Tires	Ultra Slim Tires
+Frame	Balanced Frame	Balanced Frame	Balanced Frame Plus	Extra Balanced Frame	Super Balanced Frame	Super Balanced Frame	Ultra Metal Frame
+Motor	High Torque Motor 2.0	Godspeed Motor
+Gears	Balanced Gears	Balanced Gears Plus	Balanced Gears Plus	Boost Gears	Godspeed Gears Plus	Godspeed Gears Plus	Extra Godspeed Gears
+Battery	High Speed Battery	High Speed Battery	High Capacity Battery	High Speed Battery	High Speed Battery	High Speed
+Battery	High Capacity Battery
+Suspension	None	Heavy Suspension
+Bumper	None	Bumper Plate
+The list doesn't mention car, decal, or side stabilizer. For the first two, they don't have an effect. The Side Stabilizer doesn't factor into any of the builds.
+
+Note that none of these parts listed require you to hit up a Dream Machine, so the Pocket Circuit Drama is fully completable without relying on random chance. You will need to get the Batteries from Don Quijote, and the High Torque Motor 2.0 from the secret shop that opens from Substory #8, and you'll need the money to buy the "Killer Bee" car from Ebisu Pawn to get the Bumper Plate. Everything else in that list can be bought from the store. Some of these builds are serious to the point where you'll have to rely on mashing Circle to keep your car in the track, but none of them require you to use Turbo.
+
+These builds can also be used on Pocket Circuit related Substories, and in those sections you can use previous builds, except for the last one, which requires a rather particular build.
+
+Pocket Circuit Substory Builds
+Substory	36	37	38	39	40	41	42	43
+Tires	Slick Tires	Slim Tires Plus	Soft Tires Plus	Extra Spiked Tires	Super Soft Tires	Super Spiked Tires	Ultra Slim Tires	Ultra Spiked Tires
+Frame	Balanced Frame	Balanced Frame Plus	Extra Balanced Frame	Super Balanced Frame	Ultra Metal Frame
+Motor	High Torque Motor 2.0	Godspeed Motor
+Gears	Balanced Gears	Balanced Gears Plus	Boost Gears	Godspeed Gears Plus	Extra Godspeed Gears	Super Boost Gears
+Battery	High Speed Battery	High Capacity Battery	High Speed Battery	High Capacity Battery
+Suspension	None	Heavy Suspension
+Bumper	None	Bumper Plate
+__________________________________________________________________________
+Pool
+Found: Vincent in Kamurocho, Shot Bar STIJL in Sotenbori
+
+Completion:
+
+Earn ten million in Puzzle Pool
+Perform three Carom Shots
+Perform three Combination Shots
+A few bars in the game have a pool table set up for your billiards enjoyment. Approach the nearby attendant to be set up in a game. You'll select your game and the difficulty of your opponent. You can also play nine-ball alone if you wish. Also you can play what's called "Puzzle Pool", where you'll have to perform trick shots to sink a ball by yourself.
+
+Here's how to play the main games. These are also the regulation rules for the real-life games, more or less:
+
+Nine-ball -
+The objective is to sink the nine-ball. The issue is that you're meant to sink the other eight balls in numerical order first. The only legal shots in the game are shots where the cue ball hits the lowest ball on the table, starting with the one-ball, and you can only continue shooting if you sink a ball. That said, you're not *required* to sink the nine-ball last. If you, for example, hit the one-ball and it knocks the nine-ball into a pocket, you win, the end.
+
+There is a new variation on Nine-ball in this game called "Golden Ball". It will unlock once you play pool three times (that is, play, go back to the bar, play again, etc.) In this version, one of the balls is gold, you're betting 1 million, and you're playing against Erika, who is expert level. Your goal is to both sink the golden ball and win the game to get double your wager. If you neither sink the golden ball nor win the game, you lose your wager. If you do one of those, you get your wager back. There is a bug in this: if Erika sinks the Golden Ball then scratches (can happen on breaks), then she still gets credit for sinking the golden ball even though it goes back on the table.
+
+Eight-ball -
+The objective is to sink the eight-ball. In order to be allowed to sink the eight-ball, you have to sink all of one-half of the remaining balls, either high or low (or solids or stripes, if you prefer). After a ball is sunk, the person who sunk it must declare whether they're going for high or low, and they may only continue to shoot if they continue to sink those balls. Once they exhaust the balls of their type on the table, they may shoot for the eight-ball, but they must declare what pocket they're going to sink it in. If they sink it in the wrong pocket, the opponent gets a turn. The game is automatically lost if a player sinks the eight-ball early.
+
+Rotation -
+Points are the objective to this game. The first person to score 61 points wins the game. Points are score by sinking balls: each ball is worth its face amount in points. Like nine-ball, a shot is only legal if the lowest number on the table is struck by the cue, but any balls that go in (apart from the cue, of course) will add to your point total. Sink a ball and you'll be allowed to continue, otherwise your opponent gets their turn. If the table is cleared, the balls are all re-racked.
+
+Four-ball -
+This game is played on a pocket-less table. There are two cues (differently colored), one for each player, and two red balls on the table. You get a point every time you hit your cue into at least two of the other balls, and the opportunity to shoot again. The game is over at 11 points.
+
+Puzzle Pool -
+This is a one-player setup where the player is tasked to knock the red ball into the pocket. You'll be given wooden bumpers as obstacles to bank around. Also, hitting any black balls will result in a fail. Sometimes you'll be given yellow balls as help. You may not necessarily need to use them, and there's no benefit or penalty to sinking them, but they're there for your aid. Lastly, don't scratch.
+
+Once you buy into Puzzle Pool, you'll be asked to select a "course" of three puzzles. Only the Easy course is open to you in the beginning. After completing it, you'll be able to access the Normal course, then the Hard course.
+
+Trick Shots -
+In addition to making money from Puzzle Pool, you also need to perform three carom shots and three combination shots.
+
+To understand the different types of shots, let's go through the full list here. First imagine you have three balls on the table. You have the white cue ball (Q), the object ball which you have to strike to be legal (O), and another ball (A).
+
+Regular Shot: You strike Q, Q hits O, and O goes into the pocket.
+Kiss Shot: You strike Q, Q hits O, O hits A, and then O goes into the pocket.
+Carom Shot: You strike Q, Q hits O, Q hits A, and then A goes into the pocket.
+Combination Shot: You strike Q, Q hits O, O hits A, and then A goes into the pocket.
+So you need three each of the latter two. Fortunately, there's a way to set this up without it being too much of a hassle. First, select to Play Alone, and then select Nine-ball. You now have total freedom to nudge balls around all you want, and then you can knock the cue into a pocket to scratch, and then get placement wherever you want. Make setups as best as you can where you can engineer these shots. It'll take some patience and skill, but it's easier than relying on them happening in match games.
+__________________________________________________________________________
+Shogi
+Found: Shoten in Kamurocho, the "Shogi Player" outside the Bunzaemon Mall in Sotenbori
+
+Completion: Win a total of five games without a take back.
+
+Shogi is also known as "Japanese chess" and is played similarly. Each side has a series of pieces, and the object is to place the opponent's king in a state of checkmate, where it cannot avoid being captured in the next move. Unlike the popular Western version of chess, shogi has an interesting mechanic where captured pieces can be returned to the board in the hands of the capturer. Additionally, most pieces that reach the opposite side of the board can be promoted. For more info, make sure you press Triangle during play so you know how the pieces move. The good news is that this version has little English letters in the corner of each piece so you can identify it without having to look it up. P for Pawn, R for Rook and so on.
+
+If you want to know the ins and outs of shogi, I suggest looking up strategies on your own, but for the purpose of this game, and completion, I wanted to let you all know about the easy way to win your requisite five matches. Go to Shoten and go for the Challenges (the guy in Sotenbori doesn't offer this), and take Challenge 1 five times. This is a bananas easy challenge because you have a full complement of pieces and your opponent has just a King and his Pawns, so if you want to learn how the pieces move and play around with it, it's super easy to win, but if you'd rather a step-by-step working strategy:
+
+Move 2: Move your Rook (R) one space left.
+Move 4: Move your 7th Pawn (P) from the left forward.
+Move 6: Move the same Pawn again. It'll get captured.
+Move 8: Move your Rook forward to capture the enemy Pawn.
+Move 10: Move your Rook forward to the second row from the top. Promote or don't promote. Doesn't matter.
+Move 12: Move your 3rd Pawn forward to free up your Bishop.
+Move 14: Move your Bishop (B) to the very center square.
+Move 16: Move your Bishop to the third row from the top, third column from the left. Promote.
+Move 18: Move your Bishop one space forward to checkmate the King.
+Ranked Matches -
+If you're looking to get deeper into this game's Shogi, you can get into ranked matches at Shoten. You'll get nothing but points from them, but if you enjoy the game, you'll be given a series of opponents, and beating the higher ranks will unlock even better opponents. There are a grand total of 31 possible opponents, and the higher the rank you defeat, the more Shogi points you get. It's up to you if you want to get involved. I never did, because I'm not all that great at Shogi.
+
+Game Pieces -
+Pawn - This piece can only move forward one space at a time.
+
+Lance - This piece can move forward as many squares as it has room to move.
+
+Knight - This piece can move in an L-shaped manner: two spaces forward, then one space to the side. It can "jump" over other pieces. Unlike a chess Knight, a shogi Knight cannot move backward.
+
+Bishop - This piece can move diagonally as many spaces as it has room to move.
+
+Rook - This piece can move horizontally/vertically as many spaces as it has room to move.
+
+Silver General - This piece can move one space forward or one space diagonally in any direction.
+
+Gold General - This piece can move one space forward, left, right, back, or diagonally forward.
+
+King - This piece can move one space in any of the eight directions.
+
+Gameplay Flow -
+1.The attacking King has an extra mark on its piece to identify it. That player moves a piece. The other player moves a piece afterwards.
+2.If any piece moves into a space occupied by an opponent's piece, the landed-upon piece is captured and placed on the side board near the capturing player.
+3.Captured pieces are not lost. Instead of moving a piece, a player may take a captured piece and place it on the board in their control. A captured piece may be placed anywhere apart from some rules:
+	1.You cannot place a Pawn on the same column as another of your Pawns. You also cannot place a Pawn in the back row,and you cannot place a Pawn to put a King in checkmate.
+	2.You cannot place a Knight in the back three rows.
+4.Promotion - When a piece reaches the back three rows of the board, it has the option to promote. A promotion flips a piece over and gives it improved movement:
+	1.A promoted Pawn, Lance, Knight, or Silver General will gain the movement of a Gold General.
+	2.A promoted Rook will gain the additional ability to move diagonally one space.
+	3.A promoted Bishop will gain the additional ability to move horizontally/vertically one space.
+	4.Gold Generals and Kings cannot promote.
+	5.Promoting a piece is not required, except in the case of a Pawn, Lance, or Knight that has reached the back row.
+	6.If captured, a promoted piece reverts to normal on the opponent's side board.
+	7.If placing a captured piece in the "promotion zone", the piece can only promote on their next move if they land in the promotion zone.
+5.If any piece is placed where it can capture the opponent's King the next turn, this is known as check and the next move must be an effort to remove the King from danger, either by moving the King itself, capturing the threatening piece, or moving another piece in the way of the threatening piece. A player cannot perform a move which would place their own King in check.
+6.If any piece is placed where the King has no escape to be captured on the next turn, this is known as checkmate and the game is over.
+
+Tips -
+1.Your line of Pawns can be more useful than they look. Keep advancing some forward to put pressure on your opponent. Also, moving Pawns can free up your stronger pieces for movement.
+2.Use your stronger pieces to cover wider swaths of the board and start barricading in the opposing King.
+3.Sometimes baiting your opponent into capturing an undefended piece can be handy if the piece that moves frees up some room for you to launch an attack where it used to be.
+4.If you've played a lot of chess, do not forget that you can replace captured pieces in Shogi. Dropping a piece behind enemy lines can be brutal if played correctly.
+5.If you're looking for some easy wins, then it means you're ready to engage in Bot Wars, and it requires you to have a PC nearby, or another window open if you're playing PC. Go to the website pychess.org, which has many chess variants, including Shogi. They don't have the pieces with Roman letters on them, but if you click on the "Settings" in the upper-right corner of the screen, you can use pieces with pictures on them which can help. Just make sure you set up a game against a bot and have the bot be the opposite set of pieces that your bot in this game is.
+__________________________________________________________________________
+Telephone Club
+Location: Teltel Boys Club in Kamurocho
+
+Completion: Befriend Riku, Ayaka, and Haruki through the club
+
+Here's a nice blast from the past. Telephone clubs were a big deal in urban Japan, especially back in the 80's and 90's, prior to the Internet and chat rooms. People would pay a small fee to simply talk to other people on the phone. Typically women would put out the call and they'd be paired with random men in a connecting club. The idea is that they'd be looking to make a connection, and through the telephone call they could arrange to meet up later for a date or something more. How big is this? Well, if you know Japanese katakana, you can see the word "terekura" (short for telephone club) on more billboards and signs than you can count while walking around Kamurocho. It's a big business.
+
+Kiryu can get involved in this starting in Chapter 5 once he gets his new suit. The Teltel Boys Club is situated on Senryo Ave. north of Shoten. Head inside and you'll pay your fee for however long you wish to be involved. Protip: Always choose the longest session. It's 3,000 yen, which is pennies for the amount you make, and it gives you a full five minutes to play with. Once inside, Kiryu will tense himself and get ready to receive a call. Hit the quick-time event prompt to respond the moment the phone rings (in massively overdone Kiryu style). Moshi moshi?
+
+Once you begin the conversation, you'll need to build up your connection's impression of you. This is done with either her asking Kiryu a question, or Kiryu thinking of something nice to say. Four potential things to say will float around the screen and you'll have to select the right one. For the most part, it's pretty obvious (for instance: "lovely voice" is a good pick), but even if you're stumped on how to answer, wait about ten seconds and the correct answer will flash gold. To actually select the answer, you'll need to use the Left Stick to aim your cursor and "charge your beam". You charge by rotating the Right Stick (like a telephone dial) and once it's fully charged, hold the Right Stick in the direction you stopped on to maintain the charge. Release the Right Stick and you'll fire. There's a little delay on your shot, so make sure you lead your target a little. If you hit correctly, the heart in the lower right corner will increase. If you hit the wrong thing too many times, she'll get creeped out and will hang up.
+
+After you fill up your connection's heart meter, you'll be able to ask her a question. It's always the same series of three inquiries: "Describe your body", "Describe your face", "Can we meet up?" The inquiry is presented as a spinning roulette of the one you want and several you don't. Make sure you hit the right one as it comes up in the front. The roulette will move back even if you're a bit past it, so just aim for the response when it passes the center. Once you ask the question, Kiryu's "imagination" will start filling in the blanks about what she looks like (disclaimer: this guide makes no guarantees as to the actual person matching Kiryu's imagination, so please imagine responsibly). With a successful question asked, you'll go back to the first part of filling up her heart meter a second time, after which you'll ask her the second question about her face. Then a third time and you'll request a meet-up. The whole process, if you're any good at it, will take a couple of minutes tops.
+
+Once you "seal the deal" and solidify your meeting, cutscenes will automatically play out as to the results. You may have to do one or more things afterwards.
+
+In the game, Kiryu can be contacted by any of nine women. Three of these are meaningful connections. Six of them are duds, at least from Kiryu's perspective. The proper "love connections" are completion metrics, but there are also seven substories tied with this minigame as well. Every time you meet someone is a substory, with three of the potential women (Asakura, Sakurako, and Sakurai) counting as one particular substory.
+
+Lastly, if you're in a phone call and want to back down hard, simply hold L1/LB down and Kiryu will hang up after a couple of seconds and you can move on to the next prospect. This can be handy to remember if you're going for completion and want a particular person.
+
+Making the first few connections is easy. The hard part of this adventure is making all of them, because even if you meet up with someone, you'll be just as likely to be contacted by them again the next time you go to the telephone club. You do get some help, though. Remember that when you connect, you'll see Kiryu's imagination in the background. The woman there will be wearing a bikini of a certain color. There are three different colors, and with the nine women you can talk to, that's groups of three for each color. So when you see a bikini of a certain color, you'll know it's one of those three women.
+
+Secondly, pay attention to the length of the quick-time event for answering the phone. If it's one of the "success" stories, then there's a good chance that the quick-time event will be very fast, otherwise it will be pretty slow.
+
+Beyond that, there is only one other metric for determining whom you're speaking to, and that's their voice. Each of the nine women have a distinct voice, so if you can possibly get a recording of what the women sound like and play it back when you try again on another one, use that as a baseline to see if you can determine if she's the same or different. If I get better at picking out who is who, then I'll make an effort to add information here as to how you can determine them by voice.
+
+And there are NO other means for determining who's who. The lines they give you, the questions they ask, and so on. There are no correlations between those and the woman you get. All you have are bikini, the QTE, and the voice. The following chart is a breakdown of each person and their results, as well as the substories they're tied to:
+
+Color	Name	Result	Once You Arrive at Theater Square...
+Blue	Riku	Success - Substory #31	"Talk to the Girl in Front"
+Asakura	Fail - Substory #34	
+Mirei	Fail - Substory #35
+White	Ayaka	Success - Substory #32	"Move in For a Better Look", then "Talk to the Further Woman"
+Sakurako	Fail - Substory #34	
+Maria	Fail - Substory #44
+Green	Haruki	Success - Substory #33	"Talk to the Farther Woman", then fight the man who shows up
+Sakurai	Fail - Substory #34	
+Sayuri	Fail - Substory #45
+So in that regard, once you get one of the "sakuras" and two others of the same color, you can simply hang up whenever that color comes up again to save time.
+
+In the case of Riku, Ayaka, and Haruki, once you've made your connection, you'll get their pager number, which allows you to call them up for dates if you like. Simply go to Darts, Pool, Bowling, Disco, or Karaoke and you'll have the option of calling them up to have them participate in the fun. There's no extenuating reason to do so, though. Once you've got their completion metric, you're effectively done with them, but I personally enjoy taking each girl to Karaoke to hear her sing.

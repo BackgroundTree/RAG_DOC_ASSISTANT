@@ -1,0 +1,896 @@
+Basic Combat
+While the multiple styles in this game will seem overwhelming at first, there are certain aspects to combat that are universal.
+
+Combat Display -
+This section covers the meters and things you should be monitoring as you battle:
+
+By far the most prominent part of the display is the Style marker. In the upper left corner will be a good-sized icon explaining the current style you have active.
+
+Just to the right of that is the Health Bar. At the top of your screen is a big orange bar. That's your health, and when it's depleted, it's game over. Your health will flash red as it gets really low. You can restore health using food and energy drinks, and you increase maximum health by purchasing upgrades in the Abilities menu. Each style has multiple health upgrades to apply, and each upgrade works for all styles.
+
+Below the Health Bar is the Heat Gauge, represented in three colored bars. As you hit other people, it will increase, and when you fill the 1st Bar, you'll be able to spend your Heat to use Heat Actions. Your Heat will decrease as you take damage, are grabbed by enemies, are knocked down, or simply with time spent not punching. While you can't increase your maximum Heat level in this game, you can purchase abilities that will make the gauge rise faster, decrease slower, or give new ways to increase Heat. Also, you may want to pay attention to which bar you're filling, as certain abilities can only be exploited at a certain level of Heat. Some abilities require you to be on the 1st Bar to take advantage of them.
+
+Other things to look out for are your minimap in the lower-left. It will point out enemies in the area relative to you as red arrows. In the lower right are enemy health bars. It's tough to tell who's bar is whose, but when they empty, the enemy is knocked out. Bars that are differently colored mean the enemy has higher health. The lowest colored bar is orange, then yellow, green, light blue, purple, and if anyone's a color other than that, you're dealing with a serious foe.
+
+In the upper right is a running money tally for what you've earned through the fight. You earn money from big hits, knockdowns, knockouts, and various other ways. Once you complete a fight, you have the option of hitting the Options button to view any bonuses to your money earned you get based on your actions.
+
+Encounters -
+There are essentially two types of encounters in this game: Scripted and Random. Scripted encounters occur as a result of something you've initiated as part of a story, whether it's the main story, a substory, training, or a minigame.
+
+Random encounters are those that are placed around the city. These encounters are further subdivided into three types:
+
+Aggressors - These are guys that see you on the street, walking around in groups. You can hear them as they gruffly call out to you and above their heads will be a pink-colored word balloon you can use to identify them. Once they notice you, they'll rush towards you to initiate combat. If you walk, they will typically not approach you unless you're too close. Also if you dash around behind them, they will usually not see you until you're at a point where you can get away from them.
+Interventions - New to this game is the ability to start a melee when you see a problem. As you explore, look at the bottom of your screen for subtitled text. If it seems like a person in distress, search for the source of trouble. Usually there will be a cowering person surrounded by a few tough guys. Speak to them and initiate the fight. When you win, the victim will give you a reward, usually in the form of an energy drink or a plate you can sell.
+Bumpers - These are guys who are minding their own business and are quite docile unless bumped into by a rude Kiryu or Majima. Once bumped, they will start chasing after you as if they were aggressors. It's not always easy to tell who can be bumped into to start a fight, but typically they'll be looking rather thuggish.
+Once the encounter begins, bystanders will rush up to your fight and surround you, effectively making a fighting arena, and you're locked in. The only way it ends is with the enemy's defeat, or your defeat. You'll get a cool splash screen describing your foes, and then you'll be thrown into the melee. Defeat them to the best of your ability to gain the most money. If defeated yourself, you'll have the option to retry or load from a previous save.
+
+The Basic Moveset -
+For the most part, all styles have the same basic moveset. It's usually once you factor in their special techniques that they differ:
+Rush Combo - Press the button multiple times. How many times you can press the button depends on the style. These are fast and weak attacks. Very useful as openers to combos or quick jabs against enemies that are tougher.
+Heavy Attack - Press the button once. This is a single blow that's useful for causing slightly more damage than a Rush Combo. You can also use this against enemies that are prone on the ground to strike them. Some styles also have another type of heavy attack by pressing Circle.
+Finishing Blow - Press Heavy Attack after a Rush Combo. This will change depending on when in the Rush Combo you use it. For example, Light-Heavy is different from Light-Light-Light-Heavy. This typically causes really good damage and usually results in a knockdown on a stronger style.
+Heat Action - As you fight, your blue Heat Gauge will fill up. When it passes the first marker you enter "Heat Mode". This means that in certain situations a blue flame icon will appear in the upper right corner of the screen. If it's visible, you can press Heavy Attack to perform a Heat Action, an incredibly damaging (and satisfying) move that will typically leave an enemy demolished. Information on how to perform all the Heat Actions are in their section. NOTE: If you want to preserve your Heat, hold down L2/LT and you can press Triangle without using a Heat Move.
+Grab - Press the button in certain styles to grab an enemy and hold them in front of you. You can move them around if you wish. Careful, because while grabs cannot be blocked, everyone has a grab "limit", and some enemies can bust out of grabs much easier than others. To reverse your grab to the enemy's back (or front), press the Guard button. Once you've grabbed an enemy, you have other options:
+Pummel - Press Rush Combo a few times to smack your enemy while you've got him helpless.
+Knock Away - Press Heavy Attack to kick your enemy away. This can cause damage and knockdown to other enemies in the area.
+Throw - Press the Grab button again to throw your enemy to the ground, putting them prone. Sometimes enemies will resist you, and you'll have to mash the button to get them down. That said, enemies with very low guard limits will likely still be susceptible to these throws rather than pummeling or kicks. If you face a very strong enemy that guards your attacks, consider this move to set something up.
+Quickstep - Press the Evade button and a direction to dodge in that direction. This can get you away from enemy combos and give you some breathing room. Some styles give you better or multiple Quicksteps.
+Guard - Hold the button to put up a guard. For most styles, you'll only be able to guard from the front, and if unarmed, you won't be able to block weapons. If you wish to be able to block weapons, have a weapon already equipped when you guard. Also, certain large attacks can break your guard, pushing you back and making you momentarily vulnerable.
+Fighting Stance - Hold the button to adopt a fighting stance that will focus you on a specific enemy. Some moves are set up around the fighting stance, but this can also just be used to lock on to a specific enemy you want to whale on. This is especially useful for using the Quickstep to dodge around an enemy to their rear.
+Taunt - Press the button when near an enemy to taunt. Initially, this does nothing, but you can apply abilities to taunting that can make it work to your advantage.
+Money Multipliers -
+Every time you knock an enemy down or land a big hit, you'll shake some jingle from their jeans. On its own, that money is somewhere in the low 10,000s of yen, which seems like quite a bit, but it'll be peanuts in a hurry as you go through the game. To this end, a whole bunch of multipliers can be applied to the amount of money you get from enemies, and these can be applied in several ways.
+
+The first kind of multipliers are those that you can see on the Pause screen. Let's call them "passive" multipliers because they're not specifically earned in combat, and they're applied globally to all your hits in any fight. These are split into four kinds:
+
+Weapon - Certain weapons increase your multiplier simply by being used. You MUST score your hits and KOs with the weapon for the multiplier to be applied; it's not enough just to have it equipped.
+Shakedown - This is increased by equipping items that are specific to improving your fights with Mr. Shakedown, like the Avarice Shirt. They will ONLY work while fighting him, though.
+Equipment - This is increased by equipping accessories that improve your "financial luck", like the Secret Wallet or Security Wallet.
+CP - This is increased by buying the "Money Magnet" perk at the Shrine or Temple.
+The second kind of multipliers we'll call "active". You get these directly through what you do in combat. "Enemy Down", for example, is a 4.0 multiplier that you get simply for KO'ing an enemy. "Top Gear" is a 3.5 multiplier that you get for defeating an enemy while your Heat is completely full, which you'll get in addition to already getting "Enemy Down". You get these bonuses for their specific hits at the time, and they only persist for that hit.
+
+Multipliers are additive, not multiplicative, so say you have a 1.0 on passive multipliers and you defeat a single guy with a Heat Action and not getting hit yourself during the fight. You'll get 4.0 for Enemy Down, 5.0 for Heat Explosion, and 3.0 for Untouchable. If you got 10,000 yen as a base for the hit, you'll have a 4 + 5 + 3 = 12.0 multiplier applied to that hit, giving you 120,000 yen.
+
+If you'd like a list of active multipliers, press Options at the end of any fight. You'll see the full list and their amounts. Don't try to go for "Legend in the Making". It's not worth fighting at 1HP for it. More reliable multipliers that you should go for would be "Heat Explosion" and "Finishing Blow", since you can easily insert those into your repertoire. Also, "Combo Takedown" can be set up easily if you wear everyone down equally.
+
+Also, the passive multipliers only add the increased amount for the equipment, so say for passive multipliers you have 2.0 on Weapons, 1.2 on Mr. Shakedown, and 2.0 on CP. Scoring a knockdown will get you a 3.2 multiplier, which is 1.0 plus the number of additions to each.
+
+Weapons and Gear -
+Weapons assist you in combat by giving you extra range and striking power. There are two kinds of weapons as far as combat is concerned: weapons you equip and bring into combat, and weapons you find during the course of combat, and there is some overlap between the two.
+
+Press the Grab button if you find a weapon on the ground to pick it up. Much like regular attacks, there are multiple attacks you can perform with weapons. The Light Attack is typically a quick strike that can be comboed. The Heavy Attack can sometimes be charged. The Grab button will throw the weapon if it's one you've picked up off the ground. If it's a stored weapon, then the Grab button will be a third attack. You can also use the Guard button to guard with the weapon. This typically puts up a better guard than if you were unarmed, and can even block bullets with the right weapon. If you wish to drop a weapon you've picked up, press Down on the D-Pad.
+
+Almost all weapons have a durability to them, represented by a number. Strike enough and the weapon will break and be useless. If the weapon was picked up, then it will disappear. If the weapon was equipped, then it will remain in your inventory with zero durability, and remain useless in there until you get it repaired using a Repair Kit or at Dragon & Tiger.
+
+Guns operate a little differently. They have infinite durability, but finite ammo. You can swing them by pressing Light Attack, but they cause very little damage. To fire them, you'll need to press Heavy Attack. It may help to use Fighting Stance to target an enemy so you line up your shot, but in general, pressing Heavy Attack while generally facing an enemy will hit them. These instructions also apply to Launchers and certain unorthodox weapons, like Lighters that operate as flamethrowers.
+
+In addition to the obvious weapons such as swords, sticks, and guns, a great many pieces of the environment can be picked up and used. Traffic cones, beer crates, bicycles, and many other pieces of furniture can be used to damage your foes. If you see a pink arrow pointing at the object in the field, you can pick it up and use it. If it's not a "regular" type of weapon, though, you can't keep it after the fight.
+
+As for Gear, it will be to your advantage to seek out something to wear to decrease damage. Both characters can equip one "Gear" (basically body protection) and two Accessories. The Gear will typically be used to directly reduce the damage you take (represented by numbers for basic defense, defense against blades, and defense against bullets) and Accessories will be there to give you special abilities, such as sapping enemy Heat, special protection against certain attacks, etc. Gear can be sold in many locations, and the best stuff can be made through Dragon & Tiger. Practice and experiment with stuff you find, and be wary of items that make things harder for you, like the Charismatic Photo.
+
+Enemy Types, States, and Moods -
+For the most part, your enemies are just ruffians with limited fighting skill. Some of them are good at guarding. Some come with weapons. Some of them have some flashy attacks. It's not until you reach story bosses or enter the combat minigames that you'll run across enemies of serious skill. These guys will have unbreakable guards, unblockable attacks, or even their own Heat Moves to use against you.
+
+One type of enemy you should be on the watch for is the "Nouveau Riche" once you unlock him at the Completion Shrine. This guy wears a shiny gold suit and sunglasses. If you come across him, beat him up to gain a much greater amount of money than you would normally.
+
+Apart from that, there are also some things to watch out for if you see an enemy different than normal:
+
+Prone - An enemy that's prone on the ground is vulnerable to Heavy Attacks and certain Heat Actions. Also in some situations you can grab enemies in a prone state.
+Grabbing - An enemy grabbing you will drain your Heat. You can mash the indicated button to shake him off, or press attack buttons to hit guys around you to stun them. Also, depending on the style you may have other moves in this state.
+Stun - Stars spinning around an enemy's head can happen when enemies are hit with certain weapons or certain moves. These enemies are defenseless for a couple of seconds. Certain Heat Actions are set up around this state.
+Burn - An enemy caught in fire will fall to the ground in flames and take a certain amount of damage over time.
+Slip - An enemy slipping on the floor will end up in a prone state.
+Shock - A shocked enemy will basically be stunned for a short while. Shock attacks will also interrupt enemy attack patterns.
+Fearful - Defeat the leader of a group of enemies or perform a savage Heat Action and some enemies might back away with a blue aura on them. They are vulnerable in this state.
+Angry - Taunt or knock them down and some enemies will decide they're angry now and get a red aura. They will typically charge you recklessly as a result, so be wary.
+__________________________________________________________________________
+Mr. Shakedown
+New to Yakuza 0 is a special enemy type known as Mr. Shakedown. He gets a focus, so I felt it important to give him his own section. Mr. Shakedown is actually a series of several large and muscular gentlemen who occupy both Kamurocho and Sotenbori. After you get introduced to the first one in Chapter 2, he'll be found roaming the streets. He is always on the map somewhere, so keep your eyes open. If the giant stature wasn't a giveaway, he'll also have a yen count hovering above his head showing how much he's carrying.
+
+The main idea behind this guy is that he's looking to shake you down, as in steal all your money, and he's a difficult fight that hits hard. If you lose the fight, you won't get game over, but you will lose all the money you're carrying, which will then be added to his own total. At higher amounts, this can seem devastating. If on the other hand you defeat him, you get all the yen he was listed as carrying, as well as any yen you "shook" off him during the fight. That includes any yen he might have shaken off you in the past.
+
+The good news is that if you don't want to fight Mr. Shakedown, you won't have any trouble avoiding him as long as you don't blindly collide with him. He can't run like the other enemies in the game, so he'll just notice you and start walking slowly towards you with murderous intent. Furthermore, if you have the "Encounter Finder" item equipped (which you can get from Substories #23 and #58) then he'll show up on the map as a purple arrow (and he'll even show up on the Pause Menu map).
+
+If you wish to fight Mr. Shakedown, I recommend the following pre-fight tips:
+
+1.Have a good number of healing items. I suggest Staminan Royales, because they're readily available at the pharmacy in town. A good six to eight, depending on how confident you're feeling. They are expensive compared to the others, but with the amount of money you'll be making, the cost is negligible.
+2.Carry one or more weapons. Heat Actions do a good amount of damage to Mr. SD, and since setting up unarmed moves will be difficult given the fight, you should rely on things you carry to help spend your Heat. It appears that Daggers do a lot of damage compared to other weapons.
+3.Once you get access to a Zap Gun, use it almost exclusively against him. Zap Guns can be found through Dragon & Tiger as early as Chapter 4, but more easily once you get to Chapter 7, so prioritize getting one of those in your list so you can buy more. Have about two or three on-hand and you'll cause repeated damage to him that no other weapon can match. To a lesser extent, a Slime Gun can do similar damage if you haven't been able to get a Zap Gun yet.
+As an added note, remember that when using these guns, to use the Fighting Stance (right shoulder button) and the Heavy Attack button to fire. Targeting Mr. SD while he's starting up an attack or recovering from an attack will almost guarantee your shot will hit. He CAN dodge your shots, so firing blindly will just empty the gun quickly.
+4.Have a Secret Wallet and/or a Security Wallet equipped. These accessories apply a multiplier to your money intake, and they will also prevent Mr. SD from taking every last yen you have if the unfortunate happens.
+5.Consider the Avarice Shirt, a Gear that will also raise your multiplier specifically for fighting Mr. Shakedown. Be aware though that this shirt does not have high defense, so a stray hit when not at full health could lay you out immediately.
+Once you engage him, take a moment to study his pattern. All Shakedowns have the same pattern, which tend to rely on charges and wild swings. If any of these connect, they will hurt and 90% of the time knock you down, unless you've got some late-game abilities that allow you to keep standing on big hits. Very often if Mr. SD is close enough to you on the ground, he'll follow up with a stomp or slam for even more damage. Here's the breakdown:
+
+He shakes his arms a bit at his sides, then charges you. Dodge to the side or simply run out of the way.
+He has a basic combo that he can do one, two, or three strikes with. He can stop the combo after any of the three hits. Also, once he pops his yellow Heat, he can cancel attacks into a dodge. In general, just keep clear of this and don't presume the combo will stop unless he uses all three hits:
+A right-handed wild swing.
+A left-legged awkward kick.
+A double-fisted upward hammer blow.
+He does a wild spinning lariat, spinning in place. This will reach all the way around him. The good news about this attack is that if you're out of range, he has a LONG recovery on this attack. You can do almost a full combo on him once he misses it, or get a bunch of Zap Gun shots in.
+As mentioned, if you're knocked on the ground, he will stomp or flip you for massive damage. If you know this is coming, consider healing up while on the ground so you can survive it.
+Once you get him down to about 30% health, he'll activate his Heat, glowing yellow. This makes him faster, stronger, and less likely to stagger even against big hits.
+In addition to the attacks above, he also adds a charge with his hands ready to grab you. This will take you into a Heat Action that will almost certainly defeat you, so be extra careful around those. Furthermore, the tracking on this charge is better than it would be without Heat, so don't be surprised if he chases you just a little.
+Given all this, don't fight him with a slow style like Beast Style, because you need to be able to get out of his way if necessary. If you're trying to fight him legit, focus around light strikes and a lot of evasion. Wait for a miss then tap him with a few strikes to build up Heat, then spend it on a Heat Action to keep draining his health.
+
+If you don't care about fighting him clean and are just looking for a quick cash-in, then by all means chug your Staminan Royales or anything else to increase your Heat, wade in with a weapon, and demolish him with a Heat Action, then repeat the process until victory happens.
+
+Once you defeat him, you'll get every last yen he was carrying. He'll complain at you for a moment, and then leave. After this, the "second" Mr. SD for the area will patrol the area instead. Once he's defeated, you go back to the first, and so on, switching out. Note that Kamurocho and Sotenbori each have two Mr. SDs. Only Kiryu can fight the Kamurocho ones. Only Majima can fight the Sotenbori ones.
+
+Also, it's worth pointing out that Mr. SD gets more difficult the more you defeat him. Each victory will cause him to improve his maximum health, This improvement stops after the third time you beat each Mr. SD, but will basically cap with them having 4.5 bars of health, which is no small feat.
+
+Shakedown Moneymaking
+So that's how to survive Mr. Shakedown, but how about how to exploit him? There's a useful method you can use to improve your cash flow considerably, and it all ties into one of Kiryu's Completion Point Awards called "Mr. Shakedown's Deep Pockets". With this active, when you defeat Mr. SD, you'll get 1.5 times the amount he's shown as carrying. On it's own, it seems handy, but remember that when he defeats you, he adds your money to his own. So here's the process.
+
+1.Have money. Or defeat Mr. SD to get money.
+2.Fight the next Mr. SD and purposefully lose to him. He'll take your money.
+3.Fight him again and win. You'll get 1.5 times all that money you lost to him.
+4.Repeat Step 2 and 3 as many times as you want.
+So if Mr. SD carries 1 billion, you beat him, get 1.5 billion, then lose to him and he takes back 1.5 billion, then defeat him again to get 2.25 billion. Lose that. Gain it back for 3.375 billion, then 5 billion, then 7.5 billion, then 11 billion, then 16.5 billion. You can keep doing this ad nauseum. Note that this ONLY works for Kiryu, since he has access to that Award.
+
+Shakedown Snoozing
+Just for reference's sake, there's another Award called "Sweet Dreams, Mr. Shakedown". In this case, you'll sometimes find Mr. SD snoozing in one of the parks around Kamurocho. Go up next to him and hold the Examine button to start draining his funds. After some time of doing this, you'll get a marker that he's waking up. Either release the button and wait for him to settle, or simply continue and he'll wake up. This method is a VERY slow drain, though, so I'd only use it if you need some quick cash. Furthermore, once you bottom him out, he will not replenish that money, so you'll have to fight him for no return to resume the process.
+__________________________________________________________________________
+Upgrading
+Upgrading is an interesting affair in this game. This game uses a variation on a "skill tree" theme that originated with Like a Dragon: Ishin! (a game only recently released in the West). Instead of just jamming experience or Soul Points into an upgrade, you instead use money, and progression is style-specific. You start from the center and can only get the stuff farther out if you get the stuff connected closer to the center first. The lists of upgrades in the following sections I've ordered according to circular "rank" (distance from the center) of which each style has six, and in each rank, all abilities cost the same amount (there's one exception, but I'll get to that). The first four ranks are available by default. The remaining two are only unlocked after you fulfill conditions in your character's Business venture.
+
+To get an ability, simply hover the cursor on the circle you want (you can use the directional buttons, but you can move freely with the Left Stick), and hold down the confirm button to deposit that cheddar. With the exception of health bar extensions, most abilities are tied to that specific style, so if you have Tortoise Spirit from Brawler Style (gain Heat from blocking), it won't work while you're in Rush Style, nor will it work with Beast Style until you actually unlock Tortoise Spirit in that tree.
+
+You may notice that the circles are all different colors, and this is meant to be a throwback to the old style of upgrading in the series. In other games, you had abilities broken up by "Soul", "Tech", "Body", and "Essence/Heat", and the colors of the circles in the trees are meant to reflect that:
+
+Red circles are "Soul" abilities, or your fighting spirit. These abilities tend to be based around the accumulation of Heat, and in some cases the accumulation of damage, but they're passive, by and large.
+Cyan circles are "Tech" abilities, or your knowledge of combat. These are actually moves you can perform, such as a new type of flying kick, or an extended rush combo, or a back-breaking throw.
+Yellow circles are "Body" abilities, or your physical fortitude. A good half of these are health bar extensions, but there are also those focused around resisting damage and grappling.
+Blue circles are "Essence/Heat" abilities, tailored around Heat. These are either Heat Actions or they are means of increasing Heat faster and decreasing Heat slower.
+Pink circles are "Master" abilities, and must be unlocked individually. They start as a gray circle with an "M" inside. By visiting the Master of your style, you will learn new aspects of that style, which may be a new move, Heat Action, or something passive. Your Master will only teach you these abilities if you have the adjacent ability unlocked, and some Masters will only teach you in numerical order. Also, while some Masters require payment to do their training, once you pass that training, the ability they unlock is free of charge on the skill tree.
+__________________________________________________________________________
+Kazuma Kiryu: Brawler Style
+Kiryu has this style from the beginning, but doesn't "realize" it until a little ways into Chapter 1 when he speaks to Bacchus. This can be considered Kiryu's "balance" style as it mid-ranks on power and speed. It can also be considered the closest of the three initial styles to his "true" style from games past that players are likely more familiar with.
+
+The initial special ability with this style is the Resolute Counter. If Kiryu takes a hit that's not a knockdown, he'll briefly flash red as he reels back. Hit Light Attack, Heavy Attack, or Grab at the same time as this flash and Kiryu will immediately respond with the corresponding attack to his attacker. This can kinda save button-mashers, as you'll likely already be pressing buttons when you unexpectedly get hit, and are right on the retaliation.
+
+It should be noted that this the only style with a cheap upgrade. Phoenix Spirit costs a trifling 30,000 yen and is designed to be your first upgrade once Bacchus speaks to you for the first time.
+
+Here are some notes on the style:
+
+The Rush Combo for this style has four hits.
+This style has a grab.
+Kiryu can quickstep once in this style.
+That's honestly all to say at the moment since it's your first style and matches closely with the "normal" combat mechanics. Notes on later styles often reference back to this style as the "default" in comparison.
+
+#	Name	Color	Effect
+Rank 1 - Cost: 400,000 (Except for Phoenix Spirit)
+1	Phoenix Spirit	Red	Heat Gauge rises when health is flashing red up to 2nd bar.
+2	Boost Health (S)	Yellow	Increases maximum health.
+3	Flying Kick	Cyan	Press Heavy Attack while running for a flying kick.
+Rank 2 - Cost: 2,000,000
+4	Power Surge 1	Red	Damage increase for this style.
+5	Heat Retention (Time) 1	Blue	Reduces the rate that the Heat Gauge drops over time.
+6	Extra Resolute Counter	Pink	When hit, hold the Light Attack or Heavy Attack button to deliver a charged counter.
+7	Boost Health (M)	Yellow	Increases maximum health.
+8	Essence of Face Twisting	Pink	Heat Action - Press Heavy Attack near a guarding enemy. 3rd Heat Bar only.
+9	Charged Knee Strike	Cyan	Hold down Heavy Attack and release.
+10	Spry Mastery	Yellow	Reduces the damage taken by being thrown.
+11	Heat Retention (Damage) 1	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+Rank 3 - Cost: 30,000,000
+12	White Tiger Spirit	Red	Taunting raises the Heat Gauge.
+13	Brawl Mastery (Spirit)	Red	Damage increase of counterattacks in Heat Mode.
+14	Brawl Mastery (Wrath)	Red	If your first attack sends an enemy flying, your Heat Gauge maxes out.
+15	Essence of Steadfast Counter	Blue	Heat Action - Press Heavy Attack as you get up off the ground.
+16	Quickstep Blow	Cyan	Quickstep, then press Heavy Attack.
+17	Re-Guard 1	Cyan	If your guard is broken, you can guard again more quickly. Only on 1st Heat bar.
+18	Re-Guard 2	Cyan	If your guard is broken, you can guard again more quickly. 1st or 2nd Heat bar.
+19	Essence of Disarming	Pink	Heat Action - Press Heavy Attack when an enemy with a knife attacks.
+Rank 4 - Cost: 100,000,000
+20	Power Surge 2	Red	Damage increase for this style.
+21	Heat Wave 1	Blue	Increases the amount the Heat Gauge rises when attacking.
+22	Essence of Wall Smashing	Pink	Heat Action - Press Heavy Attack with your back to a wall and an enemy approaching.
+23	Brawl Mastery (Thrashing)	Red	Grab an enemy then mash Light Attack. Only on 2nd Heat bar.
+24	Stability	Yellow	At 3rd Heat Bar, enemy attacks can't knock you down.
+25	Boost Health (L)	Yellow	Increases maximum health.
+26	Extra Quickstep Distance	Yellow	Quicksteps go farther.
+27	Essence of Finishing Blows	Pink	Heat Action - Press Light Attack three times, then Heavy Attack, then another Heavy Attack.
+28	Body Counter	Cyan	While guarding, press Heavy Attack as the enemy attacks. Less Heat means more damage.
+29	Tortoise Spirit	Red	Blocking raises the Heat Gauge up to the 2nd bar.
+30	Snatching Strike	Cyan	Light Attack three times, Heavy Attack, then Grab. Consumes Heat. Only on 3rd Heat bar.
+Rank 5 - Cost: 400,000,000
+31	Power Surge 3	Red	Damage increase for this style.
+32	Heat Wave 2	Blue	Increases the amount the Heat Gauge rises when attacking.
+33	Brawl Mastery (Ultra Spirit)	Red	Damage increase of counterattacks. Only on 3rd Heat bar.
+34	Azure Dragon Spirit	Red	Take less damage in Heat Mode.
+35	Boost Health (XL)	Yellow	Increases maximum health.
+36	Double Finishing Blow	Cyan	Light Attack four times, then Heavy Attack twice. Only on 3rd Heat bar.
+37	Kick Combo	Cyan	Heavy Attack three times in Heat Mode. Consumes Heat.
+38	Drunkards' Secret (Mean Drunk)	Red	Heat rises when you're attacked while drunk.
+39	Heat Retention (Damage) 2	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+Rank 6 - Cost: 1,000,000,000
+40	Power Surge 4	Red	Damage increase for this style.
+41	Heat Retention (Time) 2	Blue	Reduces the rate that the Heat Gauge drops over time.
+42	Yellow Dragon Spirit	Red	Recover small amount of health when you perform a Heat Action.
+43	Brawl Mastery (Unyielding)	Red	On 3rd Heat bar, you will not die, but taking a hit will drop the Heat Gauge to zero.
+44	Boost Health (XXL)	Yellow	Increases maximum health.
+45	Drunkards' Secret (Firewater)	Red	While drunk, you regain more health while eating or drinking.
+46	Breakaway Throw	Cyan	Press the Grab button when grabbed by an enemy.
+47	Drunkards' Secret (Great Tiger)	Red	Damage increase while drunk, dependent on remaining health.
+48	Counter Hook	Cyan	Press Heavy Attack while in fighting stance before an enemy attack connects.
+49
+
+Drunkards' Secret (Dulled Sense)	Red	While drunk, you're immune to stun and paralysis.
+50	Drunkards' Secret (Carouser)	Red	Heat Action damage increase while drunk and at full health.
+
+Analysis: Brawler Style is the workhorse for Kiryu. Early on in the game, you'll find it quite capable for causing good damage, but being Kiryu's "inexperienced" style, it's a little slow and sloppy, so be sure you're allowing some space and time for a good windup. Late in the game, Brawler pretty much becomes the strongest style (if not the most technically superior) because of all the extra effects you can add on. Also, maybe keep some alcohol on hand so you can stay drunk, because Brawler gets super boosts while you're drunk and you have the attendant skills. Brawler gets the most mileage in groups and slow singular enemies.
+
+Moveset
+Heavy x1 - A straight waist-high kick.
+Charged Heavy x1 - A knee strike to the chest. (Unlock: Charged Knee Strike)
+Heavy x2 - A wild downward right-handed swing. (2nd or 3rd gear required, Unlock: Kick Combo)
+Heavy x3 - A one-legged drop kick. (Same as above)
+Light x1 - A right-handed downward-left swing.
+Heavy x1 - A quick left-handed horizontal swing.
+Light x2 - A left-handed horizontal swing.
+Heavy x1 - A right-handed gut punch.
+Light x3 - A right-handed uppercut.
+Heavy x1 - A right-handed backfist.
+Grab - Grabs the enemy's leg as they fly back and pulls them into a kidney punch. (Unlock: Snatching Strike).
+Light x4 - A left roundhouse kick
+Heavy x1 - Another right-handed downward left swing.
+Heavy x2 - A side flip kick on the fallen enemy. (Unlock: Double Finishing Blow)
+Running Heavy - A two-legged drop kick. (Unlock: Flying Kick)
+Grab - Grab the enemy by the shirt.
+Light Attack - A series of three punches to the face.
+Light Attack - Repeated punches to the face until the enemy breaks away (2nd gear, Unlock: Brawl Mastery (Thrashing))
+Heavy Attack - A hard punch that knocks the enemy away.
+Throw - Grab the enemy's face and drive them to the ground.
+Quickstep - An evasive shift in the direction used on the Left Stick.
+Heavy Attack - A strike out of a quickstep. Different depending on the direction of the quickstep (Unlock: Quickstep Blow)
+Guard - A double-arm block, mostly effective against other fists, less effective against weapons.
+Taunt - Kiryu badmouths his enemy, cocking his head in a relaxed stance and gesturing them forward.
+Counter Moves
+Resolute Counter - After taking damage, press an attack button:
+Light Attack - A wild right-handed swing.
+Heavy Attack - A headbutt.
+Grab - A rushing grab. (See Grab for more info)
+Guard + Heavy Attack - Holding Guard, press Heavy Attack when an enemy attack lands to land a body blow. (Unlock: Body Counter)
+Fighting Stance + Heavy Attack - Holding Fighting Stance, press Heavy Attack the moment an enemy attack lands to perform a hook that drops the enemy. (Unlock: Counter Hook)
+__________________________________________________________________________
+Kazuma Kiryu: Rush Style
+About halfway through Chapter 1 Kiryu will learn this style by watching Bacchus' associate: Kamoji. This is Kiryu's "speed" style, focused around battering down enemies to stun them before giving them a powerful knockdown, and then quickly drifting away out of danger.
+
+Compared to Brawler Style, here are the major changes with this style:
+
+Kiryu moves and attacks a bit faster.
+Kiryu hits for less damage.
+The Rush Combo has six attacks (which can be increased).
+Following several successful Rush Combo attacks, an enemy can potentially be left in a stunned state.
+Kiryu can Quickstep three times in succession, but each extra Quickstep after the first consumes Heat.
+Holding the Guard button sets up "weaving", where Kiryu can quickly counterattack out of a successful weave. After a second of weaving, Kiryu can hold a normal guard.
+A reduced number of Heat Actions are available.
+The Grab button delivers a hard guard-breaking kick.
+You cannot grab enemies, throw enemies, or pick up weapons in this style.
+Knuckles weapons sync well with this style, and some abilities enhance them to be a force to be reckoned with.
+
+#	Name	Color	Effect
+Rank 1 - Cost: 400,000
+1	Power Surge 1	Red	Damage increase for this style.
+2	Boost Health (S)	Yellow	Increases maximum health.
+3	Rising Tornado	Cyan	Press Light Attack while on the ground to attack as you rise.
+Rank 2 - Cost: 2,000,000
+4	Hawk Spirit	Red	Taunt weak foes to gain Heat (3rd bar only).
+5	Heat Wave 1	Blue	Increases the amount the Heat Gauge rises when attacking.
+6	Heat Retention (Time) 1	Blue	Reduces the rate that the Heat Gauge drops over time.
+7	Evasive Weaving	Cyan	You can quickstep to cancel a Rush Combo.
+8	Charged Fist	Cyan	After a Rush Combo move that is a punch, hold Heavy Attack for a heavy punch.
+9	Swallow Spirit	Pink	If you quickstep just before an enemy lands an attack, you'll gain Heat.
+Rank 3 - Cost: 30,000,000
+10	Power Surge 2	Red	Damage increase for this style.
+11	Phoenix Spirit	Red	Heat Gauge rises when health is flashing red up to 2nd bar.
+12	Essence of Crushing: Wall	Blue	Heat Action - Press Heavy Attack when enemy attacks while your back is to a wall.
+13	Improved Quickstep 1	Cyan	Quicksteps are more evasive.
+14	Boost Health (M)	Yellow	Increases maximum health.
+15	Quickstep Blow	Cyan	Quickstep, then press Heavy Attack.
+16	Feint Punch	Cyan	In fighting stance, back away from the enemy and press Heavy Attack.
+17	Damage Weaving	Pink	After taking a hit, press Guard or Evade to dodge weave back into form.
+18	Floating Re-Guard 1	Pink	If your guard is broken, you can guard again more quickly. 1st Heat Bar only.
+Rank 4 - Cost: 100,000,000
+19	Essence of Relentless Barrage	Pink	Heat Action - Press Heavy Attack when facing a frightened enemy.
+20	Extra Quickstep Distance	Yellow	Quicksteps go farther and Heat is reduced less when using them.
+21	Eagle Spirit	Red	Damage increase when attacking stunned enemies. Does not affect Heat Actions.
+22	Boost Health (L)	Yellow	Increases maximum health.
+23	Counter Quickstep	Pink	In fighting stance, press Grab right before an enemy connects to move behind them.
+24	Essence of the Iron Fist	Blue	Heat Action - With Knuckles equipped and in fighting stance, press Heavy Attack.
+25	Owl Spirit	Red	Gain Heat while performing a Weaving Guard. Only works on 1st Heat Bar.
+26	Step Out	Cyan	You will automatically evade after finishing a Rush Combo.
+Rank 5 - Cost: 400,000,000
+27	Power Surge 3	Red	Damage increase for this style.
+28	Heat Wave 2	Blue	Increases the amount the Heat Gauge rises when attacking.
+29	Fighters' Secret (Final Round)	Red	Damage increase when your health is flashing red.
+30	Fighters' Secret (Frenzy)	Red	Damage increase when on your 3rd Heat Bar.
+31	Boost Health (XL)	Yellow	Increases maximum health.
+32	Weaving Quickstep	Cyan	After performing a Weaving Guard, press Evade to quickly quickstep away.
+33	Charged Kick	Cyan	After a Rush Combo move that is a kick, hold Heavy Attack for a heavy kick.
+34	Rush Combo 7	Cyan	Can Rush Combo up to seven times.
+35	Raptor Mastery (Cool Start)	Cyan	At the start of a battle, evade an enemy's attack on the 1st Heat Bar for a big Heat increase.
+36	Weapon Master (Knuckles)	Red	Durability of Knuckles does not decrease on the 1st Heat Bar.
+37	Floating Re-Guard 2	Cyan	If your guard is broken, you can guard again more quickly. All Heat Bars.
+Rank 6 - Cost: 1,000,000,000
+38	Power Surge 4	Red	Damage increase for this style.
+39	Heat Retention (Time) 2	Blue	Reduces the rate that the Heat Gauge drops over time.
+40	Essence of Crushing: Elbow	Blue	Heat Action - Press Heavy Attack as an enemy attacks.
+41	Improved Quickstep 2	Cyan	Quicksteps are more evasive.
+42	Fighters' Secret (Flawless)	Red	Damage is increased from the start of battle until you take damage.
+43	Boost Health (XXL)	Yellow	Increases maximum health.
+44	Fighters' Secret (Champion)	Red	Damage increase on Heat Actions when health is flashing red.
+45	Essence of Sword Shattering	Blue	Heat Action - With Knuckles equipped, press Heavy Attack against a sword attack.
+46	Rush Combo 8	Cyan	Can Rush Combo up to eight times.
+47	Raptor Mastery (Nighthawk)	Cyan	Evading an enemy's attack with Quickstep can slip you right behind them.
+48	Raptor Mastery (Shadow)	Cyan	Taunt enemies to make them guard. Only on 1st Heat Bar.
+49	Raptor Mastery (Powerful Blow)	Cyan	Charged attacks are less likely to be interrupted.
+50	Fighters' Secret (Red Flame)	Red	Charged attacks cannot be blocked when your health is flashing red.
+
+Analysis: If facing a singular difficult enemy, like a Mr. Shakedown, for example, Rush is a safe bet. You won't cause a lot of damage, but you'll be so slippery that it'll be far easier to avoid any of their powerful attacks, either with weaving or with the multiple Quicksteps. As you face more enemies at once, Rush tends to lose its luster, as you'll almost only ever be hurting one enemy with your attacks, allowing enemies around you to swarm.
+
+Moveset
+Heavy x1 - A right-handed uppercut.
+Light x1 - Step in to a left jab.
+Heavy x1 - Right-handed lunging punch.
+Charged Heavy - Charging delivers a stronger swing. (Unlock: Charged Fist)
+Quickstep - Cancel the Rush Combo into a quickstep; can be used at any point in the Rush Combo. (Unlock: Evasive Weaving)
+Light x2 - Right jab.
+Heavy x1 - Right-handed lunging punch.
+Charged Heavy - Charging delivers a stronger swing. (Unlock: Charged Fist)
+Light x3 - Left hook.
+Heavy x1 - Right-handed lunging punch.
+Charged Heavy - Charging delivers a stronger swing. (Unlock: Charged Fist)
+Light x4 - Right body blow.
+Heavy x1 - Right-handed lunging punch.
+Charged Heavy - Charging delivers a stronger swing. (Unlock: Charged Fist)
+Light x5 - A quick left uppercut.
+Heavy x1 - Right-handed lunging punch.
+Charged Heavy - Charging delivers a stronger swing. (Unlock: Charged Fist)
+Light x6 - Right roundhouse kick.
+Heavy x1 - Left roundhouse kick.
+Charged Heavy - Charging delivers a wider and stronger swinging kick. (Unlock: Charged Kick)
+Light x7 - Left roundhouse kick. (Unlock: Rush Combo 7)
+Heavy x1 - Left roundhouse kick.
+Charged Heavy - Charging delivers a wider and stronger swinging kick. (Unlock: Charged Kick)
+Light x8 - Hopping rising right kick. (Unlock: Rush Combo 8)
+Heavy x1 - Left roundhouse kick.
+Charged Heavy - Charging delivers a wider and stronger swinging kick. (Unlock: Charged Kick)
+Light Attack (while on the ground) - Flip to your feet with a spin kick. (Unlock: Rising Tornado)
+Grab - A hopping right kick that can break guards.
+Quickstep - An evasive shift in the direction used on the Left Stick.
+Quickstep x2 - A second evasive shift.
+Quickstep x3 - A third evasive shift.
+Heavy Attack x1 - A strike out of any quickstep. Different depending on the direction of the quickstep. This can be difficult to do in Rush. The full distance of the quickstep must complete before you can strike. (Unlock: Quickstep Blow)
+Quickstep (after taking damage) - React from damage into a weave. (Unlock: Damage Weaving)
+Fighting Stance + Quickstep + Heavy Attack - Quickstep backwards, then press Heavy Attack to deliver a lunging right punch. (Unlock: Feint Punch)
+Weaving Guard - A dodging weave which will evade incoming attacks. After a second of holding the button, you will settle in a double-arm block , mostly effective against other fists, less effective against weapons.
+Quickstep x1 - Dodge slightly out of a weave. (Unlock: Weaving Quickstep)
+Taunt - Kiryu dips his body lower and feints a pair of low punches.
+Counter Moves
+Fighting Stance + Quickstep - If you slide behind an enemy just before they strike, you'll end up behind them and they'll lose sight of you for a moment. (Unlock: Raptor Mastery: Nighthawk)
+Fighting Stance + Grab - Holding Fighting Stance, press Grab the moment an enemy attack lands to slide behind them. (Unlock: Counter Quickstep)
+__________________________________________________________________________
+Kazuma Kiryu: Beast Style
+Kiryu will learn this style not long into Chapter 2 after he encounters Miss Tatsu as part of the story. This is Kiryu's "power" style, and it is focused on slowly but heavily causing as much damage as possible in as wide a range as possible, while tanking and ignoring any incoming damage.
+
+Compared to the Brawler Style, here are the major changes to this style:
+
+Kiryu moves and attacks a LOT slower.
+Kiryu hits a lot harder, and in a wider range.
+The Rush Combo caps at three strikes.
+Press Light Attack near a weapon on the ground to automatically pick it up and swing it.
+Weapon attack moves differ in Beast than in Brawler (or Legend). Small-to-medium weapons have wider slower swings. Large weapons have brutally wider swings that can very easily decimate a group.
+The Quickstep is not very quick at all, but can sometimes be an evasive roll.
+Instead of a normal frontal guard that negates damage, holding the Guard button will invoke "Resist Guard", whereby Kiryu will take reduced damage, but can be hit from any direction and will guard just as well.
+In addition to retaining some Brawler Style Heat Actions, an expanded list of Beast Style Heat Actions is available.
+The Grab button grabs in this style, and the Knock Away move and the Throw move tend to cause a lot more collateral damage.
+Kiryu can also grab enemies who are on the ground while in Beast Style.
+#	Name	Color	Effect
+Rank 1 - Cost: 400,000
+1	Power Surge 1	Red	Damage increase for this style.
+2	Boost Health (S)	Yellow	Increases maximum health.
+3	Guarded Charge	Cyan	Press Heavy Attack while guarding to lurch forward and attack.
+Rank 2 - Cost: 2,000,000
+4	Heat Retention (Damage) 1	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+5	Golden Fist	Yellow	Damage increase for this style while in Heat Mode.
+6	Boost Health (M)	Yellow	Increases maximum health.
+7	Guarded Weapon Charge	Pink	You can now perform Guarded Charge while holding a large weapon.
+8	Charge Attack	Cyan	Hold Heavy Attack and release for a low charging attack.
+9	Iron Fortitude	Pink	Loss of health decreases while in Resist Guard.
+Rank 3 - Cost: 30,000,000
+10	Heat Retention (Time) 1	Blue	Reduces the rate that the Heat Gauge drops over time.
+11	Iron Gut	Yellow	At 3rd Heat Bar, you can Resist Guard knife or gun attacks.
+12	Essence of the Beast: Overrun	Pink	Heat Action - While health is full, on the 3rd Heat Bar, and near at least four enemies, press Light Attack three times, and Heavy Attack twice.
+13	Boost Health (L)	Yellow	Increases maximum health.
+14	Crushing Hammer	Pink	While in Resist Guard, press Heavy Attack when attacked.
+15	Combo Resist	Cyan	Guard while in a Rush Combo to quickly move into a Resist Guard.
+16	Essence of the Beast: Wall Pin	Pink	Heat Action - Press Heavy Attack while holding a large weapon (like a bicycle or shop sign) and with the enemy backed to the wall.
+17	Heat Wave 1	Blue	Increases the amount the Heat Gauge rises when attacking.
+Rank 4 - Cost: 100,000,000
+18	Power Surge 2	Red	Damage increase for this style.
+19	Steel Gut	Yellow	While in Heat Mode, you can Resist Guard knife or gun attacks.
+20	Boost Health (XL)	Yellow	Increases maximum health.
+21	Essence of the Beast: Dual Stab	Blue	Heat Action - While holding a pole weapon that's found on the street, press Heavy Attack near an enemy.
+22	Clothesline Bash	Cyan	Resist Guard, then press Light Attack when attacked. 3rd Heat Bar only.
+23	Steel Fortitude	Yellow	Loss of health decreases while in Resist Guard.
+24	Essence of the Beast: Torment	Blue	Heat Action - On 3rd Heat Bar, Resist Guard, then press Fighting Stance and Heavy Attack when struck.
+Rank 5 - Cost: 400,000,000
+25	Power Surge 3	Red	Damage increase for this style.
+26	Tortoise Spirit	Red	Blocking attacks raises the Heat Gauge up to the 2nd bar.
+27	Herculean Fist	Yellow	While in Heat Mode, you're less likely to staggered out of a Rush Combo.
+28	Boost Health (XXXL)	Yellow	Increases maximum health.
+29	Boost Health (XXL)	Yellow	Increases maximum health.
+30	Beast Mastery (Throwing)	Yellow	Damage increase on thrown enemies and objects.
+31	Bear Hug	Cyan	Resist Guard, then press Grab when struck. 3rd Heat Bar only.
+32	Charging Bear Hug	Cyan	Resist Guard, then press Heavy Attack to charge and grab an enemy. 3rd Heat Bar only.
+33	Beast Mastery (Defang)	Yellow	When using Charge Attack, you will disarm enemies guarding with weapons. 3rd Heat Bar only.
+34	Secret of the Destroyer: Gorged	Red	Significant damage increase when health is full.
+35	Secret of the Destroyer: Glutton	Red	Health items restore more health.
+36	Heat Retention (Damage) 2	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+Rank 6 - Cost: 1,000,000,000
+37	Power Surge 4	Red	Damage increase for this style.
+38	Herculean Gut	Yellow	Resist Guard immediately when an enemy attacks to take no damage. 3rd Heat Bar only.
+39	Azure Dragon Spirit	Red	Take less damage in Heat Mode.
+40	Weapon Master (Defense)	Red	Durability does not decrease when defending with a weapon.
+41	Boost Health (Max)	Yellow	Increases maximum health.
+42	Beast Mastery (Grip)	Yellow	Light Attack, Light Attack, Heavy Attack will knockdown enemies with their guard up.
+43	Secret of the Destroyer: Strike	Red	If your opening attack is a weapon attack that sends an enemy flying, you get a large Heat boost if you're on the 1st Heat Bar.
+44	Beast Mastery (Explosive Body)	Yellow	Resist Guard to make enemies lose their weapons when they hit you, except for blades. 3rd Heat Bar only.
+45	Secret of the Destroyer: Stout	Red	While in Heat Mode, press Taunt to recover health at the cost of Heat.
+46	Secret of the Destroyer: Adroit	Red	You're less likely to be staggered at the 3rd Heat Bar. Also reduces damage when thrown.
+47	Herculean Fortitude	Yellow	Loss of health decreases while in Resist Guard.
+48	Cyclone Sling	Cyan	Quickstep and then Grab to grab an enemy into a spinning throw. 2nd Heat Bar only.
+49	Heat Retention (Time) 2	Blue	Reduces the rate that the Heat Gauge drops over time.
+50	Heat Wave 2	Blue	Increases the amount the Heat Gauge rises when attacking.
+Analysis: Beast Style shines, absolutely SHINES, when fighting random encounters on the street. If you can get an area where you'll facing a group of guys and there are items lying around, you'll most likely demolish the lot of them with a few swings. When there are no items, though, the style is less useful, particularly in the early stages. I wouldn't suggest using it at all against singular opponents, personally.
+
+Moveset
+Heavy x1 - A short shoulder charge.
+Charged Heavy x1 - Charging up turns the charge into a longer charge that ends in a forward roll. (Unlock: Charge Attack)
+Light x1 - A wide right-handed horizontal swing.
+Heavy x1 - A quick double-footed drop kick.
+Guard - Transition to a Resist Guard if an enemy strikes any time during the Rush Combo. (Unlock: Combo Resist)
+Light x2 - A leftward horizontal swing with both fists.
+Heavy x1 - A right-handed lunging clothesline strike.
+Light x3 - A right-handed downward swing.
+Heavy x1 - A lunging charge.
+Charged Heavy x1 - A more powerful lunging charge. (Unlock: Charge Attack)
+Light x1 (near a weapon) - Automatically pick up the weapon, beginning a combo with it.
+Grab - Grab the enemy by the shirt.
+Light Attack - A headbutt that knocks the enemy away.
+Heavy Attack - Grab the enemy's face and drive them to the ground.
+Throw - Grab the enemy's collar and flip them one-handed over your head, slamming them to the ground.
+Quickstep - A slow, lumbering shift in the direction used on the Left Stick.
+Grab - Press just after dodging an enemy's attack and Kiryu you will lift the enemy by the back over his head, and throw them spinning to the ground. (2nd gear only, Unlock: Cyclone Sling)
+Guard - Bracing the elbows against the body, Kiryu can guard from all sides, but still take a small amount of damage.
+Heavy Attack - Kiryu crosses his arms in front of his face and runs forward. This does no damage. (Unlock: Guarded Charge)
+Heavy Attack - Kiryu crosses his arms in front and grabs the nearest enemy, crushing them in a bear hug. (3rd gear only, Unlock: Charging Bear Hug)
+Heavy Attack (while holding large weapon) - Kiryu rushes the enemy with the weapon out in front. (Unlock: Guarded Weapon Charge)
+Taunt - Kiryu roars and poses with his arms in a feral stance.
+Counter Moves
+Guard + Light Attack - Holding Guard, press Light Attack when an enemy attack lands to unleash a spinning clothesline. (Unlock: Clothesline Bash)
+Guard + Heavy Attack - Holding Guard, press Heavy Attack when an enemy attack lands to leap and slam both fists down on the enemy. (Unlock: Crushing Hammer)
+Guard + Grab - Holding Guard, press Grab the moment an enemy attack lands to grab the enemy and crush them in a bear hug. (Unlock: Bear Hug)
+__________________________________________________________________________
+Kazuma Kiryu: Legend Style
+Kiryu's secret style is the Dragon of Dojima Style. He unlocks it once he completes the Real Estate Royale storyline. You can't switch to the style like with the others using the D-Pad. Instead, go to the Pause Menu and hit the indicated button to switch over. On PS it's the Square button, on XB it's the Y button.
+
+Dragon of Dojima is Kiryu's classic style from other Yakuza games. It's a precise and relatively speedy style with great power and a lot of cool options.
+
+The style itself has some unique properties:
+
+The Rush Combo has four attacks.
+You have "Double Finishing Blow" by default, and it will work of any Finishing Blow from a Rush Combo.
+You can Grab with this style, both standing enemies and downed enemies.
+There are also some specific special moves you don't even have to unlock:
+Serenity - Press Taunt immediately after a quickstep to lower your Heat.
+Finishing Throw - While in Heat Mode, after a Finishing Blow connects, press Grab and you'll perform a damaging throw that can hit other enemies. It consumes Heat.
+Knockback Counter - While in Heat Mode, guard and when an enemy strikes, press Heavy Attack to knock them back.
+Iron Fist Counter - While on the 3rd Heat Bar, hold Fighting Stance and press Heavy Attack just as an enemy attacks.
+Twist Counter - Enter Fighting Stance and press Grab just as an enemy attacks.
+Yinglong Spirit - Doesn't go into detail, but basically is the idea that several passive abilities from other styles will apply here. I can confirm that Phoenix Spirit, White Tiger Spirit, and Tortoise Spirit apply.
+Charting the skill tree is pretty pointless here. There are four options to apply to, and all you do is drop increasing amounts of money on those four options:
+
+Ultra Heat Wave (Red) - Increases the rate at which Heat accumulates.
+Ultra Attack Boost (Cyan) - Increases your attack damage.
+Ultra Health Boost (Yellow) - Increases your maximum health.
+Ultra Heat Action Power (Blue) - Increases your Heat Action damage.
+All of these are small increments, but there are so many of them to apply. Once you get the "Limit Breaker" CP Reward, the "locked" part will open up and you can fill the entire skill tree, after which it will then reset and gain a "level". You can increase this level through constant spending and upgrading all the way to Lv. 999, but I don't really recommend that as it's far too much time for a point where you're probably good enough at the game to finish up and the game is quite completable without it.
+
+Analysis: As a special style, you'll find it's faster than Brawler and stronger than Rush. You have quite a few options with Heat Actions, as well, not to mention all the counter moves. It's not completely broken, but you do have a decided advantage while using it that you don't get with the other styles.
+
+Moveset
+Heavy x1 - A straight chest-high kick.
+Light x1 - A left jab.
+Heavy x1 - A right-handed downward punch.
+Heavy x2 - A left-handed uppercut.
+Grab - Grabs the enemy's leg and flips them over the shoulder to the ground. (2nd or 3rd gear required)
+Light x2 - A right body blow.
+Heavy x1 - A right-handed hook.
+Heavy x2 - A knee strike.
+Grab - Grabs the enemy, bends them over his back, and slams them to the ground. (2nd or 3rd gear required)
+Light x3 - A left hook.
+Heavy x1 - A right-handed uppercut.
+Heavy x2 - a double-fisted hammer blow.
+Grab - Grabs the enemy by the waist as they fly back and spins them around before tossing them. (2nd or 3rd gear required)
+Light x4 - A right side kick.
+Heavy x1 - A left roundhouse kick.
+Heavy x2 - A forward flip kick on the fallen enemy.
+Grab - Grabs the enemy by the waist and power-bombs them. (2nd or 3rd gear required)
+Running Heavy - A two-legged drop kick.
+Light Attack (while on the ground) - Sweeps the enemy's leg while standing up.
+Grab - Grab the enemy by the shirt.
+Light Attack - A series of three punches to the face.
+Heavy Attack - A side kick that knocks the enemy away.
+Throw - A shoulder throw.
+Grab (enemy on ground)
+Grab by head - Stand the enemy up, where they will be stunned for a short time.
+Grab by leg - Grab the enemy's ankle.
+Heavy Attack - Kicks the enemy in the back while they lie on the ground.
+Grab - Flips the enemy by their leg over the shoulder.
+Quickstep - An evasive shift in the direction used on the Left Stick.
+Guard - A double-arm block, mostly effective against other fists, less effective against weapons.
+Taunt - Kiryu badmouths his enemy, beckoning them towards him.
+Counter Moves
+Guard + Heavy Attack - Holding Guard, press Heavy Attack when an enemy attack lands to land to unleash a knee strike, knocking them back. (2nd or 3rd gear required)
+Fighting Stance + Heavy Attack - Holding Fighting Stance, press Heavy Attack the moment an enemy attack lands to perform a short-range punch that blasts them back. (3rd gear required)
+Fighting Stance + Grab - Holding Fighting Stance, press Grab the moment an enemy attack lands to grab their arm, dodge their strike, and sweep their legs out from under them.
+__________________________________________________________________________
+Goro Majima: Thug Style
+Majima's default style is his balance style. It's slightly less powerful than Kiryu's Brawler Style, but also slightly quicker, and certainly more precise. Of Majima's three styles, it's the one to focus on a single person more than a crowd.
+
+Here are some elements to the style:
+
+The Rush Combo is four hits, but you can immediately string a second Rush Combo in right behind it before needing a second to recover, and there are unlockable abilities that allow you to put even more four-hit sets into the loop.
+The Light-Light-Heavy move is an "Eye Poke" that causes an enemy to recoil.
+This is the only Majima style that allows grabbing.
+Majima can Quickstep twice in succession.
+
+#	Name	Color	Effect
+Rank 1 - Cost: 400,000
+1	Power Surge 1	Red	Damage increase for this style.
+2	Boost Health (S)	Yellow	Increases maximum health.
+3	Rolling Kick	Cyan	Press Heavy Attack while running to deliver a rolling kick.
+Rank 2 - Cost: 2,000,000
+4	Phoenix Spirit	Red	Heat Gauge rises when health is flashing red up to 2nd bar.
+5	Thug Cunning: Evasion Strike	Pink	Quickstep, then press Heavy Attack for a quick strike.
+6	Charged Body Blow	Cyan	Hold down Heavy Attack and release for a body blow.
+7	Essence of the Thug: Weapon Grab	Blue	Heat Action - Press Heavy Attack near an enemy that is holding a light weapon.
+8	Thug Cunning: Enlightenment	Pink	Guard to increase Heat up to the 2nd bar. Also, your guard cannot be broken unless hit with a knife or bullet.
+Rank 3 - Cost: 15,000,000
+9	Heat Wave 1	Blue	Increases the amount the Heat Gauge rises when attacking.
+10	White Snake Venom	Red	Grab an enemy, then press Guard to shift your hold to raise Heat.
+11	White Tiger Spirit	Red	Taunting raises the Heat Gauge.
+12	Thug Cunning: Counterattack	Pink	While in Heat Mode, when hit press Light or Heavy Attack to counterattack.
+13	Boost Health (M)	Yellow	Increases maximum health.
+14	Rising Kick	Cyan	Press Heavy Attack when knocked down to unleash a sweep kick.
+15	Essence of the Thug: Blade Steal	Blue	Heat Action - Press Heavy Attack near an enemy marked as hiding a knife.
+16	Thug Mastery (Insight)	Cyan	Hold L2/LT (Center Camera) then press Taunt to mark enemies who have hidden weapons. Knives are yellow and guns are red.
+17	Thug Cunning: Frantic Throw	Pink	When grabbed, press Circle to toss your enemy to the ground.
+Rank 4 - Cost: 50,000,000
+18	Power Surge 2	Red	Damage increase for this style.
+19	Yellow Snake Venom	Red	Heat Gauge rises when you dodge attacks. 1st Heat Bar only.
+20	Heat Retention (Damage) 1	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+21	Improved Quickstep 1	Cyan	Quicksteps are more evasive.
+22	Boost Health (L)	Yellow	Increases maximum health.
+23	Essence of the Thug: Subdue	Blue	Heat Action - Press Heavy Attack near a fallen enemy while health is flashing red.
+24	Thug Cunning: Harsh Lesson	Pink	Press Grab while in fighting stance before an enemy attack connects. 3rd Heat Bar only.
+Note that the in-game description is incorrect on this on PS4.
+25	Reverse Shin Strike	Cyan	Push the Left Stick in the direction facing away from your character and press Heavy Attack to kick behind you.
+26	Combo Boost 1	Cyan	Allows you to string a third Rush Combo in after the second.
+27	Heat Retention (Time) 1	Blue	Reduces the rate that the Heat Gauge drops over time.
+Rank 5 - Cost: 200,000,000
+28	Power Surge 3	Red	Damage increase for this style.
+29	Black Snake Venom	Red	Light, Light, Heavy Attack (the Eye Poke) will cause enemies to lose sight of Majima.
+30	Green Snake Venom	Cyan	Grab an enemy, then press Guard to shift your hold faster.
+31	Boost Health (XL)	Yellow	Increases maximum health.
+32	Secret of the Night Lord (Scold)	Cyan	Boosts the power of Harsh Lesson.
+33	Combo Boost 2	Cyan	Allows you to string a fourth Rush Combo in after the third.
+34	Thug Mastery (Great Serpent)	Cyan	Essence of the Thug: Choke Out does more damage.
+35	Heat Retention (Time) 2	Blue	Reduces the rate that the Heat Gauge drops over time.
+Rank 6 - Cost: 500,000,000
+36	Power Surge 4	Red	Damage increase for this style.
+37	Heat Retention (Damage) 2	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+38	Secret of the Night Lord (Poise)	Red	Cannot be staggered by knife or gun attacks.
+39	Azure Dragon Spirit	Red	Take less damage in Heat Mode.
+40	Secret of the Night Lord (Calm)	Red	Damage increase with full health and on 1st Heat Bar.
+41	Improved Quickstep 2	Cyan	Quicksteps are more evasive.
+42	Boost Health (XXL)	Yellow	Increases maximum health.
+43	Secret of the Night Lord (Feast)	Red	Heat Actions cause more damage on 3rd Heat Bar.
+44	Secret of the Night Lord (Cruel)	Red	Damage increase on a first attack if the enemy can't see you or are stunned.
+45	Essence of the Thug: Pursuit	Blue	Heat Action - Grab an enemy, then press Heavy Attack as they attempt to escape.
+46	Combo Boost 3	Cyan	Allows you to string a fifth Rush Combo in after the fourth.
+47	Essence of the Thug: Gun Grab	Blue	Heat Action - Press Heavy Attack near an enemy who is holding a gun.
+48	Thug Mastery (Demonic Shadow)	Cyan	Quickstep when an enemy attacks and you'll circle behind them.
+49	Thug Mastery (Red Snake)	Cyan	Damage increase when health is flashing red.
+50	Heat Wave 2	Blue	Increases the amount the Heat Gauge rises when attacking.
+Analysis: Thug Style is best for single opponents, I find. There's a precision and relentlessness to it, and you'll find that while Breaker is technically quicker, you'll have the ability to make quicker reactions with Thug; striking like a cobra, then slinking away to evade.
+
+Moveset
+Heavy x1 - A straight kick.
+Charged Heavy x1 - A lunging body blow. (Unlock: Charged Body Blow)
+Light x1 - A left jab.
+Heavy x1 - A reverse vertical heel kick.
+Light x2 - A reverse strike with the left elbow.
+Heavy x1 - An eye poke.
+Light x3 - A right elbow.
+Heavy x1 - A spin kick.
+Light x4 - A spinning heel kick
+Heavy x1 - A spin follow-through into a straight kick.
+Light x5 - A left elbow.
+Heavy x1 - A jumping spin kick. This is the Finishing Blow for every strike in the combo hereafter.
+Light x6 - A right punch.
+Light x7 - An uppercut.
+Light x8 - A right-fisted hammer blow.
+Light x9 - Resume from Light x5. (Unlock: Combo Boost 1, Combo Boost 2, Combo Boost 3)
+Running Heavy - A forward flip kick. (Unlock: Rolling Kick)
+Heavy (tap Left Stick away from the way you're facing) - A reverse kick to the legs. (Unlock: Reverse Shin Strike)
+Heavy (as soon as you hit the ground) - A sweep to the enemy's legs. (Unlock: Rising Kick)
+Grab - Grab the enemy by the shirt.
+Light Attack - A series of three punches, two to the body, and the last to the face..
+Heavy Attack - Yanks the enemy towards Majima, and then a fierce elbow to the gut.
+Throw - Hop on the enemy's shoulders and use Majima's weight to flip them to the ground.
+Quickstep x1 - An evasive shift in the direction used on the Left Stick.
+Quickstep x2 - A second evasive shift.
+Heavy Attack - A strike out of a quickstep. Different depending on the direction of the quickstep (Unlock: Thug Cunning: Evasion Strike)
+Guard - A double-arm block, mostly effective against other fists, less effective against weapons.
+Taunt - Majima flips his head back and sneers at his enemies.
+Counter Moves
+Counterattack - After taking damage, press an attack button: (Unlock: Thug Cunning: Counterattack)
+Light Attack - A drifting punch to the neck.
+Heavy Attack - A spinning backfist.
+Fighting Stance + Grab - Holding Fighting Stance, press Grab the moment an enemy attack lands to spin past them and smack the back of their head. (3rd gear only, Unlock: Thug Cunning: Harsh Lesson)
+__________________________________________________________________________
+Goro Majima: Slugger Style
+Majima learns this style in Chapter 3 when he runs across Fei Hu dealing with a dissatisfied customer. This style is Majima's power style, but it's still quite quick compared to Kiryu's Beast Style. The main point of this style is its large reach given the fact that Majima is equipped with a metal baseball bat.
+
+Compared to the Thug Style, here are the major changes:
+
+Majima wields a Pummeling Bat, a weapon of infinite durability that cannot be dropped or thrown.
+Majima attacks slower, but his range is much greater, which includes hitting those around him.
+With the bat, Majima can block weapons, including knives.
+Majima's Rush Combo is five hits in this style.
+The Light-Light-Heavy move is a "Full Swing" that can be charged before releasing for more damage.
+The Light-Light-Light-Heavy move sets up "Bat Nunchaku Swinging", which causes repeated damage the more the Heavy Attack button is pressed. The enemy AI has a very hard time responding to this.
+Majima cannot grab or pick up weapons on the ground in this style. The Grab button is a thrusting attack that can break guards.
+It's possible for Majima's bat to recoil off the environment if it hits a wall, particularly during Finishing Blows.
+Switching to a Weapon while in this style can also give advantages.
+#	Name	Color	Effect
+Rank 1 - Cost: 400,000
+1	Power Surge 1	Red	Damage increase for this style.
+2	Boost Health (S)	Yellow	Increases maximum health.
+3	All-Out Swing	Cyan	Hold down Heavy Attack to charge a powerful swing.
+Rank 2 - Cost: 2,000,000
+4	Boost Health (XXL)	Yellow	Increases maximum health.
+5	Boost Health (XL)	Yellow	Increases maximum health.
+6	Boost Health (M)	Yellow	Increases maximum health.
+7	Boost Health (L)	Yellow	Increases maximum health.
+8	Running Assault	Cyan	Press Heavy Attack while running for a lunging strike.
+9	Slugger Attack	Cyan	Switch to this style while at 3rd Heat Bar for an extra attack.
+Rank 3 - Cost: 15,000,000
+10	Power Surge 2	Red	Damage increase for this style.
+11	Essence of the Slugger	Blue	Heat Action - Press Heavy Attack after breaking an enemy's guard with the Grab button.
+12	Weapon Training (Tonfa)	Pink	Can now use Tonfa and Tonfa Heat Actions.
+13	Heat Wave 1	Blue	Increases the amount the Heat Gauge rises when attacking.
+14	Heat Retention (Time) 1	Blue	Reduces the rate that the Heat Gauge drops over time.
+Rank 4 - Cost: 50,000,000
+15	Azure Dragon Spirit	Red	Take less damage in Heat Mode.
+16	Weapon Training (Nunchaku)	Pink	Can now use Nunchaku and Nunchaku Heat Actions.
+17	Weapon Training (Katana)	Pink	Can now use Katana in a distinct style.
+18	Weapon Master (Tonfa)	Red	Tonfa durability will not decrease on 1st Heat Bar.
+19	Weapon Training (Pole)	Pink	Can now use Poles and Pole Heat Action.
+20	Weapon Master (Bat)	Red	Bat durability will not decrease on 1st Heat Bar.
+21	Weapon Training (Kali Sticks)	Pink	Can now use Kali Sticks and Kali Sticks Heat Actions.
+22	Weapon Master (1-Handed Stick)	Red	One-handed stick durability will not decrease on 1st Heat Bar.
+23	Extra Bat Nunchaku Swings	Cyan	Light-Light-Light-Heavy will generate more hits on the last move.
+24	Weapon Power Boost 1	Yellow	Damage increase with weapons in this style.
+25	Quickstep Blow	Cyan	Quickstep then press Heavy Attack.
+26	Heat Retention (Damage) 1	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+Rank 5 - Cost: 200,000,000
+27	Secret of Swing (Follow Through)	Red	Walls do not deflect bat attacks. 3rd Heat Bar only.
+28	Phoenix Spirit	Red	Heat Gauge rises when health is flashing red up to 2nd bar.
+29	Weapon Master (Nunchaku)	Red	Nunchaku durability will not decrease on 1st Heat Bar.
+30	Weapon Master (Katana)	Red	Katana durability will not decrease on 1st Heat Bar.
+31	Weapon Master (Dagger)	Red	Dagger durability will not decrease on 1st Heat Bar.
+32	Essence of the Slugger: Hack Hit	Blue	Heat Action - Heavy Attack when health is flashing red. 3rd Heat Bar only.
+33	Weapon Master (Kali Sticks)	Red	Kali Sticks durability will not decrease on 1st Heat Bar.
+34	Secret of Swing (Miracle Hit)	Red	Hold Taunt to block bullets with your bat.
+35	Weapon Power Boost 2	Yellow	Damage increase with weapons in this style.
+36	Secret of Swing (Iron Wall)	Red	Guarding works from any direction.
+37	Bat Technique: Counterattack	Cyan	When hit in Heat Mode, press Light Attack or Heavy Attack to counterattack.
+38	Heat Retention (Damage) 2	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+Rank 6 - Cost: 500,000,000
+39	Power Surge 3	Red	Damage increase for this style.
+40	Heat Retention (Time) 2	Blue	Reduces the rate that the Heat Gauge drops over time.
+41	Tortoise Spirit	Red	Blocking raises the Heat Gauge up to the 2nd bar.
+42	Bat Technique: Body Blow	Cyan	Press Heavy Attack twice after guarding an attack.
+43	Secret of Swing (Unscathed)	Red	Defend against bullets automatically while running. 3rd Heat Bar only.
+44	Weapon Master (Pole)	Red	Pole durability will not decrease on 1st Heat Bar.
+45	Secret of Swing (Hit Back)	Red	When an enemy throws a weapon, press Light or Heavy Attack to deflect it.
+46	Bat Technique (Hold Escape)	Cyan	Press Grab when held by an enemy to escape.
+47	Yellow Dragon Spirit	Red	Recover health when you perform a Heat Action.
+48	Bat Technique: Retaliate	Cyan	While on the 3rd Heat Bar, press Heavy Attack while in fighting stance before an enemy attack connects.
+49	Heat Wave 2	Blue	Increases the amount the Heat Gauge rises when attacking.
+50	Power Surge 4	Red	Damage increase for this style.
+Analysis: Be very careful using this style in tight quarters, because the bat can clink against walls and structures, leading to some serious frustration. When facing groups, you'll find Slugger easier to use than Breaker, but once you get better with each style, you'll find Breaker better at pouring on damage. Still, the bat gives you a lot of defensive options other styles don't have, and the "Bat Nunchaku" move breaks most enemy AI to the point where they don't know how to respond to it.
+
+Moveset
+Heavy x1 - A clockwise spin into a right-handed reverse swing.
+Charged Heavy x1 - Hold to prepare a baseball swing, release to swing downward. (Unlock: All-Out Swing)
+Light x1 - A one-handed swing across to the left.
+Heavy x1 - Majima turns his back to the enemy and thrusts the tip of the bat behind him.
+Light x2 - A one-handed swing back to the right.
+Heavy x1 - "Full Swing": Lifting his left leg, Majima preps a wide baseball swing that reaches all around him. Can be charged prior to release.
+Light x3 - A one-handed upward swing.
+Heavy x1 - "Bat Nunchaku": Majima flips the bat around his back between his hands. Can be mashed for repeated hits. Ends with a side kick.
+Light x4 - A "hilt" thrust with the butt of the bat.
+Heavy x1 - Majima steps forward into a double circular swing.
+Light x5 - A vertical downward swing
+Heavy x1 - Majima vaults off the tip of the bat to launch himself forward into a wide horizontal swing..
+Running Heavy - A forward handspring into a downward swing. (Unlock: Running Assault)
+Grab - Thrust out the tip of the bat to break the enemy's guard.
+Quickstep x1 - An evasive shift in the direction used on the Left Stick.
+Heavy Attack - A strike out of a quickstep. Different depending on the direction of the quickstep (Unlock: Quickstep Blow)
+Guard - A block with the bat, very effective guard even against weapons.
+Taunt - Majima spins the bat in front of him with a flourish.
+Counter Moves
+Counterattack - After taking damage, press an attack button: (2nd or 3rd gear required, Unlock: Bat Technique: Counterattack)
+Light Attack - A one-handed downward swing.
+Heavy Attack - A two-handed upward swing.
+Guard + Heavy Attack - Holding Guard, press Heavy Attack twice when an attack lands to respond with first a sweep of the hilt of the bat upwards, followed by a low one-handed swing (2nd or 3rd gear required, Unlock: Bat Technique: Body Blow)
+Fighting Stance + Heavy Attack - Holding Fighting Stance, press Heavy Attack the moment an enemy attack lands to smash the bat down on their head. (3rd gear required, Unlock: Bat Technique: Retaliate)
+__________________________________________________________________________
+Goro Majima: Breaker Style
+This is Majima's speed style, which he learns in Chapter 4 partway through his date with Akko. This style is based around flashy and flowing breakdancing moves which, while not causing a lot of damage initially, rack up quickly in speed and range as Majima cruises around the battlefield.
+
+Here are major changes compared to the Thug Style:
+
+Several of Majima's attacks now take a small amount of time to set up, particularly the initial attack.
+The Rush Combo consists of four hits.
+Instead of a regular Finishing Blow, pressing Heavy Attack at the end of a Rush Combo invokes a sustained dance move. Continue to press the Heavy Attack button for repeated hits that you can aim across a large area. Many of these hits will attack all around Majima instead of just in front of him.
+At the end of the dance moves, Majima will enter a "Freeze Pose". From here, Majima can hold off attacking as he waits for enemies to enter his range, then press Heavy Attack to spend Heat and unleash further attacks.
+Majima cannot grab or pick up weapons on the ground in this style. The Grab button is a flip kick move.
+Name	Color	Effect
+Rank 1 - Cost: 400,000
+Boost Health (S)	Yellow	Increases maximum health.
+Charged Windmill	Cyan	Hold Heavy Attack to unleash a sustained windmill.
+Rank 2 - Cost: 2,000,000
+Power Surge 1	Red	Damage increase for this style.
+Power Surge 2	Red	Damage increase for this style.
+White Tiger Spirit	Red	Taunting raises the Heat Gauge.
+Boost Health (M)	Yellow	Increases maximum health.
+Dash Pirouette	Pink	Press Heavy Attack while running.
+Pose Soul (Quickstep)	Red	Heat will increase when you evade an attack.
+Break Roll	Cyan	Press Light Attack when your guard is broken.
+Pose Soul (Finisher)	Pink	Heavy Attack near a fallen enemy will raise your Heat Gauge more.
+Rising Rotor	Cyan	Press Heavy Attack when knocked down.
+Phantom Turn	Cyan	Guard, then Quickstep for an evasive move.
+Rank 3 - Cost: 15,000,000
+Heat Retention (Damage) 1	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+Boost Health (XL)	Yellow	Increases maximum health.
+Boost Health (L)	Yellow	Increases maximum health.
+Rolling Snake	Pink	While on the 2nd Heat Bar, quickstep, then press Grab to grapple an enemy to the ground.
+Tornado Throw	Cyan	Press Grab near a one-handed weapon on the ground to immediately grab and throw it.
+Essence of Friendly Fire	Pink	Heat Action - Heavy Attack when between two enemies and one is attacking.
+Essence of the Last Stand	Blue	Heat Action - Heavy Attack when your guard is broken.
+Pose Soul (Freeze)	Red	Heat Gauge rises when you perform a Freeze Pose.
+Rank 4 - Cost: 50,000,000
+Heat Retention (Time) 1	Blue	Reduces the rate that the Heat Gauge drops over time.
+Disruption Immunity	Yellow	Cannot be stunned or paralyzed while on the 1st Heat Bar.
+Boost Health (XXL)	Yellow	Increases maximum health.
+Attack Boost (S) 1	Cyan	Damage increase for this style.
+Freeze Counter	Cyan	While in Freeze Pose, press Heavy Attack when an enemy attacks.
+Attack Boost (S) 2	Cyan	Damage increase for this style.
+Essence of Blade Biting	Pink	Heat Action - Press Heavy Attack when an enemy attacks you with a sword.
+Essence of Aerial Whirl	Blue	Heat Action - Heavy Attack while an enemy is bounced into the air.
+Pose Soul (Freeze) 2	Red	Gain more Heat during a Freeze Pose.
+Heat Wave 1	Blue	Increases the amount the Heat Gauge rises when attacking.
+Rank 5 - Cost: 200,000,000
+Breaker (Drunken Might)	Yellow	While drunk, attacks stagger enemies harder.
+Break Power	Yellow	Damage increase for moves performed following a Freeze Pose.
+Break Power 2	Yellow	Damage increase for moves performed following a Freeze Pose.
+Boost Health (XXXL)	Yellow	Increases maximum health.
+Rank 6 - Cost: 500,000,000
+Disruption Immunity 2	Yellow	Cannot be stunned or paralyzed while on the 1st or 2nd Heat Bar.
+Heat Retention (Damage) 2	Blue	Reduces the rate that the Heat Gauge drops due to damage.
+Power Surge 4	Red	Damage increase for this style.
+Heat Retention (Time) 2	Blue	Reduces the rate that the Heat Gauge drops over time.
+Power Surge 3	Red	Damage increase for this style.
+Boost Health (Max)	Yellow	Increases maximum health.
+Secret of the Strut (Glaciate)	Red	Freeze Pose is less likely be disrupted.
+Essence of Coiling Strike	Blue	Heat Action - Heavy Attack when running towards three enemies.
+Secret of the Strut (Linger)	Red	Fighting Stance while in 3rd Heat Bar to raise and maintain it.
+Breaker (Golden Gambol)	Yellow	Heat raises when you perform a spinning kick while money is in the air.
+Breaker (Balance)	Yellow	Quickstep when you're about to get knocked down to regain your feet.
+Breaker (Renewal)	Yellow	If health if flashing red, evade an enemy attack to regain some health.
+Secret of the Strut (Cavort)	Red	You can perform a Phantom Turn (Guard and Evade) during a Rush Combo.
+Secret of the Strut (Hustle)	Red	Phantom Turn is more evasive on the 3rd Heat Bar.
+Secret of the Strut (Elbow)	Red	While in fighting stance, Heavy Attack while an enemy attacks.
+Heat Wave 2	Blue	Increases the amount the Heat Gauge rises when attacking.
+Analysis: Breaker Style is the most difficult of Majima's main three styles to master, but pays off the most dividends once you do so. First thing to remember is that while Breaker is fast, it needs setup time. So, get some distance from your enemies before you start your Rush Combo. Then, hit your Finishing Move once you're in the midst of the crowd to cause the most damage. Which Finishing Move you use varies depending on the situation, but I find that my favorite is the Light-Light-Light-Heavy move, because it not only avoids any high attacks, but will also continue to strike enemies on the ground, racking up massive damage at low risk.
+
+Moveset
+Heavy x1 - A reverse spinning high kick.
+Charged Heavy x1 - Release to unleash a pair of low spinning kicks. (Unlock: Charged Windmill)
+Light x1 - Spinning left backfist.
+Heavy Dance Move - With short hops, Majima repeatedly brings his fist down on the enemy.
+Freeze Pose - A one-legged stance, with Majima shielding himself with his arms.
+Heavy Follow-Up - Majima lies flat, sticks his legs up, and the jams a kick towards the enemy.
+Light x2 - Majima continues spinning into a jumping spin kick.
+Heavy Dance Move - While on his hands, Majima spins with his legs out high..
+Freeze Pose - A handstand pose, legs bent in the air.
+Heavy Follow-Up - A low "Helicopter", Majima spinning his legs out in front of him.
+Light x3 - Majima drops to the ground with a double leg sweep. (a "Sweep Drop").
+Heavy Dance Move - .The "Windmill", Majima rotates on the ground on his shoulders while spinning his legs outward.
+Freeze Pose - A closed form on the ground, legs in the air.
+Heavy Follow-Up - Majima kicks his legs out low, then spins his legs higher in the air around him.
+Light x4 - Majima cartwheels forward with two kicks in sequence.
+Heavy Dance Move - A variation on the "Air Flare", Majima spins around on his hands with his legs spinning in a tilted circle.
+Freeze Pose - A handstand pose, legs bent in the air.
+Heavy Follow-Up - Majima stands and launches himself into a sideways flip kick.
+Running Heavy - A leaping pirouette that starts with a spin kick and ends with a low thrusting elbow. (Unlock: Dash Pirouette)
+Heavy (as soon as you hit the ground) - A head spin, legs extended. (Unlock: Rising Rotor)
+Grab - A backwards flip kick.
+Grab (near small weapon) - Sweep low, grab the weapon, and fling it at the enemy. (Unlock: Tornado Throw)
+Quickstep x1 - An evasive slide or spin in the direction used on the Left Stick.
+Grab - Wrap your legs around the enemy, bringing them to the ground, then stepping on their back. (2nd gear required, Unlock: Rolling Strike)
+Guard - A double-arm block, raising the leg, mostly effective against other fists, less effective against weapons.
+Quickstep - Evade while blocking to perform an evasive spin on the spot. (Unlock: Phantom Turn)
+Guard Break + Light Attack - When your guard is broken, press Light Attack to roll backwards and spin Majima's legs out afterwards. (Unlock: Break Roll)
+Taunt - Majima lazily does a spinning hop in place.
+Counter Moves
+Freeze Pose - Press Heavy Attack while in a Freeze Pose just as an enemy strikes to unleash your legs on them. Different depending on which pose. (Unlock: Freeze Counter)
+Fighting Stance + Heavy Attack - Holding Fighting Stance, press Heavy Attack the moment an enemy attack lands to thrust a rising elbow into their face. (3rd gear only, Unlock: Secret of the Strut: Elbow)
+__________________________________________________________________________
+Goro Majima: Legend Style
+Majima's secret style is the Mad Dog of Shimano Style. He unlocks it once he completes the Cabaret Club Czar storyline. You can't switch to the style like with the others using the D-Pad. Instead, go to the Pause Menu and hit the indicated button to switch over. On PS it's the Square button, on XB it's the Y button.
+
+Mad Dog of Shimano is a take on how Majima typically fights when you face him in other Yakuza games. He equips a dagger and becomes a frantic speed demon, slicing and dicing and sliding around the battlefield.
+
+The style itself has some unique properties:
+
+The Rush Combo is four hits.
+Charging the Heavy Attack results in a lunging stab.
+The Grab button will unleash a low sweeping kick instead of grabbing.
+Here are some special abilities for the style that you don't have to unlock:
+Mad Dog Trick: Savage - Whenever you end a combo with a Finishing Blow, Majima will enter a frenzied state and run around automatically at a high speed, which drains his Heat. If you wish to cancel this state, you can Quickstep. This ties into...
+Mad Dog Trick: Chomp - Press Heavy Attack while in "Savage" mode and Majima will brutally swing his knife. Connecting with the knife will give him some Heat and allow him to keep the frenzy going. If you miss, your Heat will drop further and likely cancel the Savage state.
+Mad Dog Trick: Frenzy - Press the Grab button while on the 3rd Heat Bar and Majima will spin with his knife out. This consumes a lot of Heat quickly.
+Mad Dog Trick: Shadow Trail - While guarding, press Quickstep for a perfectly evasive slide. While the slide consumes Heat, it will still work even if your Heat is empty.
+Mad Dog Trick: Shadow Slip - While knocked down, press Light Attack on the ground to attack as you get to your feet.
+Mad Dog Trick: Demonfire - Hold Fighting Stance and press Heavy Attack just as an enemy attacks for a brutal counterattack.
+Mad Dog's Darkness - Doesn't go into detail, but basically is the idea that several passive abilities from other styles will apply here. I can confirm that Phoenix Spirit, White Tiger Spirit, and Tortoise Spirit apply.
+Charting the skill tree is pretty pointless here. There are four options to apply to, and all you do is drop increasing amounts of money on those four options:
+
+Ultra Heat Wave (Red) - Increases the rate at which Heat accumulates.
+Ultra Attack Boost (Cyan) - Increases your attack power.
+Ultra Health Boost (Yellow) - Increases your maximum health.
+Ultra Heat Action Power (Blue) - Increases your Heat Action damage.
+All of these are small increments, but there are so many of them to apply. Once you get the "Limit Breaker" CP Reward, the "locked" part will open up and you can fill the entire skill tree, after which it will then reset and gain a "level". You can increase this level through constant spending and upgrading all the way to Lv. 999, but I don't really recommend that as it's far too much time for a point where you're probably good enough at the game to finish up and the game is quite completable without it.
+
+Analysis: Mad Dog is a difficult style to use well, because it's unhinged by its very nature. Once you enter the "Savage" mode, Majima will start careening around on his own, so be sure to steer him properly and only hit Heavy Attack once you reach an enemy, because if you're just mashing Heavy Attack, he'll whiff and lose his "combo" of strikes and you'll have to start again.
+
+Moveset
+Heavy x1 - A straight kick.
+Charged Heavy x1 - Release for a lunging stab.
+Light x1 - A spinning reverse low kick.
+Heavy x1 - A spinning reverse kick. Enters Savage Mode.
+Light x2 - A quick downward knife slash that wheels into another downward slash.
+Heavy x1 - A backward spin kick that ends in a low diving stab. Enters Savage Mode.
+Light x3 - A low sweep kick.
+Heavy x1 - A low windmill that ends in a low diving stab. Enters Savage Mode.
+Light x4 - A lunging thrust.
+Heavy x1 - A backward flip that ends with a dashing stab. Enters Savage Mode.
+Savage Mode - Press Heavy Attack while running for "Chomp", a horizontal swipe with the knife that restores Heat and continues Savage Mode.
+Running Heavy - A side flip into a downward slash.
+Light (as soon as you hit the ground) - A double kick upon rising.
+Grab - A low sweep kick.
+Grab (3rd gear required) - "Frenzy", a spinning slash that can be controlled and drains Heat quickly.
+Quickstep x1 - An evasive shift in the direction used on the Left Stick.
+Quickstep x2 - A second evasive shift.
+Heavy Attack - A strike out of a quickstep. Different depending on the direction of the quickstep. Enters Savage Mode.
+Guard - A double-arm block with the knife, mostly effective against other fists, less effective against weapons.
+Quickstep x1 - "Shadow Trail": An evasive shift that moves further than a normal quickstep.
+Taunt - Majima cackles at his foes.
+Counter Moves
+Fighting Stance + Heavy Attack - "Demonfire": Hold Fighting Stance and press Heavy Attack the moment an attack lands to deliver a devastating gut stab to an enemy.
