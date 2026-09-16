@@ -7,7 +7,7 @@ def retrieval_service(
     client: chromadb.ClientAPI,
     model: SentenceTransformer,
     collection_name: str,
-    top_k: int = 3,
+    top_k: int = 6,
 ) -> tuple[str, list[str]]:
     collection = client.get_or_create_collection(name=collection_name)
     query_embedding = model.encode(query).tolist()

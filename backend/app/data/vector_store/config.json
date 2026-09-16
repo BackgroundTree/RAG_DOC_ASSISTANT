@@ -1,6 +1,6 @@
 {
     "embedding_model": "all-MiniLM-L6-v2",
-    "chunk_size": 500,
-    "chunk_overlap": 50,
+    "chunk_size": 1000,
+    "chunk_overlap": 150,
     "collection_name": "yakuza_guide"
 }
